@@ -1,0 +1,21 @@
+szName	nItemGenre	nDetailType	nParticularType	szImageName	nObjIdx	nWidth	nHeight	szIntro	nSeries	nPrice	nLevel	bTrade	nTypeBasic1	Min	Max	nTypeBasic2	Min	Max	nTypeBasic3	Min	Max	nTypeBasic4	Min	Max	nTypeBasic5	Min	Max	nTypeBasic6	Min	Max	nTypeBasic7	Min	Max	nTypeReq1	Value	nTypeReq2	Value	nTypeReq3	Value	nTypeReq4	Value	nTypeReq5	Value	nTypeReq6	Max
+Hu©n Y H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist01.spr	36	1	2	"Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ cá Hu©n Y, d©n gian th­êng dïng. "		50	1	1																						36	1	38	1								
+M¹t LÞ H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist02.spr	36	1	2	"Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ hoa Lµi, dïng rÊt phæ biÕn. "		200	2	1																						36	7	38	1								
+Nhò H­¬ng H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist03.spr	36	1	2	"Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ c©y Nhò h­¬ng, phó gia th­êng dïng. "		450	3	1																						36	14	38	1								
+Lan Hoa H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist04.spr	36	1	2	"Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ hoa Lan, mïi vÞ thanh nh·. "		800	4	1																						36	20	38	1								
+Hîp Hoan H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist05.spr	36	1	2	"Lo¹i h­¬ng liÖu cao cÊp ®­îc tinh chÕ tõ nhiÒu lo¹i d­îc th¶o, dïng trong nh÷ng dÞp träng ®¹i. "		1250	5	1																						36	27	38	1								
+Tö T« H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist06.spr	36	1	2	"Lo¹i h­¬ng liÖu ®­îc tinh chÕ tõ hoa Tö Ph­¬ng, quan gia thÝch dïng. "		1800	6	1																						36	34	38	1								
+TrÇm §µn H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist07.spr	36	1	2	"Lo¹i h­¬ng liÖu ®­îc ®Æc chÕ tõ c©y TrÇm §µn, Hoµng gia thÝch dïng. "		2450	7	1																						36	40	38	1								
+Tiªn X¹ H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist08.spr	36	1	2	"Lo¹i h­¬ng liÖu ®­îc ®Æc chÕ tõ c¸c lo¹i X¹ h­¬ng, Hoµng gia thÝch dïng. "		3200	8	1																						36	47	38	1								
+Giµ Nam H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist09.spr	36	1	2	"Lo¹i h­¬ng liÖu chØ cã trong nh÷ng tæ kiÕn ®Æc hiÕm, quý phÈm trong hµng quý phÈm. "		4050	9	1																						36	54	38	1								
+Long Tiªn H­¬ng Nang	0	9	0	\spr\item\equip\waist\obj-waist10.spr	36	1	2	"Long Tiªn (n­íc miÕng cña Rång) , lo¹i h­¬ng liÖu cùc quý, b¶o vËt cña thÕ gian. "		5000	10	1																						36	60	38	1								
+Du Diªn Ngäc Béi 	0	9	1	\spr\item\equip\waist\obj-waist11.spr	36	1	2	"Gäi lµ Ngäc béi, thùc chÊt chØ lµ mét lo¹i ®¸ ®Ñp. "		50	1	1																						36	1	38	0								
+Kinh B¹ch Ngäc Béi 	0	9	1	\spr\item\equip\waist\obj-waist12.spr	36	1	2	"Lo¹i ngäc béi th«ng th­êng, th­ sinh nghÌo nhÊt còng cã thÓ ®eo. "		200	2	1																						36	7	38	0								
+§µo Hoa Ngäc Béi 	0	9	1	\spr\item\equip\waist\obj-waist13.spr	36	1	2	"S¾c nh­ hoa §µo, thÝch hîp víi nh÷ng thiÕu n÷ nhu m×. "		450	3	1																						36	14	38	0								
+Mai Hoa  Ngäc Béi 	0	9	1	\spr\item\equip\waist\obj-waist14.spr	36	1	2	"Trong ngäc cã kh¾c nh÷ng hoa v¨n hoa mai, rÊt khã t×m thÊy. "		800	4	1																						36	20	38	0								
+Ngò S¾c Ngäc Béi 	0	9	1	\spr\item\equip\waist\obj-waist15.spr	36	1	2	"Tuy ngò s¾c kh«ng thÓ hiÖn râ nÐt, nh­ng còng lµ mét lo¹i b¶o ngäc hiÕm thÊy. "		1250	5	1																						36	27	38	0								
+Thanh Ngäc Ngäc Béi 	0	9	1	\spr\item\equip\waist\obj-waist16.spr	36	1	2	"§­îc mµi tõ lo¹i Thanh Ngäc Quý hiÕm, c¸c v¨n nh©n Nho sÜ th­êng thÝch ®eo. "		1800	6	1																						36	34	38	0								
+BÝch Ngäc Ngäc Béi 	0	9	1	\spr\item\equip\waist\obj-waist17.spr	36	1	2	"Lo¹i BÝch Ngäc Ngäc Béi tinh quý, V­¬ng T«n c«ng tö kh«ng ai lµ kh«ng thÝch. "		2450	7	1																						36	40	38	0								
+MÆc Ngäc Ngäc Béi 	0	9	1	\spr\item\equip\waist\obj-waist18.spr	36	1	2	"Mµi tõ lo¹i MÆc Ngäc quý hiÕm, mµu s¾c thanh nh·, hµm chøa linh khÝ. "		3200	8	1																						36	47	38	0								
+Hoµng Ngäc Ngäc Béi 	0	9	1	\spr\item\equip\waist\obj-waist19.spr	36	1	2	"Mµi tõ lo¹i Hoµng Ngäc quý hiÕm, mµu s¾c thanh nh·, hµm chøa linh khÝ. "		4050	9	1																						36	54	38	0								
+D­¬ng Chi B¹ch Ngäc	0	9	1	\spr\item\equip\waist\obj-waist20.spr	36	1	2	"Lo¹i ngäc quý hiÕm nhÊt trong c¸c lo¹i ngäc, chØ Hoµng ®Õ míi cã. "		5000	10	1																						36	60	38	0								

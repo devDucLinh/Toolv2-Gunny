@@ -1,0 +1,186 @@
+DescName	nMagicType	nMin1	nMax1	nMin2	nMax2	nMin3	nMax3
+[Kim Phong] Sinh luc toi da (Khoi)	85	120	200	-1	-1	0	0
+[Kim Phong] Khang hoa (Khoi)	102	5	15	-1	-1	0	0
+[Kim Phong] Noi luc toi da (Khoi)	89	120	200	-1	-1	0	0
+[Kim Phong] Sinh luc toi da (Y Phuc)	85	120	200	-1	-1	0	0
+[Kim Phong] Thoi gian phuc hoi  (Y Phuc)	113	20	30	-1	-1	0	0
+[Kim Phong] Noi luc toi da  (Y Phuc)	89	120	200	-1	-1	0	0
+[Kim Phong] Khang tat ca (Day Chuyen)	114	2	5	-1	-1	0	0
+[Kim Phong] Khang loi  (Day Chuyen)	103	6	12	-1	-1	0	0
+[Kim Phong] Noi luc toi da  (Day Chuyen)	89	60	80	-1	-1	0	0
+[Kim Phong] Khang tat ca (Nhan 1)	85	60	80	-1	-1	0	0
+[Kim Phong] Suc manh (Nhan 1)	97	8	12	-1	-1	0	0
+[Kim Phong] Noi luc toi da  (Nhan 1)	89	60	80	-1	-1	0	0
+[Kim Phong] Sinh luc toi da (Dai)	85	80	120	-1	-1	0	0
+[Kim Phong] Thoi gian lam cham (Dai)	106	20	30	-1	-1	0	0
+[Kim Phong] Noi luc toi da (Dai)	89	80	120	-1	-1	0	0
+[Kim Phong] Sinh luc toi da (Bao Tay)	85	80	120	-1	-1	0	0
+[Kim Phong] Phong thu vat ly (Bao Tay)	104	5	8	-1	-1	0	0
+[Kim Phong] Toc do di chuyen (Bao Tay)	89	80	120	-1	-1	0	0
+[Kim Phong] Sinh luc toi da (Ngoc Boi)	85	60	80	-1	-1	0	0
+[Kim Phong] Khang doc (Ngoc Boi)	101	5	10	-1	-1	0	0
+[Kim Phong] Noi luc toi da (Ngoc Boi)	89	60	80	-1	-1	0	0
+[Kim Phong] Sinh luc toi da (Giay)	85	120	200	-1	-1	0	0
+[Kim Phong] Khang bang (Giay)	105	5	15	-1	-1	0	0
+[Kim Phong] Toc do di chuyen (Giay)	111	20	30	-1	-1	0	0
+[Kim Phong] Sinh luc toi da (Nhan 2)	85	60	80	-1	-1	0	0
+[Kim Phong] Khang loi (Nhan 2)	103	6	18	-1	-1	0	0
+[Kim Phong] Noi luc toi da (Nhan 2)	89	60	80	-1	-1	0	0
+[An Bang] Khang tat ca (Day Chuyen)	114	15	20	-1	-1	0	0
+[An Bang] Noi luc toi da (Nhan 1)	89	120	200	-1	-1	0	0
+[An Bang] Khang bang (Nhan 1)	105	25	30	-1	-1	0	0
+[An Bang] Noi luc toi da (Ngoc Boi)	89	120	200	-1	-1	0	0
+[An Bang] Khang doc (Ngoc Boi)	101	25	30	-1	-1	0	0
+[An Bang] Noi luc toi da (Nhan 2)	89	120	200	-1	-1	0	0
+[An Bang] Khang hoa (Nhan 2)	102	25	30	-1	-1	0	0
+[Liªn §Êu] Khang tat ca (Day Chuyen)	114	20	20	-1	-1	0	0
+[Liªn §Êu] Noi luc toi da (Nhan 1)	89	199	199	-1	-1	0	0
+[Liªn §Êu] Khang bang (Nhan 1)	105	30	30	-1	-1	0	0
+[Liªn §Êu] Noi luc toi da (Ngoc Boi)	89	199	199	-1	-1	0	0
+[Liªn §Êu] Khang doc (Ngoc Boi)	101	30	30	-1	-1	0	0
+[Liªn §Êu] Noi luc toi da (Nhan 2)	89	199	199	-1	-1	0	0
+[Liªn §Êu] Khang hoa (Nhan 2)	102	30	30	-1	-1	0	0
+[An Bang Mini] Khang tat ca (Day Chuyen)	114	18	20	-1	-1	0	0
+[An Bang Mini] Khang loi (Day Chuyen)	103	5	10	-1	-1	0	0
+[An Bang Mini] Noi luc toi da (Nhan 1)	89	120	200	-1	-1	0	0
+[An Bang Mini] Khang bang (Nhan 1)	105	27	30	-1	-1	0	0
+[An Bang Mini] Sinh luc toi da (Nhan 1)	85	120	200	-1	-1	0	0
+[An Bang Mini] Noi luc toi da (Ngoc Boi)	89	120	200	-1	-1	0	0
+[An Bang Mini] Khang doc (Ngoc Boi)	101	27	30	-1	-1	0	0
+[An Bang Mini] Khang tat ca (Ngoc Boi)	114	2	5	-1	-1	0	0
+[An Bang Mini] Noi luc toi da (Nhan 2)	89	120	200	-1	-1	0	0
+[An Bang Mini] Khang hoa (Nhan 2)	102	27	30	-1	-1	0	0
+[An Bang Mini] Sinh luc toi da (Nhan 2)	85	120	200	-1	-1	0	0
+[Dinh Quoc] Thoi gian phuc hoi (Y Phuc)	113	40	50	-1	-1	0	0
+[Dinh Quoc] Sinh luc toi da (Y Phuc)	85	120	200	-1	-1	0	0
+[Dinh Quoc] Sinh luc toi da (Non)	85	0	50	-1	-1	0	0
+[Dinh Quoc] Phong thu vat ly (Non)	104	25	30	-1	-1	0	0
+[Dinh Quoc] Toc do di chuyen (Giay)	111	35	45	-1	-1	0	0
+[Dinh Quoc] Sinh luc toi da (Giay)	85	120	200	-1	-1	0	0
+[Dinh Quoc] Sinh luc toi da (Bao Tay)	85	0	50	-1	-1	0	0
+[Dinh Quoc] Thoi gian lam cham (Bao Tay)	106	30	50	-1	-1	0	0
+[Dinh Quoc] Sinh luc toi da (Dai)	85	0	50	-1	-1	0	0
+[Dinh Quoc] Thoi gian trung doc (Dai)	108	60	80	-1	-1	0	0
+[Liªn §Êu] Thoi gian phuc hoi (Y Phuc)	113	50	50	-1	-1	0	0
+[Liªn §Êu] Sinh luc toi da (Y Phuc)	85	199	199	-1	-1	0	0
+[Liªn §Êu] Sinh luc toi da (Non)	85	49	49	-1	-1	0	0
+[Liªn §Êu] Phong thu vat ly (Non)	104	30	30	-1	-1	0	0
+[Liªn §Êu] Toc do di chuyen (Giay)	111	45	45	-1	-1	0	0
+[Liªn §Êu] Sinh luc toi da (Giay)	85	199	199	-1	-1	0	0
+[Liªn §Êu] Sinh luc toi da (Bao Tay)	85	49	49	-1	-1	0	0
+[Liªn §Êu] Thoi gian lam cham (Bao Tay)	106	50	50	-1	-1	0	0
+[Liªn §Êu] Sinh luc toi da (Dai)	85	49	49	-1	-1	0	0
+[Liªn §Êu] Thoi gian trung doc (Dai)	108	80	80	-1	-1	0	0
+[May man]	140	1	3	-1	-1	0	0
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+[Nhu Tinh] Noi luc toi da (Y Phuc)	89	120	200	-1	-1	0	0
+[Nhu Tinh] Khang doc (Y Phuc)	101	15	25	-1	-1	0	0
+[Nhu Tinh] Ky nang von co (Y Phuc)	144	1	1	-1	-1	0	0
+[Nhu Tinh] Noi luc toi da (Day Chuyen)	89	120	200	-1	-1	0	0
+[Nhu Tinh] Thoi gian lam cham (Day Chuyen)	106	25	40	-1	-1	0	0
+[Nhu Tinh] Noi cong (Nhan)	100	16	24	-1	-1	0	0
+[Nhu Tinh] Sinh luc toi da (Ngoc Boi)	85	0	50	-1	-1	0	0
+[Nhu Tinh] Phong thu vat ly (Ngoc Boi)	104	15	25	-1	-1	0	0
+[Hiep Cot] Noi luc toi da (Y Phuc)	85	120	200	-1	-1	0	0
+[Hiep Cot] Thoi gian phuc hoi (Y Phuc)	113	30	40	-1	-1	0	0
+[Hiep Cot] Sinh luc toi da (Day Chuyen)	85	120	200	-1	-1	0	0
+[Hiep Cot] Thoi gian trung doc (Day Chuyen)	108	25	40	-1	-1	0	0
+[Hiep Cot] Noi luc toi da (Day Chuyen)	89	120	200	-1	-1	0	0
+[Hiep Cot] Suc manh (Nhan)	97	16	24	-1	-1	0	0
+[Hiep Cot] Sinh luc toi da (Ngoc Boi)	85	160	240	-1	-1	0	0
+[Hiep Cot] Khang bang (Ngoc Boi)	105	20	30	-1	-1	0	0
+[Hiep Cot] Khang tat ca (Ngoc Boi)	114	2	5	-1	-1	0	0
+Mu Mong long 1	85	120	200	-1	-1	0	0
+Mu Mong long 2	174	1	3	-1	-1	14	14
+Mu Mong long 3	131	50	100	-1	-1	0	0
+Mu Mong long 4	102	25	30	-1	-1	0	0
+Mu Mong long 5	89	120	200	-1	-1	0	0
+Mu Mong long 6	174	1	3	-1	-1	19	19
+Ao Mong Long 1	85	120	200	-1	-1	0	0
+Ao Mong Long 2	113	40	60	-1	-1	0	0
+Ao Mong Long 3	174	1	3	-1	-1	8	8
+Ao Mong Long 4	104	25	30	-1	-1	0	0
+Ao Mong Long 5	89	120	200	-1	-1	0	0
+Ao Mong Long 6	174	1	3	-1	-1	21	21
+Dai Mong Long 1	85	450	500	-1	-1	0	0
+Dai Mong Long 2	106	40	50	-1	-1	0	0
+Dai Mong Long 3	174	1	3	-1	-1	3	3
+Dai Mong Long 4	102	25	30	-1	-1	0	0
+Dai Mong Long 5	108	50	80	-1	-1	0	0
+Dai Mong Long 6	110	30	40	-1	-1	0	0
+Ngoc Boi Mong Long 1	43	1	1	-1	-1	0	0
+Ngoc Boi Mong Long 2	144	1	1	-1	-1	0	0
+Giay Mong Long 1	85	360	480	-1	-1	0	0
+Giay Mong Long 2	111	50	60	-1	-1	0	0
+Giay Mong Long 3	89	120	200	-1	-1	0	0
+Giay Mong Long 4	102	25	30	-1	-1	0	0
+Con Phuc Ma 1	131	100	150	-1	-1	6	6
+Con Phuc Ma 2	115	25	40	-1	-1	0	0
+Con Phuc Ma 3	171	450	600	-1	-1	0	0
+Con Phuc Ma 4	121	50	60	-1	-1	0	0
+Con Phuc Ma 5	67	4	8	-1	-1	0	0
+Con Phuc Ma 6	174	1	3	-1	-1	19	19
+Ngoc Boi Phuc Ma 1	43	1	1	-1	-1	0	0
+Ngoc Boi Phuc Ma 2	144	1	1	-1	-1	0	0
+Dai Lung Phuc Ma 1	85	450	500	-1	-1	0	0
+Dai Lung Phuc Ma 2	106	40	50	-1	-1	0	0
+Dai Lung Phuc Ma 3	174	1	3	-1	-1	4	4
+Dai Lung Phuc Ma 4	102	25	30	-1	-1	0	0
+Dai Lung Phuc Ma 5	108	50	80	-1	-1	0	0
+Dai Lung Phuc Ma 6	110	30	40	-1	-1	0	0
+Ao Phuc Ma 1	85	120	200	-1	-1	0	0
+Ao Phuc Ma 2	113	40	60	-1	-1	0	0
+Ao Phuc Ma 3	174	1	3	-1	-1	6	6
+Ao Phuc Ma 4	104	25	30	-1	-1	0	0
+Giay Phuc Ma 1	85	120	200	-1	-1	0	0
+Giay Phuc Ma 2	174	1	3	-1	-1	16	16
+Giay Phuc Ma 3	111	50	60	-1	-1	0	0
+Giay Phuc Ma 4	103	25	30	-1	-1	0	0
+Giay Phuc Ma 5	89	120	200	-1	-1	0	0
+Giay Phuc Ma 6	106	30	40	-1	-1	0	0
+Dao Tu Khong 1	85	120	200	-1	-1	0	0
+Dao Tu Khong 2	115	25	40	-1	-1	0	0
+Dao Tu Khong 3	131	100	150	-1	-1	6	6
+Dao Tu Khong 4	121	50	60	-1	-1	0	0
+Dao Tu Khong 5	67	4	8	-1	-1	0	0
+Dao Tu Khong 6	174	1	3	-1	-1	19	19
+Ao Tu Khong 1	85	120	200	-1	-1	0	0
+Ao Tu Khong 2	113	40	60	-1	-1	0	0
+Ao Tu Khong 3	174	1	3	-1	-1	7	7
+Ao Tu Khong 4	104	25	30	-1	-1	0	0
+Dai Tu Khong 1	85	120	200	-1	-1	0	0
+Dai Tu Khong 2	106	40	50	-1	-1	0	0
+Dai Tu Khong 3	174	1	3	-1	-1	4	4
+Dai Tu Khong 4	102	25	30	-1	-1	0	0
+Dai Tu Khong 5	108	50	80	-1	-1	0	0
+Dai Tu Khong 6	70	3	5	-1	-1	0	0
+Bao Tay Khong 1	85	120	200	-1	-1	0	0
+Bao Tay Khong 2	110	30	40	-1	-1	0	0
+Bao Tay Khong 3	174	1	3	-1	-1	24	24
+Bao Tay Khong 4	102	25	30	-1	-1	0	0
+Bao Tay Khong 5	89	120	200	-1	-1	0	0
+Bao Tay Khong 6	174	1	3	-1	-1	18	18
+Nhan Tu Khong 1	43	1	1	-1	-1	0	0
+Nhan Tu Khong 2	144	1	1	-1	-1	0	0
+[Tinh Chuan] Toc do di chuyen	111	50	50	-1	-1	0	0
+[Tinh Chuan] Thoi gian lam cham	106	40	40	-1	-1	0	0
+[Tinh Chuan] Sinh luc toi da	85	200	200	-1	-1	0	0
+[Vinh Dieu] Thoi gian phuc hoi	113	50	50	-1	-1	0	0
+[Vinh Dieu] Thoi gian choang	110	40	40	-1	-1	0	0
+[Vinh Dieu] Noi luc toi da	89	200	200	-1	-1	0	0

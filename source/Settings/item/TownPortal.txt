@@ -1,0 +1,2 @@
+szName	nItemGenre	szImageName	nObjIdx	nWidth	Height	nPrice	szIntro																																																										
+Thæ §Þa Phï 	5	\spr\item\special\Obj_TownPortal.spr	38	1	1	500	Sö dông cã thÓ trë vÒ ®iÓm l­u r­¬ng tr­íc ®ã																																																										

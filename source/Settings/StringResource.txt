@@ -1,0 +1,134 @@
+ID	STRING
+10001	GM Command List
+10002	<color=green>Hç Trî T©n Thñ:<color> H·y luyÖn c«ng thËt tèt nhĞ! 
+10003	Hoan nghªnh b¹n trÎ gia nhËp Vâ l©m truyÒn kú!  L·o tÆng b¹n <color=metal>5000 l­îng<color> ®Ó thuËn lîi luyÖn c«ng nhĞ! 
+10004	Ng­¬i ®· nhËn hç trî lÇn ®Çu råi c¬ mµ!
+10005	Chóc mõng c¸c h¹ ®¹t <color=green>cÊp 20<color>. §©y lµ 1 con chiÕn m· còng kh«ng ph¶i lµ quı nh­ng lµ quµ!
+10006	Ng­¬i ®· nhËn th­ëng <color=green>cÊp 20<color> råi!
+10007	Ng­¬i ch­a nhËn lÇn hç trî t©n thñ ®Çu tiªn!
+10008	Ng­¬i lªn ®Õn <color=red>cÊp 20<color> ta sÏ t¨ng ng­¬i 1 con ngùa!  Cè g¾ng lªn! 
+10009	Xin l·o tr­îng chØ gi¸o! 
+10010	ChØ gi¸o th× kh«ng d¸m! Nh­ng trong th«n cã vµi ng­êi cÇn gióp ®ì! Ng­¬i h·y ®i gÆp hä xem! SÏ cã İch cho ng­¬i! 
+10011	Tr­íc tiªn h·y ra ngoµi th«n luyÖn c«ng! Ngµy nay gian khæ ngµy sau sÏ phó quı! 
+10012	"Mçi lÇn th¨ng cÊp, ng­¬i sÏ ®­îc 5 ®iÓm TiÒm n¨ng vµ 1 ®iÓm kü n¨ng. ViÖc ph©n phèi ®iÓm sÏ quyÕt ®Şnh tiÒn ®å cña  ng­¬i! "
+10013	1 ng­êi h¶o h¸n 3 ng­êi gióp. V× vËy nªn kÕt cµng nhiÒu b»ng h÷u cµng tèt
+10014	"TiÒn ®å réng thªnh thang, thµnh b¹i ®Òu do m×nh mµ ra! "
+10015	Nh÷ng g× cÇn nãi ta ®· nãi hÕt råi! PhÇn cßn l¹i lµ do ë ng­¬i! 
+10016	§a t¹ l·o tr­îng! 
+10017	"<color=metal>§Ö tö ThiÕu L©m:<color> §êi ng­êi ThiÕu L©m lµ h¹nh phóc nhÊt, lµ chİnh ph¸i oai danh lÉm liÖt.\nB¹n cã muèn gia nhËp ph¸i <color=metal>ThiÕu L©m<color> chóng ta kh«ng?"
+10018	"§· cã ®¼ng cÊp vµ danh väng cao, ng­¬i cã muèn xuÊt s­ hµnh tÈu giang hå kh«ng ?"
+10019	C¸c h¹ ®· kh«ng cßn lµ ®Ö tö <color=metal>ThiÕu L©m<color> n÷a.\n Ta cã thÓ gióp g× cho c¸c h¹ kh«ng?
+10020	§Ö tö ThiÕu L©m lÊy tõ bi lµm gèc!
+10021	Ng­¬i thËt kh«ng cã duyªn víi <color=metal>ThiÕu L©m<color> chóng ta råi!
+10022	"PhËt m«n thanh tŞnh, n÷ giíi kh«ng thÓ x«ng vµo!"
+10023	"C¨n b¶n cña ng­¬i cßn kĞm l¾m! H·y ®i luyÖn tËp thªm, bao giê ®Õn <color=Red>cÊp 10<color> l¹i ®Õn t×m ta!"
+10024	"Ng­¬i kh«ng thuéc nhãm Ngò hµnh cña ta, ®Õn ®©y lµm g×? H·y lªn diÔn ®µn häc hái thªm ®i"
+10025	C¸c h¹ ®· trë thµnh ®Ö tö cña ThiÕu L©m h·y b«n tÈu giang hå vµ mang l¹i vÏ vang cho ThiÕu L©m chóng ta!
+10026	<color=metal>§Ö tö Thiªn V­¬ng:<color> §êi ng­êi Thiªn V­¬ng lµ h¹nh phóc nhÊt, tuy lµ trung lËp nh­ng lu«n hµnh hiÖp tr­îng nghÜa. B¹n cã muèn gia nhËp ph¸i <color=metal>Thiªn V­¬ng<color> chóng ta kh«ng?
+10027	C¸c h¹ ®· kh«ng cßn lµ ®Ö tö <color=metal>Thiªn V­¬ng<color> n÷a. Ta cã thÓ gióp g× cho c¸c h¹ kh«ng?
+10028	Ng­¬i thËt kh«ng cã duyªn víi <color=metal>Thiªn V­¬ng<color> chóng ta råi!
+10029	C¸c h¹ ®· trë thµnh ®Ö tö cña Thiªn V­¬ng h·y b«n tÈu giang hå vµ mang l¹i vÏ vang cho Thiªn V­¬ng chóng ta!
+10030	§Ö tö Thiªn V­¬ng trung lËp, võa chèng Kim võa kh¸ng Tèng.
+10031	<color=wood>§Ö tö §­êng M«n:<color> §êi ng­êi §­êng M«n lµ h¹nh phóc nhÊt, chuyªn gia ¸m khİ thËt lµ tho¶i m¸i. hahaha. B¹n cã muèn gia nhËp ph¸i <color=wood>§­êng M«n<color> chóng ta kh«ng?
+10032	C¸c h¹ ®· kh«ng cßn lµ ®Ö tö <color=wood>§­êng M«n<color> n÷a. Ta cã thÓ gióp g× cho c¸c h¹ kh«ng?
+10033	Ng­¬i thËt kh«ng cã duyªn víi <color=wood>§­êng M«n<color> chóng ta råi
+10034	§­êng M«n kh«ng theo tµ còng ch¼ng bªn chİnh!
+10035	C¸c h¹ ®· trë thµnh ®Ö tö cña §­êng M«n h·y b«n tÈu giang hå vµ mang l¹i vÏ vang cho §­êng M«n chóng ta!
+10035	C¸c h¹ ®· trë thµnh ®Ö tö cña §­êng M«n h·y b«n tÈu giang hå vµ mang l¹i vÏ vang cho §­êng M«n chóng ta!
+10036	<color=wood>§Ö tö Ngò §éc:<color> §êi ng­êi Ngò §éc lµ h¹nh phóc nhÊt, chuyªn dïng ®éc còng lµ mét c¸i thó vŞ cña nã. B¹n cã muèn gia nhËp ph¸i <color=wood>Ngò §éc<color> chóng ta kh«ng?
+10037	C¸c h¹ ®· kh«ng cßn lµ ®Ö tö <color=wood>Ngò §éc<color> n÷a. Ta cã thÓ gióp g× cho c¸c h¹ kh«ng?
+10038	Ng­¬i thËt kh«ng cã duyªn víi <color=wood>Ngò §éc<color> chóng ta råi
+10039	Bæn gi¸o chuyªn dïng ®éc ®Ó uy danh thiªn h¹!
+10040	C¸c h¹ ®· trë thµnh ®Ö tö cña Ngò §éc h·y b«n tÈu giang hå vµ mang l¹i vÏ vang cho Ngò §éc chóng ta!
+10041	<color=water>§Ö tö Nga My:<color> §êi ng­êi Nga My lµ h¹nh phóc nhÊt, tuy lµ ng­êi xuÊt gia nh­ng vÉn mang nĞt ®Ñp cña ng­êi th­êng. B¹n cã muèn gia nhËp ph¸i <color=water>Nga My<color> chóng ta kh«ng?
+10042	C¸c h¹ ®· kh«ng cßn lµ ®Ö tö <color=water>Nga My<color> n÷a. Ta cã thÓ gióp g× cho c¸c h¹ kh«ng?
+10043	Ng­¬i thËt kh«ng cã duyªn víi <color=water>Nga My<color> chóng ta råi?
+10044	Nga My lµ n¬i  n÷ nhi tŞnh t©m nghiªn cøu phËt ph¸p vµ vâ nghÖ!
+10045	C¸c h¹ ®· trë thµnh ®Ö tö cña Nga My h·y b«n tÈu giang hå vµ mang l¹i vÏ vang cho Nga My chóng ta!
+10046	<color=water>§Ö tö Thuı Yªn:<color> §êi ng­êi Thuı Yªn lµ h¹nh phóc nhÊt, lµ n÷ nh©n xinh ®Ñp nªn ®i l¹i trªn giang hå thËt lµ thİch. B¹n cã muèn gia nhËp ph¸i <color=water>Thuı Yªn<color> chóng ta kh«ng?
+10047	c¸c h¹ ®· kh«ng cßn lµ ®Ö tö <color=water>Thuı Yªn<color> n÷a. Ta cã thÓ gióp g× cho c¸c h¹ kh«ng?
+10048	Ng­¬i thËt kh«ng cã duyªn víi <color=water>Thuı Yªn<color> chóng ta råi!
+10049	Thóy Yªn M«n trung lËp, thiÖn ¸c ph©n minh.
+10050	C¸c h¹ ®· trë thµnh ®Ö tö cña Thóy Yªn M«n h·y b«n tÈu giang hå vµ mang l¹i vÏ vang cho Thóy Yªn M«n chóng ta!
+10051	<color=fire>§Ö tö C¸i Bang:<color> §êi ng­êi c¸i bang lµ h¹nh phóc nhÊt, tuy lµ ¨n mµy nh­ng cuéc sèng phiªu diªu tù t¹i. B¹n ca muèn gia nhËp ph¸i <color=fire>C¸i Bang<color> chóng ta kh«ng?
+10052	C¸c h¹ ®· kh«ng cßn lµ ®Ö tö <color=fire>C¸i Bang<color> n÷a. Ta cã thÓ gióp g× cho c¸c h¹ kh«ng?
+10053	Ng­¬i thËt kh«ng cã duyªn víi <color=fire>C¸i Bang<color> chóng ta råi!
+10054	C¸i Bang lµ chİnh ph¸i lu«n hµnh hiÖp tr­îng nghÜa!
+10055	C¸c h¹ ®· trë thµnh ®Ö tö cña C¸i Bang h·y b«n tÈu giang hå vµ mang l¹i vÏ vang cho C¸i Bang chóng ta!
+10056	<color=fire>§Ö tö Thiªn NhÉn:<color> §êi ng­êi Thiªn NhÉn lµ h¹nh phóc nhÊt, dïng kü n¨ng 6x mµ s¨n boss th× . B¹n cã muèn gia nhËp ph¸i <color=Earth>Thiªn NhÉn<color> chóng ta kh«ng?
+10057	C¸c h¹ ®· kh«ng cßn lµ ®Ö tö <color=Earth>Thiªn NhÉn<color> n÷a. Ta cã thÓ gióp g× cho c¸c h¹ kh«ng?
+10058	Ng­¬i thËt kh«ng cã duyªn víi <color=Earth>Thiªn NhÉn<color> chóng ta råi!
+10059	Thiªn NhÉn gi¸o chóng ta uy danh thiªn h¹.
+10060	C¸c h¹ ®· trë thµnh ®Ö tö cña Thiªn NhÉn h·y b«n tÈu giang hå vµ mang l¹i vÏ vang cho Thiªn NhÉn chóng ta!
+10061	<color=earth>§Ö tö Vâ §ang:<color> §êi ng­êi Vâ §ang lµ h¹nh phóc nhÊt, cuéc sèng Èn dËt thËt lµ h¹nh phóc.  B¹n cã muèn gia nhËp ph¸i <color=Earth>Vâ §ang<color> chóng ta kh«ng?
+10062	C¸c h¹ ®· kh«ng cßn lµ ®Ö tö <color=Earth>Vâ §ang<color> n÷a. Ta cã thÓ gióp g× cho c¸c h¹ kh«ng?
+10063	Ng­¬i thËt kh«ng cã duyªn víi <color=Earth>Vâ §ang<color> chóng ta råi!
+10064	Vâ §ang chİnh ph¸i  phong th¸i tao nh· , cèt c¸ch thÇn tiªn!
+10065	C¸c h¹ ®· trë thµnh ®Ö tö cña Vâ §ang h·y b«n tÈu giang hå vµ mang l¹i vÏ vang cho Vâ §ang chóng ta!
+10066	<color=earth>§Ö tö C«n L«n:<color> §êi ng­êi C«n L«n lµ h¹nh phóc nhÊt, thuËn ta th× sèng, nghŞch ta th× chÕt.  B¹n cã muèn gia nhËp ph¸i <color=Earth>C«n L«n<color> chóng ta kh«ng?
+10067	C¸c h¹ ®· kh«ng cßn lµ ®Ö tö <color=Earth>C«n L«n<color> n÷a. Ta cã thÓ gióp g× cho c¸c h¹ kh«ng?
+10068	Ng­¬i thËt kh«ng cã duyªn víi <color=Earth>C«n L«n<color> chóng ta råi!
+10069	C«n L«n trung lËp kh«ng mµng thÕ sù.
+10070	C¸c h¹ ®· trë thµnh ®Ö tö cña C«n L«n h·y b«n tÈu giang hå vµ mang l¹i vÏ vang cho C«n L«n chóng ta!
+10071	C¸c h¹ ®· rêi khái m«n ph¸i! H·y tù chän cho m×nh mét con ®­êng thİch hîp ®Ó ®i.
+10072	Hack ­ ? XÎo chym giê!
+10073	Ng­¬i kh«ng mang theo 10 v¹n ng©n l­îng!
+10074	§Ó xuÊt s­ ng­¬i cÇn ph¶i ®¹t cÊp ®é 60 trë lªn!
+10075	Chµo mõng c¸c h¹ ®· trë vÒ m«n ph¸i chóng ta!
+10076	<bclr=wood>HiÖu Thuèc<bclr>: Kh«ng ph¶i nãi kho¸c! D­îc phÈm ta chÕ ra ch÷a ®­îc b¸ch bÖnh!
+10077	C¸c h¹ ®ang lµm nhiÖm vô Long Ngò, h·y ®Õn Thµnh §« ®i.
+10078	<bclr=wood>HiÖu Thuèc<bclr>: Ng­¬i kh«ng cã <color=fire>1000<color> l­îng.
+10079	<bclr=red><color=yellow>HiÖu Thuèc<color><bclr>: C¸c h¹ hiÖn ®ang bŞ th­¬ng cÇn ta gióp ®ì ­ ? Chi phİ kh«ng ®¾t l¾m ®©u cø yªn t©m vµo tay nghÒ cña ta!"
+10080	Th­¬ng tİch cña ng­¬i ch­a nÆng, mua vµi b×nh thuèc uèng lµ æn!
+10081	"Ta ®· trŞ khái ngo¹i th­¬ng cho ng­êi råi ®©y. TiÕp tôc con ®­êng hµnh tÈu ®i, khi nµo gÆp trë ng¹i cø quay l¹i t×m ta!"
+10082	C¸c h¹ kh«ng cã ®ñ <color=red>1500<color> l­îng!
+10083	"Ta ®· trŞ khái néi th­¬ng cho ng­êi råi ®©y. TiÕp tôc con ®­êng hµnh tÈu ®i, khi nµo gÆp trë ng¹i cø quay l¹i t×m ta!"
+10084	"Ta ®· phôc håi thÓ lùc cho ng­êi råi ®©y. TiÕp tôc con ®­êng hµnh tÈu ®i, khi nµo gÆp trë ng¹i cø quay l¹i t×m ta!"
+10085	C¸c h¹ kh«ng cã ®ñ <color=red>3000<color> l­îng!
+10086	"Ta ®· trŞ khái th­¬ng tİch cho ng­êi råi ®©y. TiÕp tôc con ®­êng hµnh tÈu ®i, khi nµo gÆp trë ng¹i cø quay l¹i t×m ta!"
+10087	C¸c h¹ kh«ng cã ®ñ <color=red>6000<color> l­îng!
+10088	<bclr=red><color=yellow>Tiem T¹p Hãa :<color><bclr> Hµng hãa cña ta cùc kú tinh x¶o, ng­¬i muèn mua mãn nµo?
+10089	<bclr=red><color=yellow>Thî RÌn<color><bclr>: Ng­¬i lµ mét hiÖp kh¸ch h¶? chç ta cã ®ñ thø binh ®ao ng­¬i muèn chän mãn nµo.
+10090	Ta cã rÊt nhiÒu lo¹i vò khİ, h·y chän mãn mµ ng­¬i thİch!
+10091	<color=green>B¸n Ngùa<color> ë ®©y cã rÊt nhiÒu ngùa tèt, C¸c h¹ cã muèn së h÷u 1 con kh«ng?
+10092	<color=wood>Th­¬ng Nh©n T©y Vùc<color>: Ta phiªu l­u kh¾p n¬i nµy n¬i kh¸c, v× miÕng c¬m manh ¸o mµ ph¶i l­u l¹c vÒ ®©y. C¸c h¹ muèn g× ë ta ch¨ng?
+10093	"HiÖn t¹i ta kh«ng cßn hµng g× c¶."
+10094	<color=wood>Th­¬ng Nh©n T©y Vùc<color>: Muèn më réng r­¬ng cÇn cã kim nguyªn b¶o. Ng­¬i cã mang theo chø!
+10095	"Tói ®å cña ng­¬i ®· réng thªm råi. Xin chóc mõng!"
+10096	"Ng­¬i kh«ng mang ®ñ sè <color=yellow>Kim Nguyªn B¶o<color> cÇn thiÕt."
+10097	"Ng­¬i ®· më réng r­¬ng 1 råi mµ!"
+10098	"Ng­¬i ch­a më réng r­¬ng 1 mµ ®ßi më r­¬ng 2 sao?."
+10099	"Ng­¬i ch­a më réng r­¬ng 2 mµ ®ßi më r­¬ng 3 sao?."
+10100	<color=wood>ThÇn T¨ng:<color> §iÓm tiÒm n¨ng cña ng­¬i h×nh nh­ cã chót vÊn ®Ò!  §Ó ta gióp cho nhĞ!  §õng c¨ng th¼ng qu¸!
+10101	<color=wood>ThÇn T¨ng:<color> §iÓm kü n¨ng cña ng­¬i h×nh nh­ cã chót vÊn ®Ò!  §Ó ta gióp cho nhĞ!  §õng c¨ng th¼ng qu¸!
+10102	<color=wood>ThÇn T¨ng:<color> §iÓm kü n¨ng vµ tiÒm n¨ng cña ng­¬i h×nh nh­ cã chót vÊn ®Ò!  §Ó ta gióp cho nhĞ!  §õng c¨ng th¼ng qu¸!
+10103	"TiÒm n¨ng vµ kü n¨ng cña c¸c h¹ ®· ®­îc thanh tÈy."
+10104	"TiÒm n¨ng cña c¸c h¹ ®· ®­îc thanh tÈy."
+10105	"Kü n¨ng cña c¸c h¹ ®· ®­îc thanh tÈy."
+10106	<color=green>Sø gi¶:<color> NhiÖm vô s¸t thñ chØ dµnh cho cao thñ ","<color=green>Sø gi¶:<color> H·y luyªn lªn ®¼ng cÊp [70] ®i ®·.
+10107	<color=green>Sø gi¶:<color> H«m nay b¹n ®· hoµn thµnh 8 nhiÖm vô s¸t thñ!
+10108	B¹n nhËn ®­îc mét <color=blue>S¸t thñ gi¶n<color>.
+10109	Kh«ng mang ®ñ 5 lo¹i s¸t thñ lÖnh ®Õn th× ta kh«ng nãi chuyªn.
+10110	Ng­¬i kh«ng cã 1 v¹n l­îng. NghÌo ®Õn vËy sao?
+10111	Hñy nhiÖm vô s¸t thñ thµnh c«ng!
+10112	<color=green>NhiÕp Thİ ThÇn:<color> Ng­¬i kh«ng mang theo tiÒn ta kh«ng thÓ ®­a ng­¬i ®Õn ®ã!
+10113	<color=green>LÔ Quan:<color> H«m nay ta bËn råi, h·y ®îi ®Õn Event nhĞ.
+10114	<color=green>LÔ Quan:<color> Thêi gian tr¶ lêi c©u hái b¾t ®Çu h»ng ngµy  tõ phót thø 1 ®Õn phut 10 vµ ®¼ng cÊp trªn 50!!!
+10115	<color=green>LÔ Quan:<color> B¹n ®· ®o¸n hoa ®¨ng 15 lÇn trong ngµy h«m nay råi, mai h·y ®Ğn nhĞ!
+10116	<color=green>CÈm nang<color>:C©u tr¶ lêi cña b¹n: <color=red>Kh«ng chİnh x¸c!
+10117	<color=green>Vâ L©m Chİ T«n:<color> Xin chµo, n¨m hÕt tÕt ®Õn ng­¬i h·y chóc tÕt ta ta sÏ l× x× cho ng­¬i!
+10118	<color=green>Vâ L©m Chİ T«n:<color> Ng­¬i chóc phóc kh«ng ®ñ, h·y xem l¹i c©u ch÷!
+10119	<color=green>Vâ L©m Chİ T«n:<color> Mçi ngµy chØ cã thÓ chóc phóc cho ta 50 lÇn th«i.
+10120	<color=green>Xa phu:<color> §¹i hiÖp muèn ta ®­a ng­êi ®i ®©u!
+10121	C¸c h¹ kh«ng mang ®ñ <color=red>500 l­îng<color>, kh«ng thÓ di chuyÓn!
+10122	§å phæ vò khİ lµ vËt ph¶m quı hiÕm tõ T©y Vùc quª h­¬ng cña ta. Nã sÏ gióp n©ng cÊp binh khİ cña ng­¬i trë nªn s¾c bĞn, ng­¬i muèn cã lo¹i nµo?
+10123	C¸c h¹ ®· nhËn ®­îc ®å phæ quı hiÕm cña T©y Vùc!
+10124	TiÒn ®ång lµ 1 lo¹i tiÒn cæ x­a, rÊt quı hiÕm ®èi víi T©y Vùc chóng ta, ng­¬i muèn ®æi lÊy vËt ph¶m g×?
+10125	Kim Nguyªn B¶o lµ phÈm vËt quı hiÕm cña Trung Nguyªn, ng­êi d©n ë T©y H¹ ta rÊt thİch. Ng­¬i muèn trao ®æi chø?
+10126	<color=green>Thî RÌn:<color> Kh¶m b¶o ngäc liªn quan ®Õn sù c©n b»ng cña ngò hµnh, lµ mét cùc phÈm tuyÖt thÕ. Ng­¬i x¸c nhËn kh¶m chø?
+10127	<color=green>Maps luyÖn c«ng tõ 6x ®Õn 199 chØ cã thÓ di chuyÓn tõ Xa Phu T­¬ng D­¬ng ®i th«i nhĞ , h·y qua T­¬ng D­¬ng ®Ó luyÖn c«ng nhĞ ®¹i hiÖp! <color>
+
+
+
+
+

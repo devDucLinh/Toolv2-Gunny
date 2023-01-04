@@ -1,0 +1,15 @@
+TASK	SCRIPT
+1	\script\global\timerserver.lua
+2	\script\missions\tong_kim\timer_tongkim.lua
+3	\script\missions\vuot_ai\timer_vuotai.lua
+4	\script\quest\vuot_ai\timer_vuotai1.lua
+5	\script\quest\vuot_ai\timer_vuotai2.lua
+6	\script\quest\vuot_ai\timer_vuotai3.lua
+7	\script\quest\vuot_ai\timer_vuotai4.lua
+8	\script\global\npc\nhadich.lua
+9	\script\event\trongcay\cayhoahong.lua
+10	\script\missions\lien_dau\timer_liendau.lua
+11	\script\missions\tong_kim_tcap\timer_tk_tc.lua
+12	\script\special\loathegioi.lua
+13	\script\missions\congthanhchien\timer_ctc.lua
+14	\script\event\eventtet\timer_caymai.lua

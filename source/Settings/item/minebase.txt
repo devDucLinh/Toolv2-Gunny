@@ -1,0 +1,40 @@
+szName	nItemGenre	nDetailType	szImageName	nObjIdx	nWidth	nHeight	szIntro	nSeries	nPrice	nLevel	IsUse	IsTrade	IsThrow	nMaxStack
+HuyÒn ThiÕt Nguyªn Kho¸ng	2	0	\spr\item\script\item_xuantiekuang.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh hiÖn 1<color> trªn trang bŞ (NhÊn chuét ph¶i xem chi tiÕt) "	5	100	1	0	1	0	50
+MËt Nguyªn Kho¸ng	2	1	\spr\item\script\item_miyinkuang.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow> thuéc tİnh hiÖn 2<color> trªn trang bŞ (NhÊn chuét ph¶i xem chi tiÕt) "	5	100	1	0	1	0	50
+Chu Sa Nguyªn Kho¸ng	2	2	\spr\item\script\item_zhushakuang.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh hiÖn 3<color> trªn trang bŞ (NhÊn chuét ph¶i xem chi tiÕt) "	5	100	1	0	1	0	50
+Khæng T­íc Nguyªn Th¹ch	2	3	\spr\item\script\item_kongqueshi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 1<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	0	100	1	0	1	0	50
+Khæng T­íc Nguyªn Th¹ch	2	4	\spr\item\script\item_kongqueshi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 1<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	1	100	1	0	1	0	50
+Khæng T­íc Nguyªn Th¹ch	2	5	\spr\item\script\item_kongqueshi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 1<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	2	100	1	0	1	0	50
+Khæng T­íc Nguyªn Th¹ch	2	6	\spr\item\script\item_kongqueshi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 1<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	3	100	1	0	1	0	50
+Khæng T­íc Nguyªn Th¹ch	2	7	\spr\item\script\item_kongqueshi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 1<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	4	100	1	0	1	0	50
+Phï Dung Nguyªn Th¹ch	2	8	\spr\item\script\item_furongshi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 2<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	0	100	1	0	1	0	50
+Phï Dung Nguyªn Th¹ch	2	9	\spr\item\script\item_furongshi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 2<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	1	100	1	0	1	0	50
+Phï Dung Nguyªn Th¹ch	2	10	\spr\item\script\item_furongshi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 2<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	2	100	1	0	1	0	50
+Phï Dung Nguyªn Th¹ch	2	11	\spr\item\script\item_furongshi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 2<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	3	100	1	0	1	0	50
+Phï Dung Nguyªn Th¹ch	2	12	\spr\item\script\item_furongshi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 2<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	4	100	1	0	1	0	50
+Chung Nhò Nguyªn Th¹ch	2	13	\spr\item\script\item_zhongrushi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 3<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	0	100	1	0	1	0	50
+Chung Nhò Nguyªn Th¹ch	2	14	\spr\item\script\item_zhongrushi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 3<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	1	100	1	0	1	0	50
+Chung Nhò Nguyªn Th¹ch	2	15	\spr\item\script\item_zhongrushi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 3<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	2	100	1	0	1	0	50
+Chung Nhò Nguyªn Th¹ch	2	16	\spr\item\script\item_zhongrushi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 3<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	3	100	1	0	1	0	50
+Chung Nhò Nguyªn Th¹ch	2	17	\spr\item\script\item_zhongrushi.spr	425	1	1	"Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 3<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) "	4	100	1	0	1	0	50
+ChiÕn cæ 	2	18	\spr\item\songjin\wardrum.spr	384	1	1	"Néi trong 3 phót, ®ång ®éi xung quanh t¨ng 30% Sinh lùc+ Phßng thñ "	5	800	1	1	1	0	50
+LÖnh bµi	2	19	\spr\item\songjin\token.spr	385	1	1	"Néi trong 3 phót, ®ång ®éi xung quanh t¨ng 30% di chuyÓn, xuÊt chiªu t¨ng 50%."	5	600	1	1	1	0	50
+Tèng Kim Ngo¹i Phæ hoµn	2	20	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, s¸t th­¬ng vËt lı hÖ ngo¹i c«ng t¨ng 50%."	5	400	1	1	1	0	50
+Tèng Kim Ngo¹i §éc hoµn	2	21	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, s¸t th­¬ng vËt lı hÖ §éc ngo¹i c«ng t¨ng 50 ®iÓm."	5	400	1	1	1	0	50
+Tèng Kim Ngo¹i B¨ng hoµn	2	22	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, s¸t th­¬ng vËt lı hÖ B¨ng ngo¹i c«ng t¨ng 100 ®iÓm."	5	400	1	1	1	0	50
+Tèng Kim Néi Phæ hoµn	2	23	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, s¸t th­¬ng vËt lı hÖ Néi c«ng t¨ng 100 ®iÓm."	5	400	1	1	1	0	50
+Tèng Kim Néi §éc hoµn	2	24	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, s¸t th­¬ng §éc hÖ Néi c«ng t¨ng 50 ®iÓm."	5	400	1	1	1	0	50
+Tèng Kim Néi B¨ng hoµn	2	25	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, B¨ng s¸t hÖ Néi c«ng t¨ng 100 ®iÓm."	5	400	1	1	1	0	50
+Tèng Kim Néi Háa hoµn	2	26	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, Ho¶ s¸t hÖ Néi c«ng t¨ng 100 ®iÓm."	5	400	1	1	1	0	50
+Tèng Kim Néi L«i hoµn	2	27	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, L«i s¸t hÖ Néi c«ng t¨ng 100 ®iÓm."	5	400	1	1	1	0	50
+Tèng Kim Tr­êng MÖnh hoµn	2	28	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, sinh mÖnh t¨ng 500 ®iÓm."	5	400	1	1	1	0	50
+Tèng Kim Gia Bµo hoµn	2	29	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, tèc ®é di chuyÓn t¨ng 20%"	5	400	1	1	1	0	50
+Tèng Kim Cao ThiÓm hoµn	2	30	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, nĞ tr¸ch t¨ng 500 ®iÓm."	5	400	1	1	1	0	50
+Tèng Kim Cao Trung hoµn	2	31	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, nĞ tr¸ch t¨ng 500 ®iÓm."	5	400	1	1	1	0	50
+Tèng Kim Phi Tèc hoµn	2	32	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, tèc ®é c«ng kİch t¨ng 50%."	5	400	1	1	1	0	50
+Tèng Kim Phæ Phßng hoµn	2	33	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, phßng Ngù t¨ng 50%."	5	400	1	1	1	0	50
+Tèng Kim B¨ng Phßng hoµn	2	34	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, phßng B¨ng t¨ng 50%."	5	400	1	1	1	0	50
+Chuyªn dïng cho Tèng Kim L«i phßng hoµn	2	35	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, phßng L«i t¨ng 50%."	5	400	1	1	1	0	50
+Chuyªn dïng cho Tèng Kim Háa phßng hoµn	2	36	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, phßng Háa t¨ng 50%."	5	400	1	1	1	0	50
+Chuyªn dïng cho Tèng Kim §éc phßng hoµn	2	37	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, phßng §éc t¨ng 50%."	5	400	1	1	1	0	50
+Tèng Kim §¹i Lùc Hoµn	2	38	\spr\item\medecine\obj-potion15.spr	19	1	1	"Néi trong 3 phót, S¸t th­¬ng vËt lı ngo¹i c«ng  t¨ng 50 ®iÓm."	5	400	1	1	1	0	50

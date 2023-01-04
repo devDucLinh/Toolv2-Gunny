@@ -1,0 +1,81 @@
+szName	nItemGenre	nDetailType	nParticularType	szImageName	nObjIdx	nWidth	nHeight	szIntro	nSeries	nPrice	nLevel	bTrade	nTypeBasic1	Min	Max	nTypeBasic2	Min	Max	nTypeBasic3	Min	Max	nTypeBasic4	Min	Max	nTypeBasic5	Min	Max	nTypeBasic6	Min	Max	nTypeBasic7	Min	Max	nTypeReq1	Value	nTypeReq2	Value	nTypeReq3	Value	nTypeReq4	Value	nTypeReq5	Value	nTypeReq6	Value
+M∆t Nπ - V≠¨ng T∏	0	11	0	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	1	1		102	102	85	100	100	89	100	100																								
+M∆t Nπ - Huy“n Gi∏c ßπi S≠	0	11	0	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	2	1		94	94	85	100	100	89	100	100																								
+M∆t Nπ - ß≠Íng B t Nhi‘m	0	11	0	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	3	1		97	97	85	100	100	89	100	100																								
+M∆t Nπ - Bπch Doanh Doanh	0	11	0	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	4	1		95	95	85	100	100	89	100	100																								
+M∆t Nπ - Thanh Tuy÷t S≠ Th∏i	0	11	0	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	5	1		101	101	85	100	100	89	100	100																								
+M∆t Nπ - Hµ Linh Phi™u	0	11	0	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	6	1		96	96	85	100	100	89	100	100																								
+M∆t Nπ - Hµ Nh©n Ng∑	0	11	0	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	7	1		90	90	85	100	100	89	100	100																								
+M∆t Nπ - Gia LuÀt Tﬁ Li	0	11	0	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	8	1		89	89	85	100	100	89	100	100																								
+M∆t Nπ - ßπo Thanh Ch©n Nh©n	0	11	0	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	9	1		88	88	85	100	100	89	100	100																								
+M∆t Nπ - Tr≠¨ng T´ng Ch›nh	0	11	0	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	10	1		100	100	85	100	100	89	100	100																								
+M∆t Nπ K˙ Binh Kim	0	11	1	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	1	1		378	378	111	-70	-70	114	10	10																								
+M∆t Nπ K◊ Binh TËng	0	11	1	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	2	1		379	379	111	-70	-70	114	10	10																								
+M∆t Nπ - Nam S≠ (Boss)	0	11	1	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	3	0		83	83	85	150	300	89	150	300	111	20	20																					
+M∆t Nπ - Bæc S≠ (Boss)	0	11	1	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	4	0		84	84	85	150	300	89	150	300	111	20	20																					
+M∆t Nπ - §ng ßﬁa	0	11	1	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	5	0		82	82	85	100	200	89	100	200																								
+M∆t Nπ - Nam S≠	0	11	1	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	6	1		83	83	85	100	200	89	100	200																								
+M∆t Nπ - Bæc S≠	0	11	1	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	7	1		84	84	85	100	200	89	100	200																								
+M∆t Nπ L©n S≠	0	11	1	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	8	1		379	379	85	50	100	89	50	100																								
+M∆t Nπ L©n S≠	0	11	1	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	9	1		378	378	85	50	100	89	50	100																								
+M∆t Nπ L©n S≠	0	11	1	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	10	1		379	379	85	50	100	89	50	100																								
+M∆t Nπ - V≠¨ng T∏	0	11	2	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	1	0		102	102	144	1	1																											
+M∆t Nπ - Huy“n Gi∏c ßπi S≠	0	11	2	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	2	0		94	94	144	1	1																											
+M∆t Nπ - ß≠Íng B t Nhi‘m	0	11	2	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	3	0		97	97	144	1	1																											
+M∆t Nπ - Bπch Doanh Doanh	0	11	2	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	4	0		95	95	144	1	1																											
+M∆t Nπ - Thanh Tuy÷t S≠ Th∏i	0	11	2	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	5	0		101	101	144	1	1																											
+M∆t Nπ - Hµ Linh Phi™u	0	11	2	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	6	0		96	96	144	1	1																											
+M∆t Nπ - Hµ Nh©n Ng∑	0	11	2	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	7	0		90	90	144	1	1																											
+M∆t Nπ - Gia LuÀt Tﬁ Li	0	11	2	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	8	0		89	89	144	1	1																											
+M∆t Nπ - ßπo Thanh Ch©n Nh©n	0	11	2	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	9	0		88	88	144	1	1																											
+M∆t Nπ - Tr≠¨ng T´ng Ch›nh	0	11	2	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	10	0		100	100	144	1	1																											
+M∆t Nπ - V≠¨ng T∏	0	11	3	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	1	0		102	102	114	5	5																											
+M∆t Nπ - Huy“n Gi∏c ßπi S≠	0	11	3	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	2	0		94	94	114	5	5																											
+M∆t Nπ - ß≠Íng B t Nhi‘m	0	11	3	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	3	0		97	97	114	5	5																											
+M∆t Nπ - Bπch Doanh Doanh	0	11	3	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	4	0		95	95	114	5	5																											
+M∆t Nπ - Thanh Tuy÷t S≠ Th∏i	0	11	3	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	5	0		101	101	114	5	5																											
+M∆t Nπ - Hµ Linh Phi™u	0	11	3	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	6	0		96	96	114	5	5																											
+M∆t Nπ - Hµ Nh©n Ng∑	0	11	3	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	7	0		90	90	114	5	5																											
+M∆t Nπ - Gia LuÀt Tﬁ Li	0	11	3	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	8	0		89	89	114	5	5																											
+M∆t Nπ - ßπo Thanh Ch©n Nh©n	0	11	3	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	9	0		88	88	114	5	5																											
+M∆t Nπ - Tr≠¨ng T´ng Ch›nh	0	11	3	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	10	0		100	100	114	5	5																											
+M∆t Nπ - V≠¨ng T∏	0	11	4	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	1	0		102	102	85	100	100	89	100	100																								
+M∆t Nπ - Huy“n Gi∏c ßπi S≠	0	11	4	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	2	0		94	94	85	100	100	89	100	100																								
+M∆t Nπ - ß≠Íng B t Nhi‘m	0	11	4	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	3	0		97	97	85	100	100	89	100	100																								
+M∆t Nπ - Bπch Doanh Doanh	0	11	4	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	4	0		95	95	85	100	100	89	100	100																								
+M∆t Nπ - Thanh Tuy÷t S≠ Th∏i	0	11	4	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	5	0		101	101	85	100	100	89	100	100																								
+M∆t Nπ - Hµ Linh Phi™u	0	11	4	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	6	0		96	96	85	100	100	89	100	100																								
+M∆t Nπ - Hµ Nh©n Ng∑	0	11	4	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	7	0		90	90	85	100	100	89	100	100																								
+M∆t Nπ - Gia LuÀt Tﬁ Li	0	11	4	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	8	0		89	89	85	100	100	89	100	100																								
+M∆t Nπ - ßπo Thanh Ch©n Nh©n	0	11	4	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	9	0		88	88	85	100	100	89	100	100																								
+M∆t Nπ - Tr≠¨ng T´ng Ch›nh	0	11	4	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	10	0		100	100	85	100	100	89	100	100																								
+M∆t Nπ - Ng≠Íi Tuy’t Vµng	0	11	5	\spr\item\equip\mask\yrmj_01.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	1	1		1329	1329	85	120	120	89	120	120																								
+M∆t Nπ - Ng≠Íi Tuy’t T›m	0	11	5	\spr\item\equip\mask\yrmj_01.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	2	1		1330	1330	85	120	120	89	120	120																								
+M∆t Nπ - Ng≠Íi Tuy’t Xanh	0	11	5	\spr\item\equip\mask\yrmj_01.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	3	1		1331	1331	85	120	120	89	120	120																								
+M∆t Nπ - §ng Giµ Noel	0	11	5	\spr\item\equip\mask\yrmj_01.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	4	1		623	623	85	100	100	89	100	100																								
+M∆t Nπ - Tuy’t Nhi	0	11	5	\spr\item\equip\mask\yrmj_01.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	5	1		1328	1328	85	100	100	89	100	100																								
+M∆t Nπ - Tu«n LÈc	0	11	5	\spr\item\equip\mask\yrmj_01.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	6	1		1125	1125	85	100	100	89	100	100																								
+M∆t Nπ - Tinh Linh (xanh)	0	11	5	\spr\item\equip\mask\yrmj_01.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	7	0		1126	1126	85	100	100	89	100	100																								
+M∆t Nπ - Tinh Linh (t›m)	0	11	5	\spr\item\equip\mask\yrmj_01.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	8	0		1127	1127	85	100	100	89	100	100																								
+M∆t Nπ - Tinh Linh (Æ·)	0	11	5	\spr\item\equip\mask\yrmj_01.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	9	0		1128	1128	85	100	100	89	100	100																								
+M∆t Nπ - Tinh Linh (vµng)	0	11	5	\spr\item\equip\mask\yrmj_01.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	10	0		1129	1129	85	100	100	89	100	100																								
+M∆t Nπ - Tuy’t B∏o	0	11	6	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	1	0		43	43	85	150	200	89	150	200																								
+M∆t Nπ - Voi Ch©u ∏	0	11	6	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	2	0		44	44	85	150	200	89	150	200																								
+M∆t Nπ - Nh›m	0	11	6	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	3	0		126	126	85	150	200	89	150	200																								
+M∆t Nπ - H≠¨u ßËm	0	11	6	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	4	0		36	36	85	150	200	89	150	200																								
+M∆t Nπ - Heo træng	0	11	6	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	5	0		34	34	85	150	200	89	150	200																								
+M∆t Nπ - HÂi Lang	0	11	6	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	6	0		39	39	85	150	200	89	150	200																								
+M∆t Nπ - Bﬂ cπp	0	11	6	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	7	0		61	61	85	150	200	89	150	200																								
+M∆t Nπ - Hæc Di÷p H«u	0	11	6	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	8	0		864	864	85	150	200	89	150	200																								
+M∆t Nπ - Nh÷n	0	11	6	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	9	0		62	62	85	150	200	89	150	200																								
+M∆t Nπ - Kim Mi™u	0	11	6	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	10	0		35	35	85	150	200	89	150	200																								
+M∆t Nπ - Tuy’t B∏o	0	11	7	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	1	1		43	43	85	150	200	89	150	200																								
+M∆t Nπ - Voi Ch©u ∏	0	11	7	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	2	1		44	44	85	150	200	89	150	200																								
+M∆t Nπ - Nh›m	0	11	7	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	3	1		126	126	85	150	200	89	150	200																								
+M∆t Nπ - H≠¨u ßËm	0	11	7	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	4	1		36	36	85	150	200	89	150	200																								
+M∆t Nπ - Heo træng	0	11	7	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	5	1		34	34	85	150	200	89	150	200																								
+M∆t Nπ - HÂi Lang	0	11	7	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	6	1		39	39	85	150	200	89	150	200																								
+M∆t Nπ - Bﬂ cπp	0	11	7	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	7	1		61	61	85	150	200	89	150	200																								
+M∆t Nπ - Hæc Di÷p H«u	0	11	7	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	8	1		864	864	85	150	200	89	150	200																								
+M∆t Nπ - Nh÷n	0	11	7	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	9	1		62	62	85	150	200	89	150	200																								
+M∆t Nπ - Kim Mi™u	0	11	7	\spr\item\equip\mask\yrmj_02.spr	379	1	1	Mang vµo sœ bi’n thµnh NPC t≠¨ng ¯ng	0	100	10	1		35	35	85	150	200	89	150	200																								

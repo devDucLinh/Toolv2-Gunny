@@ -1,0 +1,470 @@
+szName	nItemGenre	nDetailType	szImageName	nObjIdx	nWidth	nHeight	szIntro	Coin	IsUse	IsTrade	IsThrow	nMaxStack
+Vâ L©m MËt TŞch	4	0	\spr\item\questkey\obj_item_lection.spr	341	1	1	Sö dông nhËn ®­îc 1 ®iÓm kü n¨ng<enter>Tèi ®a sö dông <color=fire>10 cuèn<color>	20	1	1	0	0
+TÈy Tñy Kinh	4	1	\spr\item\questkey\obj_item_lection.spr	341	1	1	Sö dông nhËn ®­îc 5 ®iÓm tiÒm n¨ng<enter>Tèi ®a sö dông  <color=fire>10 cuèn<color>	20	1	1	0	0
+ThiÕt La H¸n	4	2	\spr\item\questkey\obj_item_lection.spr	341	1	1	Bİ kİp cao cÊp, tu luyÖn sÏ nhËn ®­îc kinh nghiÖm.	5	1	1	0	0
+Hoµng Kim §¹i Ph¸p	4	3	\spr\item\sach4.spr	341	1	1	<color=fire>QuyÓn ®¹i ph¸p dïng ®Ó nghiªn cøu ra Hoµng Kim LÖnh, thî rÌn ë Ba L¨ng HuyÖn biÕt c¸ch dïng.<color>	100	0	0	1	0
+HuyÒn Tinh CÊp 1	4	4	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	PhÈm chÊt : <color=water>1<color><enter>Nguyªn liÖu dïng ®Ó chÕ t¹o ®å hoµng kim	10	0	0	1	10
+HuyÒn Tinh CÊp 2	4	5	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	PhÈm chÊt : <color=water>2<color><enter>Nguyªn liÖu dïng ®Ó chÕ t¹o ®å hoµng kim	20	0	0	1	10
+HuyÒn Tinh CÊp 3	4	6	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	PhÈm chÊt : <color=water>3<color><enter>Nguyªn liÖu dïng ®Ó chÕ t¹o ®å hoµng kim	30	0	0	1	10
+HuyÒn Tinh CÊp 4	4	7	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	PhÈm chÊt : <color=water>4<color><enter>Nguyªn liÖu dïng ®Ó chÕ t¹o ®å hoµng kim	40	0	0	1	10
+HuyÒn Tinh CÊp 5	4	8	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	PhÈm chÊt : <color=water>5<color><enter>Nguyªn liÖu dïng ®Ó chÕ t¹o ®å hoµng kim	50	0	0	1	10
+HuyÒn Tinh CÊp 6	4	9	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	PhÈm chÊt : <color=water>6<color><enter>Nguyªn liÖu dïng ®Ó chÕ t¹o ®å hoµng kim	60	0	0	1	10
+HuyÒn Tinh CÊp 7	4	10	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	PhÈm chÊt : <color=water>7<color><enter>Nguyªn liÖu dïng ®Ó chÕ t¹o ®å hoµng kim	70	0	0	1	10
+HuyÒn Tinh CÊp 8	4	11	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	PhÈm chÊt : <color=water>8<color><enter>Nguyªn liÖu dïng ®Ó chÕ t¹o ®å hoµng kim	80	0	1	1	10
+HuyÒn Tinh CÊp 9	4	12	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	PhÈm chÊt : <color=water>9<color><enter>Nguyªn liÖu dïng ®Ó chÕ t¹o ®å hoµng kim	90	0	1	1	10
+HuyÒn Tinh CÊp 10	4	13	\spr\item\script\item_xuanjingkuangshi.spr	333	1	1	PhÈm chÊt : <color=water>10<color><enter>Nguyªn liÖu dïng ®Ó chÕ t¹o ®å hoµng kim	100	0	1	1	10
+Tö Thñy Tinh	4	14	\spr\item\questkey\baoshi_xingtian.spr	467	1	1	Lo¹i Thñy tinh cã thÓ n©ng cÊp trang bŞ.	20	0	1	1	0
+Lôc Thñy Tinh	4	15	\spr\item\questkey\baoshi_nvwa.spr	468	1	1	Lo¹i thñy tinh cã thÓ gióp thay ®æi c¸c thuéc tİnh cña trang bŞ.	20	0	1	1	0
+Lam Thñy Tinh	4	16	\spr\item\questkey\baoshi_zhuanxu.spr	469	1	1	Lo¹i Thñy tinh cã thÓ lµm thay ®æi ngò  hµnh cña trang bŞ.	20	0	1	1	0
+Tinh Hång B¶o Th¹ch	4	17	\spr\item\obj_item_red.spr	333	1	1	Mét viªn b¶o th¹ch thÇn bİ, ng­êi luyÖn vâ cã thÓ dïng ®Ó ®¶ th«ng kinh m¹ch.	15	0	1	1	0
+L¨ng V­¬ng Th­¬ng §o¹n T¹o Tµn Biªn (Th­¬ng)	4	18	\spr\item\citydefence\bigfragment.spr	347	1	1	Mét m¶nh ®å phæ dïng ®Ó t¨ng cÊp vò khİ, lµ vËt quı T©y Vùc.	15	0	1	1	0
+HuyÒn Vò Chïy Chi §óc T¹o ThuËt (Chïy)	4	19	\spr\item\citydefence\bigfragment.spr	347	1	1	Mét m¶nh ®å phæ dïng ®Ó t¨ng cÊp vò khİ, lµ vËt quı T©y Vùc.	15	0	1	1	0
+Long Ng©m KiÕm §o¹n T¹o §å (KiÕm)	4	20	\spr\item\citydefence\bigfragment.spr	347	1	1	Mét m¶nh ®å phæ dïng ®Ó t¨ng cÊp vò khİ, lµ vËt quı T©y Vùc.	15	0	1	1	0
+Gia C¸t C¬ Qu¸t MËt YÕu (Ná)	4	21	\spr\item\citydefence\bigfragment.spr	347	1	1	Mét m¶nh ®å phæ dïng ®Ó t¨ng cÊp vò khİ, lµ vËt quı T©y Vùc.	15	0	1	1	0
+LiÔu DiÖp To¸i Phong §ao Tôy Thó Biªn (Phi §ao)	4	22	\spr\item\citydefence\bigfragment.spr	347	1	1	Mét m¶nh ®å phæ dïng ®Ó t¨ng cÊp vò khİ, lµ vËt quı T©y Vùc.	15	0	1	1	0
+HuyÒn NguyÖt §ao Tö Kinh B¶o Lôc (§ao)	4	23	\spr\item\citydefence\bigfragment.spr	347	1	1	Mét m¶nh ®å phæ dïng ®Ó t¨ng cÊp vò khİ, lµ vËt quı T©y Vùc.	15	0	1	1	0
+Thiªn C¬ C«n §å Phæ (C«n)	4	24	\spr\item\citydefence\bigfragment.spr	347	1	1	Mét m¶nh ®å phæ dïng ®Ó t¨ng cÊp vò khİ, lµ vËt quı T©y Vùc.	15	0	1	1	0
+¸m Khİ Tæng Phæ QuyÓn 1 (Phi Tiªu)	4	25	\spr\item\citydefence\bigfragment.spr	347	1	1	Mét m¶nh ®å phæ dïng ®Ó t¨ng cÊp vò khİ, lµ vËt quı T©y Vùc.	15	0	1	1	0
+Uyªn ¦¬ng §ao Khai Quang Biªn (Song ®ao)	4	26	\spr\item\citydefence\bigfragment.spr	347	1	1	Mét m¶nh ®å phæ dïng ®Ó t¨ng cÊp vò khİ, lµ vËt quı T©y Vùc.	15	0	1	1	0
+B¸t Nh· Ba La MËt T©m Kinh	4	27	\spr\item\questkey\taskobj027.spr	41	1	1	Vat pham nhiem vu Thieu Lam cap 30.	100	0	0	1	0
+§ïi Gµ	4	28	\spr\item\questkey\taskobj106.spr	41	1	1	Vat pham nhiem vu Thieu Lam cap 50.	100	0	0	1	0
+Kª HuyÕt Th¹ch	4	29	\spr\item\questkey\taskobj085.spr	41	1	1	Loai bao thach quy hiem, co the xua duoi ta ma.	100	0	0	1	0
+L¸ Cê GÊm	4	30	\spr\item\questkey\taskobj086.spr	41	1	1	Mot la co Gam mau hong, phia tren co theu 4 chu Vang "Yeu dan nhu con".	100	0	0	1	0
+Phóc Duyªn Lé (tiÓu)	4	31	\spr\item\medecine\fuyuanlu_small.spr	370	1	1	Sö dông nhËn ®­îc 10 ®iÓm phóc duyªn	12	1	1	1	0
+Phóc Duyªn Lé (trung)	4	32	\spr\item\medecine\fuyuanlu_middle.spr	370	1	1	Sö dông nhËn ®­îc 20 ®iÓm phóc duyªn	24	1	1	1	0
+Phóc Duyªn Lé (®¹i)	4	33	\spr\item\medecine\fuyuanlu_big.spr	370	1	1	Sö dông nhËn ®­îc 50 ®iÓm phóc duyªn	60	1	1	1	0
+Hoa Hång §á	4	34	\spr\event\8thang3\hoahongdo.spr	41	1	1	Mét ®ãa hoa hång mµu ®á xinh ®Ñp nh­ng ®Çy gai	100	0	0	1	250
+Bã Hoa Hång (nhá)	4	35	\spr\event\8thang3\bohoahongnho.spr	41	1	1	Bã b«ng hång nhá dµnh tÆng cho c¸c mü nh©n xinh ®Ñp	100	0	0	1	100
+Bã Hoa Hång (lín)	4	36	\spr\event\8thang3\bohoahonglon.spr	41	1	1	Bã hoa hång lín bªn trong cã 999 ®ãa hång, c¸c mü nh©n sÏ rÊt thİch mãn quµ nµy	100	0	1	1	100
+Tèng Kim LÔ Bao (tiÓu)	4	37	\spr\item\questkey\obj_item_hehuan.spr	41	1	1	Bªn trong cã chøa nhiÒu kinh nghiÖm, tïy ®¼ng cÊp qu©n hµm sè l­îng nhiÒu hay thÊp	1000	1	0	1	0
+ Tèng Kim Chiªu Th­ 	4	38	\spr\item\songjin\rescript.spr	383	1	1	Cã thÓ tù lùa chän khu vùc ®Ó ®Õn b¸o danh	10000	1	1	1	10
+Hu©n C«ng Bµi Tèng Kim	4	39	\spr\item\questkey\taskobj021.spr	383	1	1	Sö dông sÏ nhËn ®­îc  100 v¹n/150 v¹n/200 v¹n ®iÓm kinh nghiÖm, kh«ng céng dån.	5000	1	1	1	0
+ R­¬ng Ngùa ChiÕu D¹ 	4	40	\spr\item\hopquagiangsinh.spr	41	1	1	Bªn trong cã ch­a chiÕn m· ChiÕu D¹ Ngäc S­ Tö, 1 trong 8 con ngùa cña Chu Môc V­¬ng	150	1	1	1	0
+Hép LÔ VËt V­ît ¶i	4	41	\spr\item\script\cangbaotujinhe.spr	41	1	1	Bªn trong chøa nhiÒu vËt phÈm quı	250	1	0	1	0
+Qu¶ Huy Hoµng (s¬)	4	42	\spr\item\questkey\huihuangzhiguo.spr	377	1	1	Lo¹i qu¶ quı hiÕm, sö dông sÏ t¨ng thªm: 500.000 ®iÓm kinh nghiÖm	100	1	0	1	0
+Qu¶ Huy Hoµng (trung)	4	43	\spr\item\questkey\huihuangzhiguo.spr	377	1	1	Lo¹i qu¶ quı hiÕm, sö dông sÏ t¨ng thªm: 2.000.000 ®iÓm kinh nghiÖm	100	1	1	1	0
+Qu¶ Huy Hoµng (cao)	4	44	\spr\item\questkey\huihuangzhiguo.spr	377	1	1	Lo¹i qu¶ quı hiÕm, sö dông sÏ t¨ng thªm: 3.000.000 ®iÓm kinh nghiÖm	100	1	1	1	0
+Qu¶ Hoµng Kim	4	45	\spr\item\questkey\huangjinzhiguo.spr	377	1	1	Lo¹i qu¶ quı hiÕm, sö dông sÏ t¨ng thªm: 30.000.000 ®iÓm kinh nghiÖm	100	1	1	1	0
+Nh¹c V­¬ng Hån Th¹ch	4	46	\spr\item\questkey\taskobj105.spr	41	1	1	Thu thËp ®ñ 50 viªn ®Õn thî rÌn D­¬ng Ch©u chÕ Nh¹c V­¬ng KiÕm	20000	0	1	1	100
+Nh¹c V­¬ng KiÕm	4	47	\spr\item\nvk.spr	41	2	3	Béi kiÕm cña Nh¹c Phi, tİn vËt ®Ó kiÕn lËp bang héi	2000	0	1	1	0
+Trang BŞ An Bang	4	48	\spr\item\questkey\tuimauvang.spr	41	1	1	Sö dông nhËn ®­îc ngÉu nhiªn mét ®å hoµng kim An Bang.	300	1	1	1	0
+Trang BŞ §Şnh Quèc	4	49	\spr\item\questkey\tuimaudo.spr	41	1	1	Sö dông nhËn ®­îc ngÉu nhiªn mét ®å hoµng kim §Şnh Quèc.	250	1	1	1	0
+Trang BŞ Nhu T×nh	4	50	\spr\item\questkey\tuimauhong.spr	41	1	1	Tói b¶o vËt bªn trong cã chøa trang bŞ Nhu T×nh.	200	1	1	1	0
+Trang BŞ HiÖp Cèt	4	51	\spr\item\questkey\tuimauxanh.spr	41	1	1	Tói b¶o vËt bªn trong cã chøa trang bŞ HiÖp Cèt.	200	1	1	1	0
+S­ §å ThiÕp	4	52	\spr\item\new\sudothiep.spr	38	1	1	VËt phÈm hæ trî cho viÖc nhËn s­ ®å	100	1	0	1	0
+LÖnh bµi Phong L¨ng §é	4	53	\spr\item\questkey\006.spr	385	1	1	VËt phÈm dïng ®Ó lªn thuyÒn <color=fire>Phong L¨ng §é<color>	20	0	1	1	0
+S¸t Thñ LÖnh [Kim]	4	54	\spr\item\questkey\taskobj126.spr	336	1	1	PhÇn th­ëng cho nhiÖm vô giÕt Boss <enter>5 c¸i ®ång cÊp ®æi ®­îc 1 S¸t Thñ gi¶n.	20	0	1	0	10
+S¸t Thñ LÖnh [Méc]	4	55	\spr\item\questkey\taskobj126.spr	336	1	1	PhÇn th­ëng cho nhiÖm vô giÕt Boss <enter>5 c¸i ®ång cÊp ®æi ®­îc 1 S¸t Thñ gi¶n.	20	0	1	0	10
+S¸t Thñ LÖnh [Thñy]	4	56	\spr\item\questkey\taskobj126.spr	336	1	1	PhÇn th­ëng cho nhiÖm vô giÕt Boss <enter>5 c¸i ®ång cÊp ®æi ®­îc 1 S¸t Thñ gi¶n.	20	0	1	0	10
+S¸t Thñ LÖnh [Háa]	4	57	\spr\item\questkey\taskobj126.spr	336	1	1	PhÇn th­ëng cho nhiÖm vô giÕt Boss <enter>5 c¸i ®ång cÊp ®æi ®­îc 1 S¸t Thñ gi¶n.	20	0	1	0	10
+S¸t Thñ LÖnh [Thæ]	4	58	\spr\item\questkey\taskobj126.spr	336	1	1	PhÇn th­ëng cho nhiÖm vô giÕt Boss <enter>5 c¸i ®ång cÊp ®æi ®­îc 1 S¸t Thñ gi¶n.	20	0	1	0	10
+S¸t Thñ Gi¶n [Kim]	4	59	\spr\item\questkey\taskobj033.spr	9	1	2	Mang ®Õn gÆp NhiÕp Thİ TrÇn ®Ó nhËn nhiÖm vô ®Æc biÖt.	10	0	1	0	0
+S¸t Thñ Gi¶n [Méc]	4	60	\spr\item\questkey\taskobj033.spr	9	1	2	Mang ®Õn gÆp NhiÕp Thİ TrÇn ®Ó nhËn nhiÖm vô ®Æc biÖt.	10	0	1	0	0
+S¸t Thñ Gi¶n [Thñy]	4	61	\spr\item\questkey\taskobj033.spr	9	1	2	Mang ®Õn gÆp NhiÕp Thİ TrÇn ®Ó nhËn nhiÖm vô ®Æc biÖt.	10	0	1	0	0
+S¸t Thñ Gi¶n [Háa]	4	62	\spr\item\questkey\taskobj033.spr	9	1	2	Mang ®Õn gÆp NhiÕp Thİ TrÇn ®Ó nhËn nhiÖm vô ®Æc biÖt.	10	0	1	0	0
+S¸t Thñ Gi¶n [Thæ]	4	63	\spr\item\questkey\taskobj033.spr	9	1	2	Mang ®Õn gÆp NhiÕp Thİ TrÇn ®Ó nhËn nhiÖm vô ®Æc biÖt.	10	0	1	0	0
+S¸t Thñ Gi¶n LÔ Hép	4	64	\spr\item\hopquagiangsinh.spr	28	1	1	Bªn trong ch­a 5 S¸t Thñ Gi¶n theo ngò hµnh	1500	1	1	1	0
+Ch­a dïng	4	65	\spr\item\equip\armor\obj-ma-cloth11-3.spr	22	2	3	<color=yellow>Thêi gian phôc håi: 40 - 50%<enter>Sinh lùc tèi ®a: 120 - 200 ®iÓm<color><enter>H¹n sö dông: <color=red>vÜnh viÔn	1500	1	1	1	0
+Ch­a dïng	4	66	\spr\item\equip\sash\obj-sash17.spr	32	2	1	<color=yellow>Sinh lùc tèi ®a: -50 - 50 ®iÓm<enter>Thêi gian tróng ®éc: 30 - 40%<color><enter>H¹n sö dông: <color=red>vÜnh viÔn	1500	1	1	1	0
+Ch­a dïng	4	67	\spr\item\equip\boots\obj-shoes06.spr	26	2	2	<color=yellow>Tèc ®é di chuyÓn: 30 - 40%<enter>Sinh lùc tèi ®a: 120 - 200 ®iÓm<color><enter>H¹n sö dông: <color=red>vÜnh viÔn	1500	1	1	1	0
+Ch­a dïng	4	68	\spr\item\equip\bangle\obj-bangle13.spr	34	1	2	<color=yellow>Sinh lùc tèi ®a: -50 - 50 ®iÓm<enter>Thêi gian lµm chËm: 40 - 50%<color><enter>H¹n sö dông: <color=red>vÜnh viÔn	1500	1	1	1	0
+Ch­a dïng	4	69	\spr\item\equip\closeweapon\obj-staff01.spr	41	1	1	Loai vat pham da duoc so che va tao hinh, neu biet su dung no co gia tri khong nho	100	0	0	1	0
+Ch­a dïng	4	70	\spr\item\script\item_huangjintupu.spr	424	1	1	<color=fire>Bi Pho Dung De Tinh Luyen Trang Bi<color>	100	0	0	1	0
+Ch­a dïng	4	71	\spr\item\yulanpenjie\shuilianhua.spr	445	1	1	VËt phÈm nhiÖm vô.	100	0	0	1	0
+Ch­a dïng	4	72	\spr\item\yulanpenjie\huolianhua.spr	446	1	1	VËt phÈm nhiÖm vô.	100	0	0	1	0
+Ch­a dïng	4	73	\spr\item\yulanpenjie\tulianhua.spr	447	1	1	VËt phÈm nhiÖm vô.	100	0	0	1	0
+Ch­a dïng	4	74	\spr\item\script\item_miyinkuang.spr	41	1	1	Vat Pham Quy Hiem Dung De <color=pink>Che Tao Trang Bi<color>	100	0	0	1	0
+ThiÕu L©m QuyÒn Ph¸p. QuyÓn 1	4	75	\spr\item\questkey\obj_item_lection.spr	341	1	1	ThiÕu L©m QuyÒn Ph¸p, luyÖn tËp sÏ thuÇn thôc <§¹t Ma §é Giang>kü n¨ng.	20	1	1	0	0
+ThiÕu L©m §ao ph¸p. QuyÓn 3	4	76	\spr\item\questkey\obj_item_lection.spr	341	1	1	ThiÕu L©m §ao ph¸p, luyÖn tËp sÏ thuÇn thôc <V« T­íng Tr¶m>.	20	1	1	0	0
+ThiÕu L©m C«n ph¸p. QuyÓn 2	4	77	\spr\item\questkey\obj_item_lection.spr	341	1	1	ThiÕu L©m C«n ph¸p, luyÖn tËp sÏ thuÇn thôc <Hoµnh T¶o Thiªn Qu©n>.	20	1	1	0	0
+Thiªn V­¬ng Th­¬ng ph¸p. QuyÓn 2	4	78	\spr\item\questkey\obj_item_lection.spr	341	1	1	Bªn trong ghi l¹i nh÷ng tuyÖt kü Truy Tinh Trôc NguyÖt	20	1	1	0	0
+Thiªn V­¬ng Chïy Ph¸p. QuyÓn 1	4	79	\spr\item\questkey\obj_item_lection.spr	341	1	1	MËt TŞch Thiªn V­¬ng bang, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc	20	1	1	0	0
+Thiªn V­¬ng §ao ph¸p.QuyÓn 3	4	80	\spr\item\questkey\obj_item_lection.spr	341	1	1	Thiªn V­¬ng §ao Ph¸p, QuyÓn 3, häc thuéc sÏ thuÇn thôc Truy phong QuyÕt	20	1	1	0	0
+Tô TiÔn thuËt. B¹o Vò Lª Hoa	4	81	\spr\item\questkey\obj_item_lection.spr	341	1	1	YÕu quyÕt B¹o Vò Lª Hoa, siªng luyÖn tËp sÏ thuÇn thôc kü n¨ng B¹o Vò Lª Hoa.	20	1	1	0	0
+Phi §ao thuËt. NhiÕp Hån NguyÖt ¶nh	4	82	\spr\item\questkey\obj_item_lection.spr	341	1	1	§­êng m«n Phi §ao thuËt, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc NhiÕp hån NguyÖt ¶nh	20	1	1	0	0
+Phi Tiªu thuËt. Cöu Cung Phi Tinh	4	83	\spr\item\questkey\obj_item_lection.spr	341	1	1	§­êng m«n Phi Tiªu thuËt, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc	20	1	1	0	0
+H·m TÜnh thuËt.Lo¹n Hoµn Kİch	4	84	\spr\item\questkey\obj_item_lection.spr	341	1	1	bİ truyÒn cña §­êng m«n, siªng luyÖn tËp sÏ thuÇn thôc kü n¨ng Lo¹n Hoµn Kİch.	20	1	1	0	0
+Ngò §éc Ch­ëng Ph¸p. QuyÓn 1	4	85	\spr\item\questkey\obj_item_lection.spr	341	1	1	Ngò §éc Ch­ëng Ph¸p, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc ¢m Phong Thùc Cèt	20	1	1	0	0
+Ngò §éc §ao ph¸p. QuyÓn 2	4	86	\spr\item\questkey\obj_item_lection.spr	341	1	1	Ngò §éc §ao Ph¸p, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc HuyÒn ¢m Tr¶m	20	1	1	0	0
+Ngò §éc NhiÕp T©m thuËt. QuyÓn 3	4	87	\spr\item\questkey\obj_item_lection.spr	341	1	1	Ngò §éc t©m ph¸p, luyÖn tËp sÏ thuÇn thôc <§o©n C©n Hñ Cèt >	20	1	1	0	0
+Nga Mi  PhËt Quang Ch­ëng MËt TŞch	4	88	\spr\item\questkey\obj_item_lection.spr	341	1	1	Nga Mi MËt tŞch, h­íng dÉn luyÖn tËp <Phong S­¬ng To¸i ¶nh>.	20	1	1	0	0
+DiÖt KiÕm MËt TŞch	4	89	\spr\item\questkey\obj_item_lection.spr	341	1	1	Nga Mi MËt TŞch, ghi l¹i nh÷ng chiªu kiÕm tuyÖt kü cña Nga Mi 	20	1	1	0	0
+Phæ §é MËt TŞch	4	90	\spr\item\questkey\obj_item_lection.spr	341	1	1	Phæ §é MËt TŞch, ghi chó chiªu thøc <Phæ §é Chóng Sinh>	20	1	1	0	0
+Thóy Yªn §ao ph¸p	4	91	\spr\item\questkey\obj_item_lection.spr	341	1	1	MËt TŞch Thóy Yªn m«n, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc	20	1	1	0	0
+Thóy Yªn Song ®ao	4	92	\spr\item\questkey\obj_item_lection.spr	341	1	1	MËt TŞch  song ®ao, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc	20	1	1	0	0
+C¸i Bang Ch­ëng Ph¸p	4	93	\spr\item\questkey\obj_item_lection.spr	341	1	1	C¸i Bang Ch­ëng Ph¸p,luyÖn tËp sÏ thuÇn thôc <Phi Long T¹i Thiªn>	20	1	1	0	0
+C¸i Bang C«n ph¸p	4	94	\spr\item\questkey\obj_item_lection.spr	341	1	1	C¸i Bang C«n ph¸p,luyÖn tËp sÏ thuÇn thôc <Thiªn H¹ V« CÈu>.	20	1	1	0	0
+L­u Tinh. §ao ph¸p	4	95	\spr\item\questkey\obj_item_lection.spr	341	1	1	MËt TŞch Thiªn NhÉn, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc	20	1	1	0	0
+V©n Long Kİch. M©u ph¸p	4	96	\spr\item\questkey\obj_item_lection.spr	341	1	1	Ghi l¹i chiªu thøc cao cÊp cña Thiªn NhÉn m©u ph¸p, häc xong sÏ lÜnh héi ®­îc chiªu thøc <V©n Long Kİch>.	20	1	1	0	0
+NhiÕp Hån. Chó thuËt	4	97	\spr\item\questkey\obj_item_lection.spr	341	1	1	Chiªu thøc bïa chó cao cÊp cña Thiªn nhÉn, häc xong sÏ lÜnh héi ®­îc <NhiÕp hån lo¹n t©m>.	20	1	1	0	0
+Th¸i Cùc QuyÒn Phæ. QuyÓn 3	4	98	\spr\item\questkey\obj_item_lection.spr	341	1	1	MËt TŞch  Vâ §ang, xem tõ tõ cã thÓ hiÓu	20	1	1	0	0
+Th¸i Cùc KiÕm Phæ. QuyÓn 2	4	99	\spr\item\questkey\obj_item_lection.spr	341	1	1	MËt TŞch kü n¨ng Vâ §ang, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc	20	1	1	0	0
+Ngù L«i thuËt	4	100	\spr\item\questkey\obj_item_lection.spr	341	1	1	C«n L«n KiÕm Ph¸p, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc L«i ®éng Cöu Thiªn 	20	1	1	0	0
+Ngù Phong thuËt	4	101	\spr\item\questkey\obj_item_lection.spr	341	1	1	C«n L«n §ao Ph¸p, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc Ng¹o TuyÕt Tiªu Phong	20	1	1	0	0
+Ngù T©m thuËt	4	102	\spr\item\questkey\obj_item_lection.spr	341	1	1	C«n L«n t©m Ph¸p, th­êng xuyªn luyÖn tËp sÏ thuÇn thôc Tóy Tiªn T¸ Cèt	20	1	1	0	0
+Tiªn Th¶o Lé (tiÓu)	4	103	\spr\item\medecine\xiancaolu.spr	405	1	1	Néi 1 giê, kinh nghiÖm t¨ng gÊp ®«i (t¸i sö dông v« hiÖu)	100	1	0	1	0
+Tiªn Th¶o Lé (trung)	4	104	\spr\item\medecine\xiancaolu.spr	405	1	1	Néi 2 giê, kinh nghiÖm t¨ng gÊp ®«i (t¸i sö dông v« hiÖu)	200	1	0	1	0
+Tiªn Th¶o Lé (®¹i)	4	105	\spr\item\medecine\xiancaolu.spr	405	1	1	Néi 4 giê, kinh nghiÖm t¨ng gÊp ®«i (t¸i sö dông v« hiÖu)	400	1	0	1	0
+Kİnh Hoa Lé (tiÓu)	4	106	\spr\item\medecine\xiancaolu_sp.spr	403	1	1	Néi 1 giê, kinh nghiÖm luyÖn kü n¨ng t¨ng gÊp ®«i (t¸i sö dông v« hiÖu)	150	1	0	1	0
+Kİnh Hoa Lé (trung)	4	107	\spr\item\medecine\xiancaolu_sp.spr	403	1	1	Néi 2 giê, kinh nghiÖm luyÖn kü n¨ng t¨ng gÊp ®«i (t¸i sö dông v« hiÖu)	300	1	0	1	0
+Kİnh Hoa Lé (®¹i)	4	108	\spr\item\medecine\xiancaolu_sp.spr	403	1	1	Néi 4 giê, kinh nghiÖm luyÖn kü n¨ng t¨ng gÊp ®«i (t¸i sö dông v« hiÖu)	600	1	0	1	0
+Tiªn Th¶o Lé (tiÓu)	4	109	\spr\item\medecine\xiancaolu.spr	405	1	1	Néi 1 giê, kinh nghiÖm t¨ng gÊp ®«i (t¸i sö dông v« hiÖu)	10	1	1	1	0
+Tiªn Th¶o Lé (trung)	4	110	\spr\item\medecine\xiancaolu.spr	405	1	1	Néi 2 giê, kinh nghiÖm t¨ng gÊp ®«i (t¸i sö dông v« hiÖu)	20	1	1	1	0
+Tiªn Th¶o Lé (®¹i)	4	111	\spr\item\medecine\xiancaolu.spr	405	1	1	Néi 4 giê, kinh nghiÖm t¨ng gÊp ®«i (t¸i sö dông v« hiÖu)	40	1	1	1	0
+Kİnh Hoa Lé (tiÓu)	4	112	\spr\item\medecine\xiancaolu_sp.spr	403	1	1	Néi 1 giê, kinh nghiÖm luyÖn kü n¨ng t¨ng gÊp ®«i (t¸i sö dông v« hiÖu)	15	1	1	1	0
+Kİnh Hoa Lé (trung)	4	113	\spr\item\medecine\xiancaolu_sp.spr	403	1	1	Néi 2 giê, kinh nghiÖm luyÖn kü n¨ng t¨ng gÊp ®«i (t¸i sö dông v« hiÖu)	30	1	1	1	0
+Kİnh Hoa Lé (®¹i)	4	114	\spr\item\medecine\xiancaolu_sp.spr	403	1	1	Néi 4 giê, kinh nghiÖm luyÖn kü n¨ng t¨ng gÊp ®«i (t¸i sö dông v« hiÖu)	60	1	1	1	0
+Háa Liªn Hoa	4	115	\spr\item\yulanpenjie\huolianhua.spr	446	1	1	Lo¹i ®¸ ®­îc kÕt tinh tõ háa nham.	0	0	0	1	0
+ch­a dïng	4	116	\spr\item\questkey\Ôµİõ½£.spr	41	2	3	<color=green>VËt PhÈm Dµnh Cho Ng­êi Muèn Thèng L·nh Mét Bang	2500	0	1	1	0
+ch­a dïng	4	117	\spr\Ui3\±íÇé\417.spr	41	1	1	Thu thËp ®ñ 50 viªn ®Õn thî rÌn D­¬ng Ch©u chÕ Nh¹c V­¬ng KiÕm	20000	1	1	1	50
+ThŞt Heo tr¾ng	4	118	\spr\item\questkey\taskobj398.spr	364	1	1	§Õn gÆp vâ s­ trong lµng ®æi lÊy ng©n l­îng	0	0	1	1	100
+B¶o KiÕm BŞ §¸nh C¾p	4	119	\spr\item\questkey\taskobj105.spr	41	2	3	<color=green>B¶o KiÕm BŞ §¸nh C¾p<enter><color=red>VËt PhÈm NhiÖm Vô	0	0	0	1	0
+Minh Chñ LÖnh	4	120	\spr\item\vietnam\leaguematch\icon_league_gold.spr	341	1	1	<bclr=green>LÖnh bµi qu¶n lı JXLove<bclr>	0	1	0	1	0
+Kim PhËt	4	121	\spr\item\task\buddha.spr	413	1	1	Mét bøc t­îng PhËt b»ng Vµng	0	0	0	1	0
+LÖnh bµi th«ng hµnh phe c«ng thµnh	4	122	\spr\item\questkey\taskobj126.spr	336	1	1	Lªnh bµi th«ng hµnh ®Ó tham gia c«ng thµnh	200000	0	1	1	0
+LÖnh bµi th«ng hµnh phe thñ thµnh	4	123	\spr\item\questkey\taskobj126.spr	336	1	1	Lªnh bµi th«ng hµnh ®Ó tham gia thñ thµnh	200000	0	1	1	0
+Khiªu ChiÕn LÖnh	4	124	\spr\item\questkey\taskobj126.spr	336	1	1	VËt phÈm dïng ®Ó tham gia ®Êu gi¸ c«ng thµnh	5000	0	0	1	50
+Danh Väng Lé (tiÓu)	4	125	\spr\item\questkey\taskobj073.spr	41	1	1	Sö dông nhËn ®­îc 10 ®iÓm danh väng	12	1	1	1	0
+Danh Väng Lé (trung)	4	126	\spr\item\questkey\taskobj073.spr	41	1	1	Sö dông nhËn ®­îc 20 ®iÓm danh väng	24	1	1	1	0
+Danh Väng Lé (®¹i)	4	127	\spr\item\questkey\taskobj073.spr	41	1	1	Sö dông nhËn ®­îc 50 ®iÓm danh väng	60	1	1	1	0
+LÖnh bµi gäi boss (tiÓu)	4	128	\spr\item\questkey\obj_item_herokey3.spr	385	1	1	Ngay lËp tøc gäi ra 1 boss vµng ngay t¹i vŞ trİ ®ang ®øng	30	1	0	0	0
+LÖnh bµi gäi boss (®¹i)	4	129	\spr\item\questkey\obj_item_herokey3.spr	385	1	1	Ngay lËp tøc gäi ra 1 boss vµng ngay t¹i vŞ trİ ®ang ®øng	60	1	0	0	0
+S¸t Thñ LÖnh	4	130	\spr\item\questkey\006.spr	385	1	1	VËt phÈm cã ®­îc khi tiªu diÖt boss s¸t thñ <enter>5 lÖnh bµi cã thÓ ghĞp thµnh <color=fire>S¸t Thñ Gi¶n<color>	100	0	0	0	0
+S¸t Thñ Gi¶n	4	131	\spr\item\questkey\taskobj033.spr	9	1	2	Mang lÖnh bµi ®Õn gÆp Sø Gi¶ V­ît ¶i ®Ó tham gia v­ît ¶i	20	0	1	0	0
+Hç Trî Ng­êi Ch¬i	4	132	\spr\item\hotro.spr	341	1	1	VËt phÈm trî gióp ng­êi ch¬i game	100	1	0	0	0
+LÔ VËt V­ît ¶i	4	133	\spr\item\hopquasinhnhat.spr	41	1	1	VËt phÈm ho¹t ®éng v­ît ¶i, bªn trong chøa nhiÒu phÇn th­ëng gi¸ trŞ	100	1	0	0	0
+Hép Quµ TÕt	4	134	\spr\item\hopquatet.spr	41	1	1	Hép quµ kh«ng thÓ thiÕu trong dŞp tÕt<enter>Bªn trong chøa 5 lo¹i ngò qu¶	100	1	0	0	0
+Hép Quµ Gi¸ng Sinh	4	135	\spr\item\hopquagiangsinh.spr	41	1	1	Hép quµ kh«ng thÓ thiÕu trong dŞp gi¸ng sinh<enter>Bªn trong chøa 5 lo¹i b¨ng tinh	100	1	0	0	0
+CÈm Nang Hoµng Kim	4	136	\spr\item\camnanghoangkim.spr	41	1	1	Bªn trong chøa mét sè kinh nghiÖm vµ tiÒn<enter>Mçi ngµy chØ ®­îc dïng tèi ®a 20 c¸i	100	1	0	0	0
+Hép Quµ Noel	4	137	\spr\item\hopquagiangsinh.spr	41	1	1	<color=fire>VËt phÈm Sù KiÖn Noel 2012<color>	0	1	0	0	0
+§­êng	4	138	\spr\event\duong.spr	41	1	1	Nguyªn LiÖu Lµm B¸nh Trung Thu	100	0	0	0	0
+Bét	4	139	\spr\event\bot.spr	41	1	1	Nguyªn LiÖu Lµm B¸nh Trung Thu	100	0	0	0	0
+Trøng	4	140	\spr\event\trung.spr	41	1	1	Nguyªn LiÖu Lµm B¸nh Trung Thu	100	0	0	0	0
+Gµ Quay	4	141	\spr\event\ga.spr	41	1	1	Nguyªn LiÖu Lµm B¸nh Trung Thu	100	0	0	0	0
+ThŞt	4	142	\spr\item\newyear2008\zhurou.spr	41	1	1	Nguyªn LiÖu Lµm B¸nh Trung Thu	100	0	0	0	0
+B¸nh Gµ Quay	4	143	\spr\event\gaquay.spr	41	1	1	<color=fire>Sö Dông NhËn §­îc 50.00 EXP	100	1	0	0	0
+B¸nh ThËp CÈm	4	144	\spr\event\thapcam.spr	41	1	1	<color=fire>Sö Dông NhËn §­îc 10.000 EXP	100	1	0	0	0
+B¸nh Trung Thu §Æc BiÖt	4	145	\spr\event\bdb.spr	41	2	1	<color=fire>Sö Dông NhËn §­îc 20.000 EXP Vµ VËt PhÈm NgÉu Nhiªn	100	1	0	0	0
+M©m B¹c Ngñ Qu¶	4	146	\spr\item\ManBacNguQua.spr	41	1	1	<color=fire>Sù kiÖn Trung Thu 2012	100	0	0	0	0
+Bao L× X× N¨m Míi	4	147	\spr\item\lixi.spr	41	1	1	<color=yellow>Chóc mõng n¨m míi-2013<color><enter><color=red>An Khang ThŞnh V­îng<enter>V¹n Sù Nh­ İ.	100	1	0	0	0
+ Thæ §Şa Phï 	4	148	\spr\item\special\Obj_TownPortal.spr	38	1	1	Sö dông ®Ó håi thµnh phï	500	1	1	0	0
+Gi¶i Oan Ch©n Kinh	4	149	\spr\item\questkey\obj_item_lection.spr	41	1	1	Sau khi sö dông sÏ ®­îc gi¶m 1 ®iÓm PK	10	1	1	0	0
+Thæ §Şa Phï (kh«ng giíi h¹n)	4	150	\spr\item\questkey\thodiaphuxanh.spr	38	1	1	Sö dông ®Ó håi thµnh phï , kh«ng giíi h¹n sè lÇn sö dông	100	1	1	0	0
+Danh Väng Lé	4	151	\spr\item\questkey\taskobj073.spr	41	1	1	Loai tien tuu, su dung tang <color=green>50 diem<color=green> danh vong	100	1	0	0	0
+O Kim Dai Phap	4	152	\spr\item\vnxmas2007\wuse_bingjin.spr	41	1	1	Loai da ma thuat dung de tinh che vu khi <color=pink>O Kim<color>	100	0	0	0	0
+S­ §å LÖnh	4	153	\spr\item\questkey\taskobj126.spr	336	1	1	LÖnh bµi ra m¾t s­ phô	100	0	0	0	0
+GiÊy PhĞp Bµy B¸n	4	154	\spr\item\sach4.spr	41	1	1	 GiÊy phĞp bµy b¸n, sö dông cã thÓ bµy b¸n ë tÊt c¶ thµnh thŞ <enter> Thêi gian: <color=red>6 giê 	10	1	1	0	0
+GiÊy PhĞp Bµy B¸n	4	155	\spr\item\sach4.spr	41	1	1	GiÊy phĞp ®Ó bµy b¸n d­íi cÊp 100, sö dông cã thÓ bµy b¸n<enter>Thêi h¹n: 6 giê	20	1	1	0	0
+Do Pho Phi Tieu	4	156	\spr\item\script\item_huangjintupu.spr	424	1	1	<color=fire>Bi Pho Dung De Tinh Luyen Trang Bi<color>	100	0	0	0	0
+Do Pho Tu Tien	4	157	\spr\item\script\item_huangjintupu.spr	424	1	1	<color=fire>Bi Pho Dung De Tinh Luyen Trang Bi<color>	100	0	0	0	0
+Ng©n PhiÕu (lo¹i th­êng)	4	158	\spr\item\questkey\yinpiao.spr	38	1	1	<color=fire>TrŞ gi¸ : 100 v¹n l­îng<color><enter>Chuét ph¶i vµo ng©n phiÕu ®Ó sö dông	100	1	0	0	0
+Ng©n PhiÕu (lo¹i trung)	4	159	\spr\item\questkey\yinpiao.spr	38	1	1	<color=fire>TrŞ gi¸ : 300 v¹n l­îng<color><enter>Chuét ph¶i vµo ng©n phiÕu ®Ó sö dông	100	1	0	0	0
+Ng©n PhiÕu (lo¹i ®¹i)	4	160	\spr\item\questkey\yinpiao.spr	38	1	1	<color=fire>TrŞ gi¸ : 500 v¹n l­îng<color><enter>Chuét ph¶i vµo ng©n phiÕu ®Ó sö dông	100	1	0	0	0
+BÕ NguyÖt PhÊt TrÇn	4	161	\spr\item\questkey\obj_item_lection02.spr	374	1	1	Bİ kİp 120 m«n ph¸i<enter><color=yellow>Vâ c«ng ®éc m«n cña Nga Mi<color>	60	1	0	0	0
+HÊp Tinh YÕm	4	162	\spr\item\questkey\obj_item_lection02.spr	374	1	1	Bİ kİp 120 m«n ph¸i<enter><color=yellow>Vâ c«ng ®éc m«n cña Ngu Doc<color>	60	1	0	0	0
+§¹i Thõa Nh­ Lai Chó	4	163	\spr\item\questkey\obj_item_lection02.spr	374	1	1	Bİ kİp 120 m«n ph¸i<enter><color=yellow>Vâ c«ng ®éc m«n cña Thieu Lam<color>	60	1	0	0	0
+Hçn Thiªn Khİ C«ng	4	164	\spr\item\questkey\obj_item_lection02.spr	374	1	1	Bİ kİp 120 m«n ph¸i<enter><color=yellow>Vâ c«ng ®éc m«n cña Cai Bang<color>	60	1	0	0	0
+Ngù TuyÕt Èn	4	165	\spr\item\questkey\obj_item_lection02.spr	374	1	1	Bİ kİp 120 m«n ph¸i<enter><color=yellow>Vâ c«ng ®éc m«n cña Thuy Yen<color>	60	1	0	0	0
+Mª ¶nh Tung	4	166	\spr\item\questkey\obj_item_lection02.spr	374	1	1	Bİ kİp 120 m«n ph¸i<enter><color=yellow>Vâ c«ng ®éc m«n cña Duong Mon<color>	60	1	0	0	0
+L­ìng Nghi Ch©n Khİ	4	167	\spr\item\questkey\obj_item_lection02.spr	374	1	1	Bİ kİp 120 m«n ph¸i<enter><color=yellow>Vâ c«ng ®éc m«n cña Con Lon<color>	60	1	0	0	0
+Ma ¸m HÖ Ph¸ch	4	168	\spr\item\questkey\obj_item_lection02.spr	374	1	1	Bİ kİp 120 m«n ph¸i<enter><color=yellow>Vâ c«ng ®éc m«n cña Thien Nhan<color>	60	1	0	0	0
+§¹o H­ Thiªn	4	169	\spr\item\questkey\obj_item_lection02.spr	374	1	1	Bİ kİp 120 m«n ph¸i<enter><color=yellow>Vâ c«ng ®éc m«n cña Thien Vuong<color>	60	1	0	0	0
+Xu©n U BÊt NhiÔm	4	170	\spr\item\questkey\obj_item_lection02.spr	374	1	1	Bİ kİp 120 m«n ph¸i<enter><color=yellow>Vâ c«ng ®éc m«n cña Vo Dang<color>	60	1	0	0	0
+B¾c §Èu Tr­êng Sinh ThuËt <C¬ Së Thiªn>	4	171	\spr\item\questkey\obj_item_lection.spr	341	1	1	Bİ kİp ghi l¹i c¸ch thøc chuyÓn sinh<enter>Dïng cho nh©n sÜ muèn thö søc víi vËn may.	500	1	1	1	0
+Ngò S¾c B¶o Ngäc (tiÓu)	4	172	\spr\item\tisheng.spr	385	1	1	Tİn vËt ®Ó ®i vµo B¹ch §¹o	100	0	0	0	0
+LÖnh bµi vinh dù Hoµng Kim	4	173	\spr\item\vietnam\leaguematch\icon_league_gold.spr	385	1	1	Sö dông sÏ nhËn ®­îc 500 ®iÓm vinh dù	600	1	1	1	10
+LÖnh bµi vinh dù B¹ch Ng©n	4	174	\spr\item\vietnam\leaguematch\icon_league_silver.spr	385	1	1	Sö dông sÏ nhËn ®­îc 100 ®iÓm vinh dù	120	1	1	1	10
+LÖnh bµi vinh dù Thanh §ång	4	175	\spr\item\vietnam\leaguematch\icon_league_iron.spr	385	1	1	Sö dông sÏ nhËn ®­îc 50 ®iÓm vinh dù	60	1	1	1	10
+LÖnh bµi vinh dù Hµn ThiÕt	4	176	\spr\item\vietnam\leaguematch\icon_league_copper.spr	385	1	1	Sö dông sÏ nhËn ®­îc 10 ®iÓm vinh dù	12	1	1	1	10
+Dõa Xiªm	4	177	\spr\item\yn_chunjie\yn_yezi.spr	435	1	1	<color=red>Nguyªn liÖu lµm b¸nh ngµy tÕt<color>	100	0	0	0	0
+Sung	4	178	\spr\item\yn_chunjie\yn_chengqunguo.spr	438	1	1	<color=red>Nguyªn liÖu lµm b¸nh ngµy tÕt<color>	100	0	0	0	0
+§u §ñ	4	179	\spr\item\yn_chunjie\yn_mugua.spr	436	1	1	<color=red>Nguyªn liÖu lµm b¸nh ngµy tÕt<color>	100	0	0	0	0
+B¸nh Ch­ng ThËp CÈm	4	180	\spr\item\newyear2008\shangdengzongbing.spr	366	1	1	VËt phÈm ngµy tÕt<enter>Sö dông nhËn ®­îc 5.000.000 kinh nghiÖm.	100	1	0	0	0
+B¸nh Ch­ng Cao CÊp	4	181	\spr\item\newyear2008\shangdengzongbing.spr	366	1	1	VËt phÈm ngµy tÕt<enter>Sö dông nhËn ®­îc 5.000.000 kinh nghiÖm vµ tØ lÖ ra vËt phÈm quı.	100	1	0	0	0
+B¸nh Ch­ng Th­îng H¹ng	4	182	\spr\item\newyear2008\shangdengzongbing.spr	366	1	1	VËt phÈm ngµy tÕt<enter>Sö dông nhËn ®­îc 12.000.000 kinh nghiÖm.	100	1	0	0	0
+B¸nh TĞt Nh©n §Ëu	4	183	\spr\item\eventtet\banhtet.spr	439	1	1	VËt phÈm ngµy tÕt<enter>Sö dông nhËn ®­îc 1.200.000 kinh nghiÖm.	100	1	0	0	0
+B¸nh TĞt Th­îng H¹ng	4	184	\spr\item\eventtet\banhtet.spr	439	1	1	VËt phÈm ngµy tÕt<enter>Sö dông nhËn ®­îc 2.000.000 kinh nghiÖm.	100	1	0	0	0
+Bo	4	185	\spr\item\yn_chunjie\yn_chunbing_bei.spr	439	1	1	<color=red>Su dung nhan duoc 1.200.000 diem kinh nghiem va 1 vat pham ngau nhien<color>	100	0	0	0	0
+[Kim] B¨ng Tinh	4	186	\spr\event\nguoituyet\jin_bingjin.spr	41	1	1	<color=red>Nguyªn liÖu tham gia sù kiÖn Gi¸ng Sinh<color>	0	0	0	0	0
+[Méc] B¨ng Tinh	4	187	\spr\event\nguoituyet\mu_bingjin.spr	41	1	1	<color=red>Nguyªn liÖu tham gia sù kiÖn Gi¸ng Sinh<color>	0	0	0	0	0
+[Thñy] B¨ng Tinh	4	188	\spr\event\nguoituyet\shui_bingjin.spr	41	1	1	<color=red>Nguyªn liÖu tham gia sù kiÖn Gi¸ng Sinh<color>	0	0	0	0	0
+[Háa] B¨ng Tinh	4	189	\spr\event\nguoituyet\huo_bingjin.spr	41	1	1	<color=red>Nguyªn liÖu tham gia sù kiÖn Gi¸ng Sinh<color>	0	0	0	0	0
+[Thæ] B¨ng Tinh	4	190	\spr\event\nguoituyet\tu_bingjin.spr	41	1	1	<color=red>Nguyªn liÖu tham gia sù kiÖn Gi¸ng Sinh<color>	0	0	0	0	0
+[Ngò S¾c] B¨ng Tinh	4	191	\spr\event\nguoituyet\wuse_bingjin.spr	41	1	1	<color=red>Nguyªn liÖu tham gia sù kiÖn Gi¸ng Sinh<color>	10	0	0	0	0
+TuyÕt Nh©n S¬ CÊp	4	192	\spr\event\nguoituyet\huang_xueren.spr	41	1	1	<color=red>Sö dông nhËn ®­îc 20.000 kinh nghiÖm<color>	0	1	0	0	0
+TuyÕt Nh©n Trung CÊp	4	193	\spr\event\nguoituyet\zi_xueren.spr	41	1	1	<color=red>Sö dông nhËn ®­îc 100.000 kinh nghiÖm Vµ Phóc Duyªn<color>	0	1	0	0	0
+TuyÕt Nh©n Cao CÊp	4	194	\spr\event\nguoituyet\lv_xueren.spr	41	1	1	<color=red>Sö dông nhËn ®­îc 200.000 kinh nghiÖm Vµ NgÉu Nhiªn NhËn §­îc VËt PhÈm <color>	0	1	0	0	0
+§ïi Gµ N­íng	4	195	\spr\event\thucan\duiganuong.spr	41	1	1	Mang ®Õn tÆng cho LÔ Quan ®Ó nhËn kinh nghiÖm	100	0	1	0	50
+B¸nh BÌo T«m	4	196	\spr\event\thucan\banhbeotom.spr	41	1	1	Mang ®Õn tÆng cho LÔ Quan ®Ó nhËn kinh nghiÖm	100	0	1	0	50
+Bß Lóc L¾c	4	197	\spr\event\thucan\boluclac.spr	41	1	1	Mang ®Õn tÆng cho LÔ Quan ®Ó nhËn kinh nghiÖm	100	0	1	0	50
+ C¸ Lãc Kho Té 	4	198	\spr\event\thucan\calockhoto.spr	41	1	1	Mang ®Õn tÆng cho LÔ Quan ®Ó nhËn kinh nghiÖm	100	0	1	0	50
+§Ëu Hñ Chiªn	4	199	\spr\event\thucan\dauhuchien.spr	41	1	1	Mang ®Õn tÆng cho LÔ Quan ®Ó nhËn kinh nghiÖm	100	0	1	0	50
+C¬m HÊp L¸ Sen	4	200	\spr\event\thucan\comhaplasen.spr	41	1	1	Mang ®Õn tÆng cho LÔ Quan ®Ó nhËn kinh nghiÖm	100	0	1	0	50
+S­ên Ram	4	201	\spr\event\thucan\suonram.spr	41	1	1	Mang ®Õn tÆng cho LÔ Quan ®Ó nhËn kinh nghiÖm	100	0	1	0	50
+Lam Hoa	4	202	\spr\item\questkey\lamhoa.spr	41	1	1	VËt PhÈm §Ó Lµm Envent	0	0	0	0	0
+Xoi Khuc	4	203	\spr\event\xoikhuc.spr	41	1	1	Mang ®Õn tÆng cho ¤ng Giµ Noel ®Ó nhËn kinh nghiÖm	100	0	0	0	0
+T× Bµ Hoµn	4	204	\spr\item\medecine\obj-potion15.spr	41	1	1	Lo¹i thuèc th­êng dïng ®Ó trŞ phong hµn.	100	0	0	1	0
+Hoa Tai	4	205	\spr\item\questkey\taskobj073.spr	41	1	1	Mét ®«i khuyªn tai nhá b»ng vµng.	100	0	0	1	0
+MËt Hµm Ph­îng T­êng	4	206	\spr\item\questkey\taskobj075.spr	41	1	1	<color=red>VËt phÈm nhiÖm vô  <color><enter>MËt hµm ®­a ®Õn T­¬ng D­¬ng	100	0	0	1	0
+MËt Hµm Thµnh §«	4	207	\spr\item\questkey\taskobj075.spr	41	1	1	<color=red>VËt phÈm nhiÖm vô  <color><enter>MËt hµm ®­a ®Õn Thµnh §«	100	0	0	1	0
+MËt Hµm BiÖn Kinh	4	208	\spr\item\questkey\taskobj075.spr	41	1	1	<color=red>VËt phÈm nhiÖm vô  <color><enter>MËt hµm ®­a ®Õn T­¬ng D­¬ng	100	0	0	1	0
+MËt Hµm D­¬ng Ch©u	4	209	\spr\item\questkey\taskobj075.spr	41	1	1	<color=red>VËt phÈm nhiÖm vô  <color><enter>MËt hµm ®­a ®Õn Thµnh §«	100	0	0	1	0
+MËt Hµm T­¬ng D­¬ng	4	210	\spr\item\questkey\taskobj075.spr	41	1	1	<color=red>VËt phÈm nhiÖm vô  <color><enter>MËt hµm ®­a ®Õn Ph­¬ng T­êng	100	0	0	1	0
+Bµn Nh­îc Tam Kinh	4	211	\spr\item\questkey\obj_item_lection.spr	341	1	1	<color=red>Gióp TÈy Kinh NghiÖm ¢m	100	1	0	0	0
+Ch×a Khãa R­¬ng 1	4	212	\spr\item\questkey\chiakhoavng.spr	41	1	1	Lo¹i ch×a khãa gióp b¹n më réng r­¬ng 1	50	1	1	0	0
+Ch×a Khãa R­¬ng 2	4	213	\spr\item\questkey\chiakhoavng.spr	41	1	1	Lo¹i ch×a khãa gióp b¹n më réng r­¬ng 2	50	1	1	0	0
+Ch×a Khãa R­¬ng 3	4	214	\spr\item\questkey\chiakhoavng.spr	41	1	1	Lo¹i ch×a khãa gióp b¹n më réng r­¬ng 3	50	1	1	0	0
+Ch×a Khãa Hµnh Trang	4	215	\spr\item\questkey\chiakhoavng.spr	41	1	1	Lo¹i ch×a khãa gióp b¹n më réng hµnh trang	80	1	1	0	0
+M¶nh Cê 1	4	216	\spr\event\304\co1.spr	41	1	1	Mét m¶nh cê chiÕn th¾ng, dïng ®Ó ghĞp thµnh L¸ Cê ChiÕn Th¾ng	100	0	1	0	0
+M¶nh Cê 2	4	217	\spr\event\304\co2.spr	41	1	1	Mét m¶nh cê chiÕn th¾ng, dïng ®Ó ghĞp thµnh L¸ Cê ChiÕn Th¾ng	100	0	1	0	0
+M¶nh Cê 3	4	218	\spr\event\304\co3.spr	41	1	1	Mét m¶nh cê chiÕn th¾ng, dïng ®Ó ghĞp thµnh L¸ Cê ChiÕn Th¾ng	100	0	1	0	0
+M¶nh Cê 4	4	219	\spr\event\304\co4.spr	41	1	1	Mét m¶nh cê chiÕn th¾ng, dïng ®Ó ghĞp thµnh L¸ Cê ChiÕn Th¾ng	100	0	1	0	0
+L¸ Cê ChiÕn Th¾ng	4	220	\spr\event\304\cochienthang.spr	41	2	2	L¸ cê chiÕn th»ng tung bay vµo ngµy 30/04, sö dông sÏ nhËn ®­îc phÇn th­ëng	100	1	1	0	0
+Bao G¹o	4	221	\spr\event\304\baogao.spr	41	1	1	Tinh G¹o tr¾ng dïng ®Ó chÕ biÕn thµnh r­îu mõng chiÕn th¾ng	1	0	1	0	50
+Lä N­íc	4	222	\spr\event\304\lonuoc.spr	41	1	1	Lä N­íc s¹ch dïng ®Ó chÕ biÕn thµnh r­îu mõng chiÕn th¾ng	1	0	1	0	50
+Men R­îu	4	223	\spr\event\304\menruou.spr	41	1	1	Men R­îu ngon dïng ®Ó chÕ biÕn thµnh r­îu mõng chiÕn th¾ng	1	0	1	0	50
+R­îu G¹o Nguyªn ChÊt	4	224	\spr\event\304\ruougao.spr	41	1	1	Lo¹i r­îu ngon ®Ó ¨n mõng chiÕn th¾ng ®Æc biÖt	1	1	0	0	50
+R­îu Nho Th­îng H¹ng	4	225	\spr\event\304\ruounho.spr	41	1	1	Lo¹i r­îu nho th­îng h¹ng cã mïi vŞ rÊt ngon	1	1	1	0	50
+Nho T­¬i	4	226	\spr\event\304\nhotuoi.spr	41	1	1	Nho T­¬i dïng ®Ó chÕ biÕn thµnh R­îu Nho Th­îng H¹ng	5	0	1	0	50
+LÖnh Bµi	4	227	\spr\item\sach3.spr	341	1	1	LÖnh bµi hç trî ng­êi ch¬i míi.	0	1	0	0	0
+Thiªn Niªn TuyÕt Liªn	4	228	\spr\item\tuyetlien.spr	41	1	1	Lo¹i hoa c¸nh tr¾ng vµng, nhôy ®á tİm mäc trªn tuyÕt tr¾ng<enter>Lµ lo¹i thuèc c¶i tö hoµn sinh vµ t¨ng c­êng c«ng lùc.	300	1	1	0	0
+HiÖp Cèt LÖnh Bµi	4	229	\spr\item\questkey\006.spr	385	1	1	H·y ®Õn NPC Hµng Rong ë Ba L¨ng HuyÖn ®Ó ®æi trang bŞ	1	0	0	0	0
+Nhu T×nh LÖnh Bµi	4	230	\spr\item\questkey\006.spr	385	1	1	H·y ®Õn NPC Hµng Rong ë Ba L¨ng HuyÖn ®Ó ®æi trang bŞ	1	0	0	0	0
+§­êng C¸t	4	231	\spr\item\mid_autumn\shatang.spr	41	1	1	Nguyªn liÖu kh«ng thÓ thiÕu ®Ó lµm ra b¸nh kem, cã thÓ t×m ë kh¾p mäi n¬i	0	0	1	0	50
+ Bét M× 	4	232	\spr\item\mid_autumn\mianfen.spr	41	1	1	Nguyªn liÖu kh«ng thÓ thiÕu ®Ó lµm ra b¸nh kem, cã thÓ t×m ë kh¾p mäi n¬i	0	0	1	0	50
+Trøng	4	233	\spr\item\mid_autumn\yadan.spr	41	1	1	Nguyªn liÖu kh«ng thÓ thiÕu ®Ó lµm ra b¸nh kem, cã thÓ t×m ë kh¾p mäi n¬i	0	0	1	0	50
+Bİ QuyÕt Lµm B¸nh	4	234	\spr\event\banhkem\bqbk.spr	41	1	1	Bİ quyÕt lµm ra lo¹i b¸nh kem th­îng h¹ng.	4	0	1	0	50
+Kim Nguyªn B¶o	4	235	\spr\item\questkey\obj_item_cardg.spr	340	1	1	VËt phÈm quı gi¸, cã thÓ ®æi ra tiÒn ®ång t¹i NPC TiÒn Trang ë T­¬ng D­¬ng	75	0	1	1	0
+TiÒn §ång	4	236	\spr\item\tongqian.spr	373	1	1	Dïng ®Ó mua c¸c vËt phÈm ®Æc thï, tham gia sù kiÖn v.v...	100	0	1	1	100
+Hç Trî Ng­êi Ch¬i	4	237	\spr\gm.spr	341	1	1	Trî gióp ng­êi ch¬i cò trong game	1000	1	0	0	0
+B¸nh Kem C¸t T­êng	4	238	\spr\event\banhkem\bkct.spr	41	1	1	Lo¹i b¸nh kem rÊt ngon, mäi ng­êi th­êng hay sö dông vµo c¸c dŞp lÔ, sinh nhËt, v.v...	0	1	1	0	50
+ B¸nh Kem Nh­ ı 	4	239	\spr\event\banhkem\bkny.spr	41	1	1	Lo¹i b¸nh kem h¶o h¹ng, ¨n vµo cã mïi vŞ rÊt th¬m vµ rÊt ngon	0	1	1	0	50
+L­¬ng Th¶o Qu©n Dông	4	240	\spr\item\luongthao.spr	41	1	1	L­¬ng th¶o qu©n dông, thøc ¨n ®ñ cho 10  binh lİnh sö dông ngoµi chiÕn tr­êng.	1000	0	0	0	0
+L­¬ng Th¶o Cao CÊp	4	241	\spr\item\tuihong.spr	41	1	1	L­¬ng th¶o cao cÊp, thøc ¨n ®ñ cho 50  binh lİnh sö dông ngoµi chiÕn tr­êng.	1000	0	0	0	0
+L¸ Rong	4	242	\spr\item\newyear2008\zongyue.spr	41	1	1	Nguyªn liÖu kh«ng thÓ thiÕu ®Ó lµm B¸nh Ch­ng	100	0	0	0	0
+G¹o NÕp	4	243	\spr\item\newyear2008\nuomi.spr	41	1	1	Nguyªn liÖu kh«ng thÓ thiÕu ®Ó lµm B¸nh Ch­ng	100	0	0	0	0
+§Ëu Xanh	4	244	\spr\item\newyear2008\lvdou.spr	41	1	1	Nguyªn liÖu kh«ng thÓ thiÕu ®Ó lµm B¸nh Ch­ng	100	0	0	0	0
+ ThŞt Mì 	4	245	\spr\item\newyear2008\zhurou.spr	41	1	1	Nguyªn liÖu kh«ng thÓ thiÕu ®Ó lµm B¸nh Ch­ng	100	0	0	0	0
+L¹t B¸nh	4	246	\spr\item\vietnam\midautumn06\tiesi.spr	41	1	1	Nguyªn liÖu kh«ng thÓ thiÕu ®Ó lµm B¸nh Ch­ng	100	0	0	0	0
+Tói Sù KiÖn	4	247	\spr\item\luongthaocc.spr	41	1	1	Bªn trong chøa c¸c nguyªn liÖu ®Ó tham gia sù kiÖn	100	1	0	0	0
+Tói Nguyªn LiÖu Lµm B¸nh	4	248	\spr\event\banhkem\nlbk.spr	41	1	1	Tói chøa nguyªn liÖu lµm b¸nh kem<enter>Bªn trong gåm cã: <color=blue>Bét M×, §­êng C¸t, Trøng	0	1	0	0	0
+B¹ch CÇu Hoµn	4	249	\spr\item\bch.spr	41	1	1	VËt phÈm dïng ®Ó ñy th¸c, bÊm chuét ph¶i ®Ó sö dông	5	1	1	0	0
+§¹i B¹ch CÇu Hoµn	4	250	\spr\item\daibch.spr	41	1	1	VËt phÈm dïng ®Ó ñy th¸c, kinh nghiÖm nhËn ®­îc gÊp ®«i B¹ch CÇu Hoµn	12	1	1	0	0
+H¹t Hoa Hång	4	251	\spr\item\questkey\seed_rose.spr	380	1	1	NhÊn chuét ph¶i ®Ó trång c©y hoa hång.	30	1	0	0	0
+H¹t Hoa Hång	4	252	\spr\item\questkey\seed_rose.spr	380	1	1	NhÊn chuét ph¶i ®Ó trång c©y hoa hång.	15	1	1	0	0
+Thïng N­íc	4	253	\spr\item\new\tnuoc.spr	41	1	1	Dïng ®Ó t­íi n­íc cho h¹t gièng C©y ThÇn Kú.	10000	0	1	0	50
+Ph©n Bãn	4	254	\spr\item\new\pbon.spr	41	1	1	Dïng ®Ó bãn ph©n cho h¹t gièng C©y ThÇn Kú.	20000	0	1	0	50
+B«n Tiªu To¸i PhiÕn	4	255	\spr\item\new\pvtp.spr	41	1	1	Tİch lòy ®ñ sè l­îng cã thÓ ®æi chiÕn m· B«n Tiªu t¹i NPC Hµng Rong	150	0	1	0	50
+Phiªn Vò To¸i PhiÕn	4	256	\spr\item\new\pvtp.spr	41	1	1	Tİch lòy ®ñ sè l­îng cã thÓ ®æi chiÕn m· Phiªn Vò t¹i NPC Hµng Rong	300	0	1	0	50
+ThĞp Tinh LuyÖn	4	257	\spr\item\theptinhluyen.spr	41	1	1	VËt phÈm quan träng ®Ó tinh luyÖn Anh Hïng LÖnh	3	0	1	0	50
+Anh Hïng LÖnh (cÊp 1)	4	258	\spr\item\questkey\006.spr	41	1	1	Nguyªn liÖu dïng ®Ó n©ng cÊp Anh Hïng LÖnh (cÊp 2)	100	0	1	0	50
+Anh Hïng LÖnh (cÊp 2)	4	259	\spr\item\questkey\006.spr	41	1	1	Nguyªn liÖu dïng ®Ó n©ng cÊp Anh Hïng LÖnh (cÊp 3)	100	0	1	0	50
+Anh Hïng LÖnh (cÊp 3)	4	260	\spr\item\questkey\006.spr	41	1	1	Nguyªn liÖu dïng ®Ó n©ng cÊp Anh Hïng LÖnh (cÊp 4)	100	0	1	0	50
+Anh Hïng LÖnh (cÊp 4)	4	261	\spr\item\questkey\006.spr	41	1	1	Nguyªn liÖu dïng ®Ó n©ng cÊp Anh Hïng LÖnh (cÊp 5)	100	0	1	0	50
+Anh Hïng LÖnh (cÊp 5)	4	262	\spr\item\questkey\006.spr	41	1	1	Cã thÓ sö dông b»ng chuét ph¶i nhËn ®­îc mét sè kinh nghiÖm	100	0	1	0	50
+Anh Hïng LÖnh (cÊp 6)	4	263	\spr\item\questkey\006.spr	41	1	1	Cã thÓ sö dông b»ng chuét ph¶i nhËn ®­îc mét sè kinh nghiÖm	100	0	1	0	50
+Anh Hïng LÖnh (cÊp 7)	4	264	\spr\item\questkey\006.spr	41	1	1	Cã thÓ sö dông b»ng chuét ph¶i nhËn ®­îc sè l­îng lín kinh nghiÖm	100	0	1	0	50
+Anh Hïng LÖnh (cÊp 8)	4	265	\spr\item\questkey\006.spr	41	1	1	Cã thÓ sö dông b»ng chuét ph¶i nhËn ®­îc sè l­îng lín kinh nghiÖm	100	0	1	0	50
+Manh HiÖp Cèt ThiÕt HuyÕt Sam (1/4)	4	266	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi ThiÕt HuyÕt Sam.	80	0	1	0	0
+Manh HiÖp Cèt ThiÕt HuyÕt Sam (2/4)	4	267	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi ThiÕt HuyÕt Sam.	80	0	1	0	0
+Manh HiÖp Cèt ThiÕt HuyÕt Sam (3/4)	4	268	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi ThiÕt HuyÕt Sam.	80	0	1	0	0
+Manh HiÖp Cèt ThiÕt HuyÕt Sam (4/4)	4	269	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi ThiÕt HuyÕt Sam.	80	0	1	0	0
+Manh HiÖp Cèt §a T×nh Hoµn (1/4)	4	270	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi §a T×nh Hoµn.	60	0	1	0	0
+Manh HiÖp Cèt §a T×nh Hoµn (2/4)	4	271	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi §a T×nh Hoµn.	60	0	1	0	0
+Manh HiÖp Cèt §a T×nh Hoµn (3/4)	4	272	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi §a T×nh Hoµn.	60	0	1	0	0
+Manh HiÖp Cèt §a T×nh Hoµn (4/4)	4	273	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi §a T×nh Hoµn.	60	0	1	0	0
+Manh HiÖp Cèt T×nh ı KÕt (1/4)	4	274	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi T×nh ı KÕt.	60	0	1	0	0
+Manh HiÖp Cèt T×nh ı KÕt (2/4)	4	275	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi T×nh ı KÕt.	60	0	1	0	0
+Manh HiÖp Cèt T×nh ı KÕt (3/4)	4	276	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi T×nh ı KÕt.	60	0	1	0	0
+Manh HiÖp Cèt T×nh ı KÕt (4/4)	4	277	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi T×nh ı KÕt.	60	0	1	0	0
+Manh HiÖp Cèt §an T©m Giíi (1/4)	4	278	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi §an T©m Giíi.	60	0	1	0	0
+Manh HiÖp Cèt §an T©m Giíi (2/4)	4	279	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi §an T©m Giíi.	60	0	1	0	0
+Manh HiÖp Cèt §an T©m Giíi (3/4)	4	280	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi §an T©m Giíi.	60	0	1	0	0
+Manh HiÖp Cèt §an T©m Giíi (4/4)	4	281	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi §an T©m Giíi.	60	0	1	0	0
+Manh Nhu T×nh Thôc N÷ H¹ng Liªn (1/4)	4	282	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Thôc N÷ H¹ng Liªn.	70	0	1	0	0
+Manh Nhu T×nh Thôc N÷ H¹ng Liªn (2/4)	4	283	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Thôc N÷ H¹ng Liªn.	70	0	1	0	0
+Manh Nhu T×nh Thôc N÷ H¹ng Liªn (3/4)	4	284	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Thôc N÷ H¹ng Liªn.	70	0	1	0	0
+Manh Nhu T×nh Thôc N÷ H¹ng Liªn (4/4)	4	285	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Thôc N÷ H¹ng Liªn.	70	0	1	0	0
+Manh Nhu T×nh Phông Nghi Giíi ChØ (1/4)	4	286	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Phông Nghi Giíi ChØ.	80	0	1	0	0
+Manh Nhu T×nh Phông Nghi Giíi ChØ (2/4)	4	287	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Phông Nghi Giíi ChØ.	80	0	1	0	0
+Manh Nhu T×nh Phông Nghi Giíi ChØ (3/4)	4	288	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Phông Nghi Giíi ChØ.	80	0	1	0	0
+Manh Nhu T×nh Phông Nghi Giíi ChØ (4/4)	4	289	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Phông Nghi Giíi ChØ.	80	0	1	0	0
+Manh Nhu T×nh TuÖ T©m Ngäc Béi (1/4)	4	290	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi TuÖ T©m Ngäc Béi.	50	0	1	0	0
+Manh Nhu T×nh TuÖ T©m Ngäc Béi (2/4)	4	291	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi TuÖ T©m Ngäc Béi.	50	0	1	0	0
+Manh Nhu T×nh TuÖ T©m Ngäc Béi (3/4)	4	292	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi TuÖ T©m Ngäc Béi.	50	0	1	0	0
+Manh Nhu T×nh TuÖ T©m Ngäc Béi (4/4)	4	293	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi TuÖ T©m Ngäc Béi.	50	0	1	0	0
+Manh Nhu T×nh C©n Quèc Nghª Th­êng (1/4)	4	294	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi C©n Quèc Nghª Th­êng.	200	0	1	0	0
+Manh Nhu T×nh C©n Quèc Nghª Th­êng (2/4)	4	295	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi C©n Quèc Nghª Th­êng.	200	0	1	0	0
+Manh Nhu T×nh C©n Quèc Nghª Th­êng (3/4)	4	296	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi C©n Quèc Nghª Th­êng.	200	0	1	0	0
+Manh Nhu T×nh C©n Quèc Nghª Th­êng (4/4)	4	297	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi C©n Quèc Nghª Th­êng.	200	0	1	0	0
+Manh §Şnh Quèc Thanh Sa Tr­êng Sam (1/4)	4	298	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Thanh Sa Tr­êng Sam.	200	0	1	0	0
+Manh §Şnh Quèc Thanh Sa Tr­êng Sam (2/4)	4	299	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Thanh Sa Tr­êng Sam.	200	0	1	0	0
+Manh §Şnh Quèc Thanh Sa Tr­êng Sam (3/4)	4	300	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Thanh Sa Tr­êng Sam.	200	0	1	0	0
+Manh §Şnh Quèc Thanh Sa Tr­êng Sam (4/4)	4	301	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Thanh Sa Tr­êng Sam.	200	0	1	0	0
+Manh §Şnh Quèc Xİch Quyªn NhuyÔn Ngoa (1/4)	4	302	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Xİch Quyªn NhuyÔn Ngoa.	100	0	1	0	0
+Manh §Şnh Quèc Xİch Quyªn NhuyÔn Ngoa (2/4)	4	303	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Xİch Quyªn NhuyÔn Ngoa.	100	0	1	0	0
+Manh §Şnh Quèc Xİch Quyªn NhuyÔn Ngoa (3/4)	4	304	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Xİch Quyªn NhuyÔn Ngoa.	100	0	1	0	0
+Manh §Şnh Quèc Xİch Quyªn NhuyÔn Ngoa (4/4)	4	305	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Xİch Quyªn NhuyÔn Ngoa.	100	0	1	0	0
+Manh §Şnh Quèc Tö §»ng Hé uyÓn (1/4)	4	306	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Tö §»ng Hé UyÓn.	150	0	1	0	0
+Manh §Şnh Quèc Tö §»ng Hé uyÓn (2/4)	4	307	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Tö §»ng Hé UyÓn.	150	0	1	0	0
+Manh §Şnh Quèc Tö §»ng Hé uyÓn (3/4)	4	308	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Tö §»ng Hé UyÓn.	150	0	1	0	0
+Manh §Şnh Quèc Tö §»ng Hé uyÓn (4/4)	4	309	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Tö §»ng Hé UyÓn.	150	0	1	0	0
+Manh §Şnh Quèc Ng©n Tµm Yªu ®¸i (1/4)	4	310	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Ng©n Tµm Yªu ®¸i.	200	0	1	0	0
+Manh §Şnh Quèc Ng©n Tµm Yªu ®¸i (2/4)	4	311	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Ng©n Tµm Yªu ®¸i.	200	0	1	0	0
+Manh §Şnh Quèc Ng©n Tµm Yªu ®¸i (3/4)	4	312	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Ng©n Tµm Yªu ®¸i.	200	0	1	0	0
+Manh §Şnh Quèc Ng©n Tµm Yªu ®¸i (4/4)	4	313	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Ng©n Tµm Yªu ®¸i.	200	0	1	0	0
+Manh §Şnh Quèc ¤ Sa Ph¸t Qu¸n (1/4)	4	314	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi ¤ Sa Ph¸t Qu¸n.	150	0	1	0	0
+Manh §Şnh Quèc ¤ Sa Ph¸t Qu¸n (2/4)	4	315	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi ¤ Sa Ph¸t Qu¸n.	150	0	1	0	0
+Manh §Şnh Quèc ¤ Sa Ph¸t Qu¸n (3/4)	4	316	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi ¤ Sa Ph¸t Qu¸n.	150	0	1	0	0
+Manh §Şnh Quèc ¤ Sa Ph¸t Qu¸n (4/4)	4	317	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi ¤ Sa Ph¸t Qu¸n.	150	0	1	0	0
+Manh An Bang Tinh Th¹ch H¹ng Liªn (1/4)	4	318	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Tinh Th¹ch H¹ng Liªn.	300	0	1	0	0
+Manh An Bang Tinh Th¹ch H¹ng Liªn (2/4)	4	319	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Tinh Th¹ch H¹ng Liªn.	300	0	1	0	0
+Manh An Bang Tinh Th¹ch H¹ng Liªn (3/4)	4	320	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Tinh Th¹ch H¹ng Liªn.	300	0	1	0	0
+Manh An Bang Tinh Th¹ch H¹ng Liªn (4/4)	4	321	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Tinh Th¹ch H¹ng Liªn.	300	0	1	0	0
+Manh An Bang Cóc Hoa Th¹ch ChØ Hoµn (1/4)	4	322	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Cóc Hoa Th¹ch ChØ Hoµn.	250	0	1	0	0
+Manh An Bang Cóc Hoa Th¹ch ChØ Hoµn (2/4)	4	323	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Cóc Hoa Th¹ch ChØ Hoµn.	250	0	1	0	0
+Manh An Bang Cóc Hoa Th¹ch ChØ Hoµn (3/4)	4	324	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Cóc Hoa Th¹ch ChØ Hoµn.	250	0	1	0	0
+Manh An Bang Cóc Hoa Th¹ch ChØ Hoµn (4/4)	4	325	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Cóc Hoa Th¹ch ChØ Hoµn.	250	0	1	0	0
+Manh An Bang §iÒn Hoµng Th¹ch Ngäc Béi (1/4)	4	326	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi §iÒn Hoµng Th¹ch Ngäc Béi.	200	0	1	0	0
+Manh An Bang §iÒn Hoµng Th¹ch Ngäc Béi (2/4)	4	327	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi §iÒn Hoµng Th¹ch Ngäc Béi.	200	0	1	0	0
+Manh An Bang §iÒn Hoµng Th¹ch Ngäc Béi (3/4)	4	328	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi §iÒn Hoµng Th¹ch Ngäc Béi.	200	0	1	0	0
+Manh An Bang §iÒn Hoµng Th¹ch Ngäc Béi (4/4)	4	329	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi §iÒn Hoµng Th¹ch Ngäc Béi.	200	0	1	0	0
+Manh An Bang Kª HuyÕt Th¹ch Giíi ChØ (1/4)	4	330	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Kª HuyÕt Th¹ch Giíi ChØ.	250	0	1	0	0
+Manh An Bang Kª HuyÕt Th¹ch Giíi ChØ (2/4)	4	331	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Kª HuyÕt Th¹ch Giíi ChØ.	250	0	1	0	0
+Manh An Bang Kª HuyÕt Th¹ch Giíi ChØ (3/4)	4	332	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Kª HuyÕt Th¹ch Giíi ChØ.	250	0	1	0	0
+Manh An Bang Kª HuyÕt Th¹ch Giíi ChØ (4/4)	4	333	\spr\item\citydefence\smallfragment.spr	347	1	1	Mang ®ñ 4 m¶nh ®Õn NPC Hµng Rong ®Ó ®æi Kª HuyÕt Th¹ch Giíi ChØ.	250	0	1	0	0
+ Cuén ChØ 	4	334	\spr\event\khantay\cuonchi.spr	41	1	1	Nguyªn liÖu ®Ó may Kh¨n Tay, NPC TiÓu Ph­¬ng ë Ba L¨ng HuyÖn biÕt c¸ch may	1	0	1	0	50
+V¶i Lôa	4	335	\spr\event\khantay\vailua.spr	41	1	1	Nguyªn liÖu ®Ó may Kh¨n Tay, NPC TiÓu Ph­¬ng ë Ba L¨ng HuyÖn biÕt c¸ch may	1	0	1	0	50
+Kh¨n Tay Thªu Hoa	4	336	\spr\event\khantay\khantay.spr	349	1	1	ChiÕc kh¨n tay thªu hoa v¨n cùc ®Ñp m¾t	1	0	1	0	50
+R­¬ng Quµ Facebook	4	337	\spr\event\khantay\ruongthanbi.spr	41	1	1	Bªn trong cã phÇn th­ëng dµnh cho ng­êi ch¬i like Fanpage	1	1	0	0	0
+Thiªn Niªn TuyÕt Liªn (tiÓu)	4	338	\spr\item\tuyetlien.spr	41	1	1	Lo¹i hoa c¸nh tr¾ng vµng, nhôy ®á tİm mäc trªn tuyÕt tr¾ng<enter>Lµ lo¹i thuèc c¶i tö hoµn sinh vµ t¨ng c­êng c«ng lùc.	1	1	0	0	0
+Tói H¹t Gièng ThÇn Kú (nhá)	4	339	\spr\item\tuihong.spr	41	1	1	Bªn trong cã chøa h¹t gièng c©y thÇn kú (nhá)	400	1	0	0	0
+H¹t Hoa Hång	4	340	\spr\item\questkey\seed_rose.spr	380	1	1	NhÊn chuét ph¶i ®Ó trång c©y hoa hång.	15	1	0	0	0
+Gi¶i Oan Ch©n Kinh	4	341	\spr\item\questkey\obj_item_lection.spr	41	1	1	Sau khi sö dông sÏ ®­îc gi¶m 1 ®iÓm PK	400	1	0	0	0
+(Tèng Kim) Tr­êng MÖnh Hoµn	4	342	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, sinh mÖnh t¨ng 500 ®iÓm.	500	1	1	0	10
+(Tèng Kim) Gia Bµo Hoµn	4	343	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, tèc ®é di chuyÓn t¨ng 20%	500	1	1	0	10
+(Tèng Kim) Cao ThiÓm Hoµn	4	344	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, nĞ tr¸nh t¨ng 500 ®iÓm.	500	1	1	0	10
+(Tèng Kim) Cao Trung Hoµn	4	345	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, ®é chİnh x¸c t¨ng 500 ®iÓm.	500	1	1	0	10
+(Tèng Kim) Phi Tèc Hoµn	4	346	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, tèc ®é c«ng kİch t¨ng 30%.	500	1	1	0	10
+(Tèng Kim) Phæ Phßng Hoµn	4	347	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, phßng Ngù t¨ng 30%.	500	1	1	0	10
+(Tèng Kim) B¨ng Phßng Hoµn	4	348	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, phßng B¨ng t¨ng 30%.	500	1	1	0	10
+(Tèng Kim) L«i Phßng Hoµn	4	349	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, phßng L«i t¨ng 30%.	500	1	1	0	10
+(Tèng Kim) Háa Phßng Hoµn	4	350	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, phßng Háa t¨ng 30%.	500	1	1	0	10
+(Tèng Kim) §éc Phßng Hoµn	4	351	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, phßng §éc t¨ng 30%.	500	1	1	0	10
+(Tèng Kim) §¹i Lùc Hoµn	4	352	\spr\item\medecine\obj-potion15.spr	19	1	1	Néi trong 3 phót, S¸t th­¬ng vËt lı ngo¹i c«ng t¨ng 50 ®iÓm.	500	1	1	0	10
+ (Tèng Kim) ChiÕn Cæ 	4	353	\spr\item\songjin\wardrum.spr	19	1	1	Néi trong 3 phót, ®ång ®éi xung quanh t¨ng 30% Sinh lùc+ Phßng thñ 	800	1	1	0	10
+(Tèng Kim) LÖnh Bµi	4	354	\spr\item\songjin\token.spr	19	1	1	Néi trong 3 phót, ®ång ®éi xung quanh t¨ng 20% di chuyÓn, xuÊt chiªu t¨ng 30%.	800	1	1	0	10
+B¸nh trung thu th­êng	4	355	\spr\item\vietnam\midautumn06\mooncake_1.spr	430	1	1	Sö dông sÏ t¨ng 20 v¹n ®iÓm kinh nghiÖm (§Õn 09/09/2013 hÕt h¹n)	0	1	1	0	50
+B¸nh trung thu ®Ëu xanh	4	356	\spr\item\vietnam\midautumn06\mooncake_2.spr	430	1	1	Sö dông sÏ t¨ng 40 v¹n ®iÓm kinh nghiÖm (§Õn 09/09/2013 hÕt h¹n)	0	1	1	0	50
+B¸nh trung thu nh©n trøng	4	357	\spr\item\vietnam\midautumn06\mooncake_3.spr	430	1	1	Sö dông sÏ t¨ng 30 v¹n ®iÓm kinh nghiÖm (§Õn 09/09/2013 hÕt h¹n)	0	1	1	0	50
+B¸nh trung thu ®Æc biÖt	4	358	\spr\item\vietnam\midautumn06\mooncake_4.spr	430	1	1	Sö dông sÏ t¨ng 500 v¹n ®iÓm kinh nghiÖm (§Õn 09/09/2013 hÕt h¹n)	0	1	1	0	50
+B¸nh trung thu h¹t sen	4	359	\spr\item\vietnam\midautumn06\mooncake_5.spr	430	1	1	Sö dông sÏ t¨ng 100 v¹n ®iÓm kinh nghiÖm (§Õn 09/09/2013 hÕt h¹n)	0	1	1	0	50
+B¸nh trung thu con heo	4	360	\spr\item\vietnam\midautumn06\mooncake_6.spr	430	2	1	Sö dông sÏ t¨ng 1000 v¹n ®iÓm kinh nghiÖm (§Õn 09/09/2013 hÕt h¹n)	0	1	1	0	50
+Lång ®Ìn b­¬m b­ím	4	361	\spr\item\vietnam\midautumn06\lantern_yello.spr	451	1	1	<color=blue>Lång ®Ìn ngµy trung thu<color><enter>Treo lªn sÏ nhËn ®­îc ®iÓm kinh nghiÖm tïy theo ®¼ng cÊp	0	1	1	0	10
+Lång ®Ìn ng«i sao	4	362	\spr\item\vietnam\midautumn06\lantern_blue.spr	452	1	1	<color=blue>Lång ®Ìn ngµy trung thu<color><enter>Treo lªn sÏ nhËn ®­îc ®iÓm kinh nghiÖm tïy theo ®¼ng cÊp	0	1	1	0	10
+Lång ®Ìn èng	4	363	\spr\item\vietnam\midautumn06\lantern_green.spr	453	1	1	<color=blue>Lång ®Ìn ngµy trung thu<color><enter>Treo lªn sÏ nhËn ®­îc ®iÓm kinh nghiÖm tïy theo ®¼ng cÊp	0	1	1	0	10
+Lång ®Ìn trßn	4	364	\spr\item\vietnam\midautumn06\lantern_red.spr	454	1	1	<color=blue>Lång ®Ìn ngµy trung thu<color><enter>Treo lªn sÏ nhËn ®­îc ®iÓm kinh nghiÖm tïy theo ®¼ng cÊp	0	1	1	0	10
+Lång ®Ìn c¸ chĞp	4	365	\spr\item\vietnam\midautumn06\lantern_orange.spr	455	1	1	<color=blue>Lång ®Ìn ngµy trung thu<color><enter>Treo lªn sÏ nhËn ®­îc ®iÓm kinh nghiÖm tïy theo ®¼ng cÊp	0	1	1	0	10
+Lång ®Ìn kĞo qu©n	4	366	\spr\item\vietnam\midautumn06\lantern_full.spr	456	2	2	<color=red>Lång ®Ìn ®Æc biÖt ngµy trung thu<color><enter>Treo lªn sÏ nhËn ®­îc rÊt nhiÒu ®iÓm kinh nghiÖm tïy theo ®¼ng cÊp	0	1	0	0	0
+Manh tranh V©n Du 1	4	367	\spr\item\vietnam\midautumn06\yunyou_1.spr	351	1	2	Mét m¶nh tranh V©n Du mµ Hoa viªn ngo¹i t¹i L©m An ®ang t×m.	0	0	1	0	0
+Manh tranh V©n Du 2	4	368	\spr\item\vietnam\midautumn06\yunyou_2.spr	351	1	2	Mét m¶nh tranh V©n Du mµ Hoa viªn ngo¹i t¹i L©m An ®ang t×m.	0	0	1	0	0
+Manh tranh V©n Du 3	4	369	\spr\item\vietnam\midautumn06\yunyou_3.spr	351	2	1	Mét m¶nh tranh V©n Du mµ Hoa viªn ngo¹i t¹i L©m An ®ang t×m.	0	0	1	0	0
+Manh tranh V©n Du 4	4	370	\spr\item\vietnam\midautumn06\yunyou_4.spr	351	1	2	Mét m¶nh tranh V©n Du mµ Hoa viªn ngo¹i t¹i L©m An ®ang t×m.	0	0	1	0	0
+Manh tranh V©n Du 5	4	371	\spr\item\vietnam\midautumn06\yunyou_5.spr	351	1	2	Mét m¶nh tranh V©n Du mµ Hoa viªn ngo¹i t¹i L©m An ®ang t×m.	0	0	1	0	0
+Manh tranh V©n Du 6	4	372	\spr\item\vietnam\midautumn06\yunyou_6.spr	351	2	1	Mét m¶nh tranh V©n Du mµ Hoa viªn ngo¹i t¹i L©m An ®ang t×m.	0	0	1	0	0
+Manh tranh Tiªn Vò 1	4	373	\spr\item\vietnam\midautumn06\xianwu_1.spr	351	1	2	Mét m¶nh tranh Tiªn Vò mµ Qu¸ch viªn ngo¹i t¹i T­¬ng D­¬ng ®ang t×m.	0	0	1	0	0
+Manh tranh Tiªn Vò 2	4	374	\spr\item\vietnam\midautumn06\xianwu_2.spr	351	2	1	Mét m¶nh tranh Tiªn Vò mµ Qu¸ch viªn ngo¹i t¹i T­¬ng D­¬ng ®ang t×m.	0	0	1	0	0
+Manh tranh Tiªn Vò 3	4	375	\spr\item\vietnam\midautumn06\xianwu_3.spr	351	2	1	Mét m¶nh tranh Tiªn Vò mµ Qu¸ch viªn ngo¹i t¹i T­¬ng D­¬ng ®ang t×m.	0	0	1	0	0
+Manh tranh Tiªn Vò 4	4	376	\spr\item\vietnam\midautumn06\xianwu_4.spr	351	2	1	Mét m¶nh tranh Tiªn Vò mµ Qu¸ch viªn ngo¹i t¹i T­¬ng D­¬ng ®ang t×m.	0	0	1	0	0
+Manh tranh Tiªn Vò 5	4	377	\spr\item\vietnam\midautumn06\xianwu_5.spr	351	2	1	Mét m¶nh tranh Tiªn Vò mµ Qu¸ch viªn ngo¹i t¹i T­¬ng D­¬ng ®ang t×m.	0	0	1	0	0
+Manh tranh Tiªn Vò 6	4	378	\spr\item\vietnam\midautumn06\xianwu_6.spr	351	1	2	Mét m¶nh tranh Tiªn Vò mµ Qu¸ch viªn ngo¹i t¹i T­¬ng D­¬ng ®ang t×m.	0	0	1	0	0
+GiÊy KiÕng Ngò S¾c	4	379	\spr\event\trungthu\gkngusac.spr	41	1	1	N¨m mµu sÆc sì, dïng ®Ó chÕ t¹o lång ®Ìn. Lång ®Ìn sÏ s¸ng rùc rì trong ®ªm	5	0	1	0	50
+R­¬ng Nguyªn LiÖu Hçn Hîp	4	380	\spr\event\trungthu\rnlhonhop.spr	41	1	1	Bªn trong cã chøa thanh tre, d©y cãi, nÕn, giÊy kiÕng th«ng th­êng	0	0	1	0	50
+ Th«ng Thñy TiÓu Ng­ 	4	381	\spr\event\trungthu\tttieungu.spr	41	1	1	Lång ®Ìn h×nh c¸ chĞp mµu ®á, lung linh trong ®ªm	0	1	1	0	50
+Ngò S¾c Du Long	4	382	\spr\event\trungthu\nsdulong.spr	41	1	1	Lång ®Ìn h×nh rång cã n¨m mµu, rùc rì trong ®ªm	0	1	1	0	50
+Cèng NguyÖt Phï Dung	4	383	\spr\event\trungthu\cnphudung.spr	41	1	1	T¨ng 5 ®iÓm tiÒm n¨ng, ®¼ng cÊp yªu cÇu 130. Mçi ng­êi chØ ®­îc sö dông 3 c¸i	40	1	1	0	0
+Phông NguyÖt Qu¶ Dung	4	384	\spr\event\trungthu\pnquadung.spr	41	1	1	T¨ng 1 ®iÓm kü n¨ng, ®¼ng cÊp yªu cÇu 130. Mçi ng­êi chØ ®­îc sö dông 2 c¸i	60	1	1	0	0
+Ngò Hµnh Kú Th¹ch	4	385	\spr\event\nguoituyet\wuse_bingjin.spr	333	1	1	Mét lo¹i kú th¹ch quı, cã thÓ ®æi c¸c vËt phÈm hiÕm t¹i NPC Hµng Rong<enter>Sö dông nhËn ®­îc 10 ®iÓm Ngò Hµnh Kú Th¹ch	12	1	1	0	50
+Tiªn Linh Töu	4	386	\spr\item\questkey\taskobj070.spr	376	1	1	Lo¹i r­îu sau khi sö dông kinh nghiÖm kü n¨ng sÏ t¨ng gÊp ®«i trong vßng 1 giê.	20	1	0	1	0
+Hæ Cèt Töu	4	387	\spr\item\questkey\taskobj071.spr	376	1	1	Lo¹i r­îu sau khi sö dông kinh nghiÖm kü n¨ng sÏ t¨ng gÊp ®«i trong vßng 2 giê.	40	1	0	1	0
+Léc Nhung Töu	4	388	\spr\item\questkey\taskobj072.spr	376	1	1	Lo¹i r­îu sau khi sö dông kinh nghiÖm kü n¨ng sÏ t¨ng gÊp ®«i trong vßng 4 giê.	80	1	0	1	0
+Hoa Hång	4	389	\spr\event\vulan\hhvulan.spr	330	1	1	Nguyªn liÖu ®Ó lµm vßng hoa trong ngµy lÔ Vu Lan B¸o HiÕu.	5	0	1	1	50
+Hoa Cóc Tr¾ng	4	390	\spr\event\vulan\hctrang.spr	41	1	1	Nguyªn liÖu ®Ó lµm vßng hoa trong ngµy lÔ Vu Lan B¸o HiÕu.	0	0	1	0	50
+Hoa Cóc Vµng	4	391	\spr\event\vulan\hcvang.spr	41	1	1	Nguyªn liÖu ®Ó lµm vßng hoa trong ngµy lÔ Vu Lan B¸o HiÕu.	0	0	1	0	50
+Hoa Cóc Tİm	4	392	\spr\event\vulan\hctim.spr	41	1	1	Nguyªn liÖu ®Ó lµm vßng hoa trong ngµy lÔ Vu Lan B¸o HiÕu.	0	0	1	0	50
+Vßng Hoa Mµu Vµng	4	393	\spr\item\yulanpenjie\jinlianhuahuan.spr	41	2	1	Vßng hoa ®­îc sö dông trong ngµy ®¹i lÔ Vu Lan B¸o HiÕu.	0	1	1	0	50
+Vßng Hoa Mµu Xanh	4	394	\spr\item\yulanpenjie\shuilianhuahuan.spr	41	2	1	Vßng hoa ®­îc sö dông trong ngµy ®¹i lÔ Vu Lan B¸o HiÕu.	0	1	1	0	50
+Thiªn nh·n phï 	4	395	\spr\event\vulan\tlnhan.spr	41	1	1	Sö dông cã thÓ t×m vŞ trİ cña ng­êi ch¬i chØ ®Şnh.	15	1	1	0	0
+Thiªn lı truyÒn ©m	4	396	\spr\item\thienly1.spr	41	1	1	Dông cô ph¸t th«ng b¸o trªn tÇn sè toµn server, tÊt c¶ ng­êi ch¬i sÏ nh×n thÊy<enter>Tèi ®a 70 kı tù.	5	1	1	0	0
+Thiªn lı truyÒn ©m cao cÊp	4	397	\spr\item\thienly2.spr	41	1	1	Dông cô ph¸t th«ng b¸o trªn tÇn sè ®Æc biÖt, tÊt c¶ ng­êi ch¬i sÏ dÔ nh×n thÊy<enter>Tèi ®a 70 kı tù.	10	1	1	0	0
+An Bang Tinh Th¹ch H¹ng Liªn	4	398	\spr\item\questkey\obj_item_herokey2.spr	41	1	1	Sö dông sÏ nhËn ®­îc trang bŞ An Bang Tinh Th¹ch H¹ng Liªn.	500	1	1	0	0
+An Bang Cóc Th¹ch ChØ Hoµn	4	399	\spr\item\questkey\obj_item_herokey2.spr	41	1	1	Sö dông sÏ nhËn ®­îc trang bŞ An Bang Cóc Th¹ch ChØ Hoµn.	400	1	1	0	0
+An Bang §iÒm Hoµng Ngäc Béi	4	400	\spr\item\questkey\obj_item_herokey2.spr	41	1	1	Sö dông sÏ nhËn ®­îc trang bŞ An Bang §iÒm Hoµng Ngäc Béi.	300	1	1	0	0
+An Bang Kª HuyÕt Th¹ch Giíi ChØ 	4	401	\spr\item\questkey\obj_item_herokey2.spr	41	1	1	Sö dông sÏ nhËn ®­îc trang bŞ An Bang Kª HuyÕt Th¹ch Giíi ChØ.	400	1	1	0	0
+§Şnh Quèc Thanh Sa Tr­êng Sam	4	402	\spr\item\questkey\obj_item_herokey1.spr	41	1	1	Sö dông sÏ nhËn ®­îc trang bŞ §Şnh Quèc Thanh Sa Tr­êng Sam.	400	1	1	0	0
+§Şnh Quèc ¤ Sa Ph¸t Qu¸n	4	403	\spr\item\questkey\obj_item_herokey1.spr	41	1	1	Sö dông sÏ nhËn ®­îc trang bŞ §Şnh Quèc ¤ Sa Ph¸t Qu¸n.	400	1	1	0	0
+§Şnh Quèc Xİch Quyªn NhuyÔn Ngoa	4	404	\spr\item\questkey\obj_item_herokey1.spr	41	1	1	Sö dông sÏ nhËn ®­îc trang bŞ §Şnh Quèc Xİch Quyªn NhuyÔn Ngoa.	350	1	1	0	0
+§Şnh Quèc Tö §»ng Hé uyÓn	4	405	\spr\item\questkey\obj_item_herokey1.spr	41	1	1	Sö dông sÏ nhËn ®­îc trang bŞ §Şnh Quèc Tö §»ng Hé uyÓn.	350	1	1	0	0
+§Şnh Quèc Ng©n Tµm Yªu §¸i	4	406	\spr\item\questkey\obj_item_herokey1.spr	41	1	1	Sö dông sÏ nhËn ®­îc trang bŞ §Şnh Quèc Ng©n Tµm Yªu §¸i.	350	1	1	0	0
+§ãa hoa hång	4	407	\spr\event\vulan\hhvulan.spr	330	1	1	Nguyªn liÖu lµm bã hoa hång sù kiÖn Hoa Hång Ngäc N÷	1	0	1	0	50
+Nguyªn liÖu gãi hoa	4	408	\spr\item\vietnam\midautumn06\paper_red.spr	38	1	1	Nguyªn liÖu lµm bã hoa hång sù kiÖn Hoa Hång Ngäc N÷	1	0	1	0	50
+Bã hoa hång	4	409	\spr\event\hoahongngocnu\bohoanho.spr	41	1	1	Bã hoa hång nhá cã 99 c©y hoa hång	1	0	1	1	50
+Bã hoa hång ®Æc biÖt	4	410	\spr\event\hoahongngocnu\bohoalon.spr	41	1	1	Bã hoa hång ®Æc biÖt cã 999 c©y hoa hång	1	0	1	1	50
+Tói nguyªn liÖu sù kiÖn	4	411	\spr\item\luongthaocc.spr	41	1	1	Bªn trong ch­a nguyªn liÖu lµm tham gia sù kiÖn	1	0	0	0	50
+Tói hoa hång	4	412	\spr\item\questkey\obj_item_hehuan.spr	41	1	1	Bªn trong chøa rÊt nhiÒu <color=blue>§ãa hoa hång<color> ®Ó tham gia sù kiÖn<enter>Bªn trong cßn: <color=yellow>50 b«ng	1	0	1	1	0
+Tói nguyªn liÖu gãi hoa	4	413	\spr\item\questkey\obj_item_hehuan.spr	41	1	1	Bªn trong chøa rÊt nhiÒu <color=blue>Nguyªn liÖu gãi hoa<color> ®Ó tham gia sù kiÖn<enter>Bªn trong cßn: <color=yellow>50 c¸i	1	0	1	1	0
+ V©n kú binh phï 	4	414	\spr\item\script\gc_npc_03.spr	336	2	2	Sö dông sÏ biÕn thµnh mét sÜ binh vÉy cê cã thÓ gi¶m<enter>tr¹ng th¸i miÔn dŞch cho ®ång ®éi trong ph¹m vi nhÊt ®Şnh	1500000	1	1	1	0
+ Ngoan Cæ Binh Phï 	4	415	\spr\item\script\gc_npc_04.spr	336	2	2	Sö dông sÏ biÕn thµnh mét sÜ binh ®¸nh trèng cã thÓ håi phôc<enter>toµn bé kh¸ng tİnh cho ®ång ®éi trong ph¹m vi nhÊt ®Şnh.	1500000	1	1	1	0
+NghiÖt Long Xung Xa	4	416	\spr\item\script\gc_npc_02.spr	336	2	2	Khi sö dông sÏ tù ®éng c«ng ph¸ thµnh m«n ®èi ph­¬ng	1500000	1	1	1	0
+Hçn Th¹ch LiÖt	4	417	\spr\item\script\gc_npc_01.spr	336	2	2	Khi sö dông sÏ tù ®éng c«ng ph¸ thµnh m«n vµ c¸c ®èi thñ tr­íc mÆt	1500000	1	1	1	0
+Hç Trî Ng­êi Ch¬i	4	418	\spr\item\hotro.spr	341	1	1	VËt phÈm trî gióp ng­êi ch¬i game	100	1	0	0	0
+QuyÓn tËp	4	419	\spr\event\20thang11\keben.spr	41	1	1	C«ng cô ghi chĞp l¹i kinh nghiÖm sèng	0	0	1	0	50
+C©y bót	4	420	\spr\event\20thang11\maobi.spr	41	1	1	C«ng cô ghi chĞp l¹i kinh nghiÖm sèng	0	0	1	0	50
+Lä mùc	4	421	\spr\event\20thang11\moshui.spr	41	1	1	C«ng cô ghi chĞp l¹i kinh nghiÖm sèng	0	0	1	0	50
+S¸ch §¹o §øc	4	422	\spr\event\20thang11\daodeshu.spr	41	1	1	Chøa nh÷ng kiÕn thøc quı b¸u vµ cÇn thiÕt trong cuéc sèng	0	0	1	1	50
+S¸ch V¨n Häc	4	423	\spr\event\20thang11\wenxueshu.spr	41	1	1	Chøa nh÷ng kiÕn thøc quı b¸u vµ cÇn thiÕt trong cuéc sèng	0	0	1	1	50
+S¸ch To¸n Häc	4	424	\spr\event\20thang11\shuxueshu.spr	41	1	1	Chøa nh÷ng kiÕn thøc quı b¸u vµ cÇn thiÕt trong cuéc sèng	0	0	1	1	50
+Thiªn nh·n phï (kho¸)	4	425	\spr\event\vulan\tlnhan.spr	41	1	1	Sö dông cã thÓ t×m vŞ trİ cña ng­êi ch¬i chØ ®Şnh.	15	1	0	0	0
+Thiªn lı truyÒn ©m (kho¸)	4	426	\spr\item\whelk.spr	41	1	1	Dông cô ph¸t th«ng b¸o trªn tÇn sè toµn server, tÊt c¶ ng­êi ch¬i sÏ nh×n thÊy<enter>Tèi ®a 70 kı tù.	5	1	0	0	0
+Thiªn lı truyÒn ©m cao cÊp (kho¸)	4	427	\spr\item\whelk_h.spr	41	1	1	Dông cô ph¸t th«ng b¸o trªn tÇn sè ®Æc biÖt, tÊt c¶ ng­êi ch¬i sÏ dÔ nh×n thÊy<enter>Tèi ®a 70 kı tù.	10	1	0	0	0
+Cóc Hoa Th¹ch	4	428	\spr\event\abhoanmy\cuchoa.spr	41	1	1	Nguyªn liÖu n©ng cÊp trang bŞ An Bang Hoµn Mü	100	0	1	1	0
+B¨ng Th¹ch KÕt Tinh	4	429	\spr\event\abhoanmy\btkettinh.spr	41	1	1	Nguyªn liÖu n©ng cÊp trang bŞ An Bang Hoµn Mü	300	0	1	1	0
+ B¨ng Tµm T¬ 	4	430	\spr\event\abhoanmy\bangtam.spr	41	1	1	Nguyªn liÖu n©ng cÊp trang bŞ An Bang Hoµn Mü	300	0	1	1	0
+Kª HuyÕt Th¹ch	4	431	\spr\event\abhoanmy\keht.spr	41	1	1	Nguyªn liÖu n©ng cÊp trang bŞ An Bang Hoµn Mü	100	0	1	1	0
+M· N·o	4	432	\spr\event\abhoanmy\manao.spr	41	1	1	Nguyªn liÖu n©ng cÊp trang bŞ An Bang Hoµn Mü	600	0	1	1	0
+M¶nh Thiªn Th¹ch	4	433	\spr\event\abhoanmy\mtt.spr	41	1	1	Nguyªn liÖu n©ng cÊp trang bŞ An Bang Hoµn Mü	100	0	1	1	0
+§iÒn Hoµng Th¹ch	4	434	\spr\event\abhoanmy\dhthach.spr	41	1	1	Nguyªn liÖu n©ng cÊp trang bŞ An Bang Hoµn Mü	100	0	1	1	0
+ThÇn Bİ Kho¸ng Th¹ch	4	435	\spr\item\script\item_kongqueshi.spr	41	1	1	Nguyªn liÖu n©ng cÊp trang bŞ An Bang Hoµn Mü	80000	0	1	1	0
+Cµnh Mai	4	436	\spr\event\tetamlich\canhmai.spr	41	1	1	Mang ®Õn C©y Mai gi÷a thµnh T­¬ng D­¬ng ®Ó tham gia ho¹t ®éng	0	0	1	1	0
+Hoµn Mü B¶o R­¬ng	4	437	\spr\event\khantay\ruongthanbi.spr	41	1	1	Bªn trong chøa nguyªn liÖu quı hiÕm chÕ t¹o An Bang Hoµn Mü	0	1	1	1	0
+Tói §­êng	4	438	\spr\event\tetamlich\tuiduong.spr	41	1	1	Nguyªn liÖu kh«ng thÓ thiÕu ®Ó lµm møt tÕt	0	0	1	0	50
+Gõng	4	439	\spr\event\tetamlich\gung.spr	41	1	1	Nguyªn liÖu kh«ng thÓ thiÕu ®Ó lµm møt tÕt	0	0	1	0	50
+Dõa	4	440	\spr\event\tetamlich\dua.spr	41	1	1	Nguyªn liÖu kh«ng thÓ thiÕu ®Ó lµm møt tÕt	0	0	1	0	50
+ Bİ 	4	441	\spr\event\tetamlich\bi.spr	41	1	1	Nguyªn liÖu kh«ng thÓ thiÕu ®Ó lµm møt tÕt	0	0	1	0	50
+Møt Gõng	4	442	\spr\event\tetamlich\mutgung.spr	41	1	1	Lo¹i møt tÕt ®­îc nhµ nhµ sö dông khi ®Õn dŞp tÕt ®Õn	0	0	1	1	50
+ Møt Bİ 	4	443	\spr\event\tetamlich\mutbi.spr	41	1	1	Lo¹i møt tÕt ®­îc nhµ nhµ sö dông khi ®Õn dŞp tÕt ®Õn	0	0	1	1	50
+Møt Dõa	4	444	\spr\event\tetamlich\mutdua.spr	41	1	1	Lo¹i møt tÕt h¶o h¹ng ®­îc nhµ nhµ sö dông khi ®Õn dŞp tÕt ®Õn	0	0	1	1	50
+Tói C¸t T­êng	4	445	\spr\item\luongthaocc.spr	41	1	1	Bªn trong cã chøa nguyªn liÖu lµm møt tÕt	0	0	0	0	50
+Tói Tµi Léc	4	446	\spr\event\tetamlich\tuitailoc.spr	41	1	1	Bªn trong cã chøa nguyªn liÖu lµm møt tÕt h¶o h¹ng	0	0	1	0	50
+Tói Quµ Tri ¢n 1	4	447	\spr\item\luongthaocc.spr	41	1	1	Bªn trong lµ phÇn th­ëng tri ©n ng­êi ch¬i SGAME4VN	0	1	0	0	0
+Tói Quµ Tri ¢n 2	4	448	\spr\item\luongthaocc.spr	41	1	1	Bªn trong lµ phÇn th­ëng tri ©n ng­êi ch¬i SGAME4VN	0	1	0	0	0
+Tói Quµ Tri ¢n 3	4	449	\spr\item\luongthaocc.spr	41	1	1	Bªn trong lµ phÇn th­ëng tri ©n ng­êi ch¬i SGAME4VN	0	1	0	0	0
+Tói Quµ Tri ¢n 4	4	450	\spr\item\luongthaocc.spr	41	1	1	Bªn trong lµ phÇn th­ëng tri ©n ng­êi ch¬i SGAME4VN	0	1	0	0	0
+Hoa Hång	4	451	\spr\item\questkey\hoahong.spr	41	1	1	Dïng ®Ó trang trİ rÊt ®Ñp vµ l·ng m¹ng	50000	1	1	0	50
+Qu¶ Ph¸o 	4	452	\spr\item\questkey\quaphao.spr	41	1	1	Dïng ®Ó ¨n mõng c¸c yÕn tiÖc trong giang hå	50000	1	1	0	50
+Huy HiÖu 1 Sao	4	453	\spr\event\304\huyhieu1sao.spr	41	1	1	Ho¹t ®éng 30.4 SGAME4VN (HÕt H¹n 10/5/2014)	0	0	1	1	50
+Huy HiÖu 2 Sao	4	454	\spr\event\304\huyhieu2sao.spr	41	1	1	Ho¹t ®éng 30.4 SGAME4VN (HÕt H¹n 10/5/2014)	2000	0	1	1	50
+Huy HiÖu 3 Sao	4	455	\spr\event\304\huyhieu3sao.spr	41	1	1	Ho¹t ®éng 30.4 SGAME4VN (HÕt H¹n 10/5/2014)	2000	0	1	1	50
+Huy HiÖu 4 Sao	4	456	\spr\event\304\huyhieu4sao.spr	41	1	1	Sö dông sÏ nhËn ®­îc 1.000.000 ®iÓm kinh nghiÖm vµ may m¾n sÏ ®­îc 1 phÇn th­ëng ngÉu nhiªn!	0	1	1	1	50
+Hép Huy HiÖu	4	457	\spr\event\304\hophuyhieu.spr	41	1	1	Sö dông sÏ nhËn ®­îc 30 Huy HiÖu 3 Sao	20	1	1	1	0
+Huy Hiªu Sao §á	4	458	\spr\event\304\saodo.spr	41	1	1	Sö dông sÏ nhËn ®­îc 3.000.000 ®iÓm kinh nghiÖm vµ may m¾n sÏ ®­îc 1 phÇn th­ëng ngÉu nhiªn!	0	1	1	1	50
+Huy Hiªu Sao Vµng	4	459	\spr\event\304\saovang.spr	41	1	1	Sö dông sÏ nhËn ®­îc 2.000.000 ®iÓm kinh nghiÖm vµ may m¾n sÏ ®­îc 1 phÇn th­ëng ngÉu nhiªn!	0	1	1	1	50
+Huy Hiªu §¹i So¸i	4	460	\spr\event\304\huyhieudaisoai.spr	41	1	1	Sö dông sÏ nhËn ®­îc Random 4 => 6 triÖu ®iÓm kinh nghiÖm vµ may m¾n sÏ ®­îc 1 phÇn th­ëng ngÉu nhiªn hoÆc tói chiÕn th¾ng!	0	1	1	1	50
+Huy Hiªu ChiÕn C«ng	4	461	\spr\event\304\huyhieuchiencong.spr	41	1	1	Ho¹t ®éng 30.4 SGAME4VN (HÕt H¹n 10/5/2014)	5	0	1	1	50
+Tói ChiÕn Th¾ng	4	462	\spr\event\304\tuichienthang.spr	41	1	1	Ho¹t ®éng 30.4 SGAME4VN (HÕt H¹n 10/5/2014)	0	1	1	1	50
+Chïm Bãng(Tİm)	4	463	\spr\event\106\bongtim.spr	41	1	1	Ho¹t ®éng 1.6 SGAME4VN.COM (HÕt H¹n 15/6/2014)	0	0	1	1	50
+Qu¶ Bãng Xanh	4	464	\spr\event\106\bongxanh.spr	41	1	1	Ho¹t ®éng 1.6 SGAME4VN.COM (HÕt H¹n 15/6/2014)	0	0	1	1	50
+Bµi H¸t ThiÕu Nhi	4	465	\spr\event\106\300BHTN.spr	41	1	1	Ho¹t ®éng 1.6 SGAME4VN.COM (HÕt H¹n 15/6/2014)	0	0	1	1	50
+GËy Chäc Bãng	4	466	\spr\event\106\GayDacBiet.spr	41	1	1	Ho¹t ®éng 1.6 SGAME4VN.COM (HÕt H¹n 15/6/2014)	0	0	1	1	50
+TiÒn Xu	4	466	\spr\event\106\TienXu.spr	41	1	1	Ho¹t ®éng 1.6 SGAME4VN.COM (HÕt H¹n 15/6/2014)	0	0	1	1	1
+§¸ Bµo	4	467	\spr\event\106\DaBao.spr	41	1	1	Ho¹t ®éng 1.6 SGAME4VN.COM (HÕt H¹n 15/6/2014)	0	0	1	1	50

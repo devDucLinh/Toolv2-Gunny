@@ -1,0 +1,11 @@
+MISSION	SCRIPT
+1	\script\missions\khoidong\missions_server.lua
+2	\script\missions\tong_kim\missions_tongkim.lua
+3	\script\missions\vuot_ai\missions_vuotai.lua
+4	\script\quest\vuot_ai\missions1.lua
+5	\script\quest\vuot_ai\missions2.lua
+6	\script\quest\vuot_ai\missions3.lua
+7	\script\quest\vuot_ai\missions4.lua
+8	\script\missions\lien_dau\missions_liendau.lua
+9	\script\missions\tong_kim_tcap\missions_tk_tc.lua
+10	\script\missions\congthanhchien\missions_ctc.lua

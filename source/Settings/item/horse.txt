@@ -1,0 +1,111 @@
+szName	nItemGenre	nDetailType	nParticularType	szImageName	nObjIdx	nWidth	nHeight	szIntro	nSeries	nPrice	nLevel	bTrade	nTypeBasic1	Min	Max	nTypeBasic2	Min	Max	nTypeBasic3	Min	Max	nTypeBasic4	Min	Max	nTypeBasic5	Min	Max	nTypeBasic6	Min	Max	nTypeBasic7	Min	Max	nTypeReq1	Value	nTypeReq2	Value	nTypeReq3	Value	nTypeReq4	Value	nTypeReq5	Value	nTypeReq6	Max
+LiÖt Hoµng M·	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	LiÖt m·, ®¸nh thÕ nµo ch¹y còng kh«ng nhanh	0	5000	1	1	111	10%	10%	93	50	50	85	10	10	155	-10	-10										36	20										
+LiÖt Hoµng M·	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	LiÖt m·, ®¸nh thÕ nµo ch¹y còng kh«ng nhanh	0	5000	2	1	111	10%	10%	93	50	50	85	10	10	155	-10	-10										36	25										
+Hoµng M·	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	Lo¹i ngùa l«ng mµu h¬I xanh tÝa, hµnh tr×nh rÊt kÐm	0	10000	3	1	111	20%	20%	93	100	100	85	20	20	155	-20	-20										36	30										
+Hoµng M·	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	Lo¹i ngùa l«ng mµu h¬I xanh tÝa, hµnh tr×nh rÊt kÐm	0	10000	4	1	111	20%	20%	93	100	100	85	20	20	155	-20	-20										36	35										
+Hoµng Phiªu	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	Lo¹i ngùa l«ng vµng t­¬ng ®èi quý, ngµy ®I tr¨m dÆm	0	20000	5	1	111	30%	30%	93	200	200	85	50	50	155	-50	-50										36	40										
+Hoµng Phiªu	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	Lo¹i ngùa l«ng vµng t­¬ng ®èi quý, ngµy ®I tr¨m dÆm	0	20000	6	1	111	30%	30%	93	200	200	85	50	50	155	-50	-50										36	45										
+§¹i UyÔn Hoµng M·	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	Lo¹i tua61n m· hiÕm thÊy, ngh×n vµng khã mua	0	50000	7	1	111	40%	40%	93	500	500	85	100	100	155	-100	-100										36	50										
+§¹i UyÔn Hoµng M·	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	Lo¹i tua61n m· hiÕm thÊy, ngh×n vµng khã mua	0	50000	8	1	111	40%	40%	93	500	500	85	100	100	155	-100	-100										36	55										
+Phi Hoµng	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	Mét trong t¸m con danh m· cña Chu Môc V­¬ng, ngµy ®I ngh×n dÆm	0	100000	9	1	111	50%	50%	93	1000	1000	85	200	200	155	-200	-200										36	60										
+Phi Hoµng	0	10	0	\spr\item\equip\horse\horse003.spr	40	2	3	Mét trong t¸m con danh m· cña Chu Môc V­¬ng, ngµy ®I ngh×n dÆm	0	100000	10	1	111	50%	50%	93	1000	1000	85	200	200	155	-200	-200										36	72										
+LiÖt Thanh M·	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	Lo¹i ngùa h¹ ®¼ng, l«ng mµu xanh nh¹t	1	5000	1	1	111	10%	10%	93	50	50	85	5	5	155	-15	-15										36	20										
+LiÖt Thanh M·	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	Lo¹i ngùa h¹ ®¼ng, l«ng mµu xanh nh¹t	1	5000	2	1	111	10%	10%	93	50	50	85	5	5	155	-15	-15										36	25										
+Thanh Th«ng	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	Mét lo¹i ngùa l«ng tr¾ng x¸m th«ng th­êng, hµnh tr×nh rÊt kÐm	1	10000	3	1	111	20%	20%	93	100	100	85	10	10	155	-30	-30										36	30										
+Thanh Th«ng	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	Mét lo¹i ngùa l«ng tr¾ng x¸m th«ng th­êng, hµnh tr×nh rÊt kÐm	1	10000	4	1	111	20%	20%	93	100	100	85	10	10	155	-30	-30										36	35										
+Tõ Lùu	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	Lo¹i ngùa qu©n ®éi th­êng dõng, ®I xa rÊt tèt	1	5	5	1	111	30%	30%	93	200	200	85	20	20	155	-80	-80										36	40										
+Tõ Lùu	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	Lo¹i ngùa qu©n ®éi th­êng dõng, ®I xa rÊt tèt	1	20000	6	1	111	30%	30%	93	200	200	85	20	20	155	-80	-80										36	45
+§¹i UyÔn Thanh M·	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	Mét lo¹i ngùa quý, l«ng tr¾ng x¸m, m¾t nh­ ngäc	1	50000	7	1	111	40%	40%	93	500	500	85	50	50	155	-160	-160										36	50
+§¹i UyÔn Thanh M·	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	Mét lo¹i ngùa quý, l«ng tr¾ng x¸m, m¾t nh­ ngäc	1	50000	8	1	111	40%	40%	93	500	500	85	50	50	155	-160	-160										36	55
+Ho¶ Lùu	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	Mµu ®á rùc nh­ l÷a, mét trong t¸m con danh m· cña Chu Môc V­¬ng	1	100000	9	1	111	50%	50%	93	1000	1000	85	100	100	155	-320	-320										36	60
+Ho¶ Lùu	0	10	1	\spr\item\equip\horse\horse001.spr	40	2	3	Mµu ®á rùc nh­ l÷a, mét trong t¸m con danh m· cña Chu Môc V­¬ng	1	100000	10	1	111	50%	50%	93	1000	1000	85	100	100	155	-320	-320										36	72
+LiÖt B¹ch M·	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	Mét lo¹i ngùa l«ng tr¾ng, kh«ng ®¸ng gi¸	2	5000	1	1	111	20%	20%	93	50	50	85	5	5	155	-10	-10										36	20
+LiÖt B¹ch M·	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	Mét lo¹i ngùa l«ng tr¾ng, kh«ng ®¸ng gi¸	2	5000	2	1	111	20%	20%	93	50	50	85	5	5	155	-10	-10										36	25
+B¹ch M·	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	Mét lo¹i ngùa l«ng tr¾ng, ë ®©u còng thÊy	2	10000	3	1	111	30%	30%	93	100	100	85	10	10	155	-20	-20										36	30
+B¹ch M·	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	Mét lo¹i ngùa l«ng tr¾ng, ë ®©u còng thÊy	2	10000	4	1	111	30%	30%	93	100	100	85	10	10	155	-20	-20										36	35
+Ngäc Hoa Th«ng	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	TruyeÕn thuyÕt nãi ®©y lµ mét lo¹i Thiªn M·, thùc tÕ chØ lµ §¹i UyÓn M·	2	20000	5	1	111	40%	40%	93	200	200	85	20	20	155	-50	-50										36	40
+Ngäc Hoa Th«ng	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	TruyeÕn thuyÕt nãi ®©y lµ mét lo¹i Thiªn M·, thùc tÕ chØ lµ §¹i UyÓn M·	2	20000	6	1	111	40%	40%	93	200	200	85	20	20	155	-50	-50										36	45
+§¹i UyÔn B¹ch M·	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	Mét trong nh÷ng lo¹i §¹i UyÓm Danh m·, mµu tr¾ng nh­ tuyÕt, hµnh tr×nh cùc nhanh	2	50000	7	1	111	50%	50%	93	500	500	85	50	50	155	-100	-100										36	50
+§¹i UyÔn B¹ch M·	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	Mét trong nh÷ng lo¹i §¹i UyÓm Danh m·, mµu tr¾ng nh­ tuyÕt, hµnh tr×nh cùc nhanh	2	50000	8	1	111	50%	50%	93	500	500	85	50	50	155	-100	-100										36	55
+Tóc S­¬ng	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	Lo¹i Thiªn Lý M· thuÇn tuý, l«ng tr¾ng nh­ tuyÕt, thÕ gian hiÕm thÊy	2	100000	9	1	111	60%	60%	93	1000	1000	85	100	100	155	-200	-200										36	60
+Tóc S­¬ng	0	10	2	\spr\item\equip\horse\horse007.spr	40	2	3	Lo¹i Thiªn Lý M· thuÇn tuý, l«ng tr¾ng nh­ tuyÕt, thÕ gian hiÕm thÊy	2	100000	10	1	111	60%	60%	93	1000	1000	85	100	100	155	-200	-200										36	72
+LiÖt H¾c M·	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	Mét lo¹i ngùa th­êng l«ng ®ªn, gi¸ trÞ kh«ng cao	3	5000	1	1	111	10%	10%	93	50	50	85	5	5	155	-10	-10										36	20
+LiÖt H¾c M·	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	Mét lo¹i ngùa th­êng l«ng ®ªn, gi¸ trÞ kh«ng cao	3	5000	2	1	111	10%	10%	93	50	50	85	5	5	155	-10	-10										36	25
+H¾c M·	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	Lo¹i ngùa th­êng l«ng ®en, ai còng cã thÔ mua ®­îc	3	10000	3	1	111	20%	20%	93	100	100	85	10	10	155	-20	-20										36	30
+H¾c M·	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	Lo¹i ngùa th­êng l«ng ®en, ai còng cã thÔ mua ®­îc	3	10000	4	1	111	20%	20%	93	100	100	85	10	10	155	-20	-20										36	35
+H¾c Kú	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	Lo¹i ngùa chuyªn du'ng trong qu©n ®éi, c¸c chiÕn binh rÊt thÝch c÷i.	3	20000	5	1	111	30%	30%	93	200	200	85	20	20	155	-50	-50										36	40
+H¾c Kú	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	Lo¹i ngùa chuyªn du'ng trong qu©n ®éi, c¸c chiÕn binh rÊt thÝch c÷i.	3	20000	6	1	111	30%	30%	93	200	200	85	20	20	155	-50	-50										36	45
+§¹i UyÔn H¾c M·	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	Mét trong nh÷ng lo¹i §¹i UyÓn Danh M·, thÓ lùc vµ hµnh tr×nh khã loµi nµo s¸nh kÞp	3	50000	7	1	111	40%	40%	93	500	500	85	50	50	155	-100	-100										36	50
+§¹i UyÔn H¾c M·	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	Mét trong nh÷ng lo¹i §¹i UyÓn Danh M·, thÓ lùc vµ hµnh tr×nh khã loµi nµo s¸nh kÞp	3	50000	8	1	111	40%	40%	93	500	500	85	50	50	155	-100	-100										36	55
+¤ Chuú	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	Së B¸ V­¬ng tõng cìi, lµ loµi "Thiªn Lý Danh M·".	3	100000	9	1	111	50%	50%	93	1000	1000	85	100	100	155	-200	-200										36	60
+¤ Chuú	0	10	3	\spr\item\equip\horse\horse009.spr	40	2	3	Së B¸ V­¬ng tõng cìi, lµ loµi "Thiªn Lý Danh M·".	3	100000	10	1	111	50%	50%	93	1000	1000	85	100	100	155	-200	-200										36	72
+LiÖt Hång M·	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	Ngùa l«ng x¸m tÇm th­êng rÊt khã b¸n	4	5000	1	1	111	10%	10%	93	50	50	85	10	10	155	-10	-10										36	20
+LiÖt Hång M·	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	Ngùa l«ng x¸m tÇm th­êng rÊt khã b¸n	4	5000	2	1	111	10%	10%	93	50	50	85	10	10	155	-10	-10										36	25
+Hång M·	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	Mét lo¹i ngùa th­êng l«ng x¸m, chØ dïng ®Ó ®i gÇn.	4	10000	3	1	111	20%	20%	93	100	100	85	20	20	155	-20	-20										36	30
+Hång M·	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	Mét lo¹i ngùa th­êng l«ng x¸m, chØ dïng ®Ó ®i gÇn.	4	10000	4	1	111	20%	20%	93	100	100	85	20	20	155	-20	-20										36	35
+Hång Lý	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	Loai ngua trung dang nhung cuoc trinh cung co the sanh vao hang danh cau	4	20000	5	1	111	30%	30%	93	200	200	85	40	40	155	-50	-50										36	40
+Hång Lý	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	Loai ngua trung dang nhung cuoc trinh cung co the sanh vao hang danh cau	4	20000	6	1	111	30%	30%	93	200	200	85	40	40	155	-50	-50										36	45
+§¹i UyÔn Hµn HuyÕt M·	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	Lo¹i §¹i UyÓn Danh M· cùc k× quý hiÕm,ngh×n vµng khã mua	4	50000	7	1	111	40%	40%	93	500	500	85	100	100	155	-100	-100										36	50
+§¹i UyÔn Hµn HuyÕt M·	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	Lo¹i §¹i UyÓn Danh M· cùc k× quý hiÕm,ngh×n vµng khã mua	4	50000	8	1	111	40%	40%	93	500	500	85	100	100	155	-100	-100										36	55
+XÝch Kþ	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	Còng chÝnh lµ Ky Ky,mét trong t¸m con danh m· cña Chu Môc V­¬ng	4	100000	9	1	111	50%	50%	93	1000	1000	85	200	200	155	-200	-200										36	60
+XÝch Kþ	0	10	4	\spr\item\equip\horse\horse002.spr	40	2	3	Còng chÝnh lµ Ky Ky,mét trong t¸m con danh m· cña Chu Môc V­¬ng	4	100000	10	1	111	50%	50%	93	1000	1000	85	200	200	155	-200	-200										36	72
+¤ V©n §¹p TuyÕt	0	10	5	\spr\item\equip\horse\horse010.spr	40	2	3	TuyÖt thÕ Danh M·, chØ cã nh÷ng B¸c V­¬ng Gia míi cã thÓ mua	0	150	1	0	111	80%	80%	93	1000	1000	85	200	200	155	200	200										36	80
+XÝch Thè	0	10	5	\spr\item\equip\horse\horse011.spr	40	2	3	Còng ®­îc xÕp vµo h¹ng "TuyÖt thÕ Danh M·"	1	150	2	0	111	80%	80%	93	1000	1000	85	200	200	155	200	200										36	80
+TuyÖt ¶nh	0	10	5	\spr\item\equip\horse\horse005.spr	40	2	3	TuyÖt thÕ Danh M·, sung m·n ba khÝ, Tµo Th¸o ®· tõng c÷i	2	150	3	0	111	80%	80%	93	1000	1000	85	200	200	155	200	200										36	80
+§Ých L«	0	10	5	\spr\item\equip\horse\horse008.spr	40	2	3	TuyÖt thÕ Danh M·, truy phong hoµn vò, ngµy ®i ngh×n dÆm.	3	150	4	0	111	80%	80%	93	1000	1000	85	300	300	155	200	200										36	80
+ChiÕu D¹ Ngäc S­ Tö	0	10	5	\spr\item\equip\horse\horse012.spr	40	2	3	Lµ lo¹i "ThÇn C©u" cã sùc m¹nh phi th­êng, c­ìi m©y ®¹p giã.	4	300	5	0	111	100%	100%	93	1000	1000	85	300	300	155	300	300										36	80
+¤ V©n §¹p TuyÕt	0	10	5	\spr\item\equip\horse\horse010.spr	40	2	3	TuyÖt thÕ Danh M·, chØ cã nh÷ng B¸c V­¬ng Gia míi cã thÓ mua	0	150	6	1	111	80%	80%	93	1000	1000	85	200	200	155	200	200										36	80
+XÝch Thè	0	10	5	\spr\item\equip\horse\horse011.spr	40	2	3	Còng ®­îc xÕp vµo h¹ng "TuyÖt thÕ Danh M·"	1	150	7	1	111	80%	80%	93	1000	1000	85	200	200	155	200	200										36	80
+TuyÖt ¶nh	0	10	5	\spr\item\equip\horse\horse005.spr	40	2	3	TuyÖt thÕ Danh M·, sung m·n ba khÝ, Tµo Th¸o ®· tõng c÷i	2	150	8	1	111	80%	80%	93	1000	1000	85	200	200	155	200	200										36	80
+§Ých L«	0	10	5	\spr\item\equip\horse\horse008.spr	40	2	3	TuyÖt thÕ Danh M·, truy phong hoµn vò, ngµy ®i ngh×n dÆm.	3	150	9	1	111	80%	80%	93	1000	1000	85	300	300	155	200	200										36	80
+ChiÕu D¹ Ngäc S­ Tö	0	10	5	\spr\item\equip\horse\horse012.spr	40	2	3	Lµ lo¹i "ThÇn C©u" cã sùc m¹nh phi th­êng, c­ìi m©y ®¹p giã.	4	300	10	1	111	100%	100%	93	1000	1000	85	300	300	155	300	300										36	80
+B«n Tiªu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	0	100000	1	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500										36	120
+B«n Tiªu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	0	100000	2	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500										36	120
+B«n Tiªu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	0	100000	3	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500										36	120
+B«n Tiªu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	0	100000	4	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500										36	120
+B«n Tiªu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	0	100000	5	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500										36	120
+B«n Tiªu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	0	100000	6	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500										36	120
+B«n Tiªu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	0	100000	7	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500										36	120
+B«n Tiªu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	0	100000	8	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500										36	120
+B«n Tiªu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	0	100000	9	0	111	100%	100%	93	1000	1000	85	500	500	155	500	500										36	120
+B«n Tiªu	0	10	6	\spr\item\equip\horse\horse010.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	0	100000	10	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500										36	120
+Phiªn Vò	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	1	100000	1	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150
+Phiªn Vò	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	1	100000	2	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150
+Phiªn Vò	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	1	100000	3	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150
+Phiªn Vò	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	1	100000	4	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150
+Phiªn Vò	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	1	100000	5	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150
+Phiªn Vò	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	1	100000	6	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150
+Phiªn Vò	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	1	100000	7	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150
+Phiªn Vò	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	1	100000	8	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150
+Phiªn Vò	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	1	100000	9	0	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150
+Phiªn Vò	0	10	7	\spr\item\equip\horse\horse012.spr	40	2	3	Mét trong t¸m con danh c©u cña Chu Môc V­¬ng	1	100000	10	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150		
+Phi V©n	0	10	8	\spr\item\equip\horse\horse004.spr	40	2	3	Mét trong t¸m con tuÊn m· cña Chu Môc V­¬ng, c­ìi m©y ®¹p giã.	2	100000	1	1	111	100%	100%	93	1000	1000	85	400	400	155	400	400										36	100		
+Phi V©n	0	10	8	\spr\item\equip\horse\horse004.spr	40	2	3	Mét trong t¸m con tuÊn m· cña Chu Môc V­¬ng, c­ìi m©y ®¹p giã.	2	100000	2	1	111	100%	100%	93	1000	1000	85	400	400	155	400	400										36	100		
+Phi V©n	0	10	8	\spr\item\equip\horse\horse004.spr	40	2	3	Mét trong t¸m con tuÊn m· cña Chu Môc V­¬ng, c­ìi m©y ®¹p giã.	2	100000	3	1	111	100%	100%	93	1000	1000	85	400	400	155	400	400										36	100		
+Phi V©n	0	10	8	\spr\item\equip\horse\horse004.spr	40	2	3	Mét trong t¸m con tuÊn m· cña Chu Môc V­¬ng, c­ìi m©y ®¹p giã.	2	100000	4	1	111	100%	100%	93	1000	1000	85	400	400	155	400	400										36	100		
+Phi V©n	0	10	8	\spr\item\equip\horse\horse004.spr	40	2	3	Mét trong t¸m con tuÊn m· cña Chu Môc V­¬ng, c­ìi m©y ®¹p giã.	2	100000	5	1	111	100%	100%	93	1000	1000	85	400	400	155	400	400										36	100		
+Phi V©n	0	10	8	\spr\item\equip\horse\horse004.spr	40	2	3	Mét trong t¸m con tuÊn m· cña Chu Môc V­¬ng, c­ìi m©y ®¹p giã.	2	100000	6	1	111	100%	100%	93	1000	1000	85	400	400	155	400	400										36	100		
+Phi V©n	0	10	8	\spr\item\equip\horse\horse004.spr	40	2	3	Mét trong t¸m con tuÊn m· cña Chu Môc V­¬ng, c­ìi m©y ®¹p giã.	2	100000	7	1	111	100%	100%	93	1000	1000	85	400	400	155	400	400										36	100		
+Phi V©n	0	10	8	\spr\item\equip\horse\horse004.spr	40	2	3	Mét trong t¸m con tuÊn m· cña Chu Môc V­¬ng, c­ìi m©y ®¹p giã.	2	100000	8	1	111	100%	100%	93	1000	1000	85	400	400	155	400	400										36	100		
+Phi V©n	0	10	8	\spr\item\equip\horse\horse004.spr	40	2	3	Mét trong t¸m con tuÊn m· cña Chu Môc V­¬ng, c­ìi m©y ®¹p giã.	2	100000	9	0	111	100%	100%	93	1000	1000	85	400	400	155	400	400										36	100		
+Phi V©n	0	10	8	\spr\item\equip\horse\horse004.spr	40	2	3	Mét trong t¸m con tuÊn m· cña Chu Môc V­¬ng, c­ìi m©y ®¹p giã.	2	500	10	1	111	100%	100%	93	1000	1000	85	400	400	155	400	400										36	100		
+XÝch Long C©u	0	10	9	\spr\item\equip\horse\horse008.spr	40	2	3	Mét trong nh÷ng thÇn m· ®i m©y vÒ giã	3	100000	1	1	111	100%	100%	93	1200	1200	85	700	700	155	700	700	114	10	10							36	130	46	1
+XÝch Long C©u	0	10	9	\spr\item\equip\horse\horse008.spr	40	2	3	Mét trong nh÷ng thÇn m· ®i m©y vÒ giã	3	100000	2	1	111	100%	100%	93	1200	1200	85	700	700	155	700	700	114	10	10							36	130	46	1
+XÝch Long C©u	0	10	9	\spr\item\equip\horse\horse008.spr	40	2	3	Mét trong nh÷ng thÇn m· ®i m©y vÒ giã	3	100000	3	1	111	100%	100%	93	1200	1200	85	700	700	155	700	700	114	10	10							36	130	46	1
+XÝch Long C©u	0	10	9	\spr\item\equip\horse\horse008.spr	40	2	3	Mét trong nh÷ng thÇn m· ®i m©y vÒ giã	3	100000	4	1	111	100%	100%	93	1200	1200	85	700	700	155	700	700	114	10	10							36	130	46	1
+XÝch Long C©u	0	10	9	\spr\item\equip\horse\horse008.spr	40	2	3	Mét trong nh÷ng thÇn m· ®i m©y vÒ giã	3	100000	5	1	111	100%	100%	93	1200	1200	85	700	700	155	700	700	114	10	10							36	130	46	1
+XÝch Long C©u	0	10	9	\spr\item\equip\horse\horse008.spr	40	2	3	Mét trong nh÷ng thÇn m· ®i m©y vÒ giã	3	100000	6	1	111	100%	100%	93	1200	1200	85	700	700	155	700	700	114	10	10							36	130	46	1
+XÝch Long C©u	0	10	9	\spr\item\equip\horse\horse008.spr	40	2	3	Mét trong nh÷ng thÇn m· ®i m©y vÒ giã	3	100000	7	1	111	100%	100%	93	1200	1200	85	700	700	155	700	700	114	10	10							36	130	46	1
+XÝch Long C©u	0	10	9	\spr\item\equip\horse\horse008.spr	40	2	3	Mét trong nh÷ng thÇn m· ®i m©y vÒ giã	3	100000	8	1	111	100%	100%	93	1200	1200	85	700	700	155	700	700	114	10	10							36	130	46	1
+XÝch Long C©u	0	10	9	\spr\item\equip\horse\horse008.spr	40	2	3	Mét trong nh÷ng thÇn m· ®i m©y vÒ giã	3	100000	9	1	111	100%	100%	93	1200	1200	85	700	700	155	700	700	114	10	10							36	130	46	1
+XÝch Long C©u	0	10	9	\spr\item\equip\horse\horse008.spr	40	2	3	Mét trong nh÷ng thÇn m· ®i m©y vÒ giã	3	100000	10	1	111	100%	100%	93	1200	1200	85	700	700	155	700	700	114	10	10							36	130	46	1
+TuyÖt §Þa	0	10	10	\spr\item\equip\horse\horse009.spr	40	2	3	Mét trong b¸t tuÊn cña Chu Môc V­¬ng, ch©n kh«ng ch¹m ®Êt.	4	100000	1	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150		
+TuyÖt §Þa	0	10	10	\spr\item\equip\horse\horse009.spr	40	2	3	Mét trong b¸t tuÊn cña Chu Môc V­¬ng, ch©n kh«ng ch¹m ®Êt.	4	100000	2	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150		
+TuyÖt §Þa	0	10	10	\spr\item\equip\horse\horse009.spr	40	2	3	Mét trong b¸t tuÊn cña Chu Môc V­¬ng, ch©n kh«ng ch¹m ®Êt.	4	100000	3	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150		
+TuyÖt §Þa	0	10	10	\spr\item\equip\horse\horse009.spr	40	2	3	Mét trong b¸t tuÊn cña Chu Môc V­¬ng, ch©n kh«ng ch¹m ®Êt.	4	100000	4	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150		
+TuyÖt §Þa	0	10	10	\spr\item\equip\horse\horse009.spr	40	2	3	Mét trong b¸t tuÊn cña Chu Môc V­¬ng, ch©n kh«ng ch¹m ®Êt.	4	100000	5	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150		
+TuyÖt §Þa	0	10	10	\spr\item\equip\horse\horse009.spr	40	2	3	Mét trong b¸t tuÊn cña Chu Môc V­¬ng, ch©n kh«ng ch¹m ®Êt.	4	100000	6	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150		
+TuyÖt §Þa	0	10	10	\spr\item\equip\horse\horse009.spr	40	2	3	Mét trong b¸t tuÊn cña Chu Môc V­¬ng, ch©n kh«ng ch¹m ®Êt.	4	100000	7	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150		
+TuyÖt §Þa	0	10	10	\spr\item\equip\horse\horse009.spr	40	2	3	Mét trong b¸t tuÊn cña Chu Môc V­¬ng, ch©n kh«ng ch¹m ®Êt.	4	100000	8	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150		
+TuyÖt §Þa	0	10	10	\spr\item\equip\horse\horse009.spr	40	2	3	Mét trong b¸t tuÊn cña Chu Môc V­¬ng, ch©n kh«ng ch¹m ®Êt.	4	100000	9	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150		
+TuyÖt §Þa	0	10	10	\spr\item\equip\horse\horse009.spr	40	2	3	Mét trong b¸t tuÊn cña Chu Môc V­¬ng, ch©n kh«ng ch¹m ®Êt.	4	100000	10	1	111	100%	100%	93	1000	1000	85	500	500	155	500	500	114	10	10							36	150		
